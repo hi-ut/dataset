@@ -54818,5 +54818,6 @@
             }
         }
     ],
-    "vhint": "use-thumb"
+    "vhint": "use-thumb",
+    "within": "https://hi-ut.github.io/dataset/iiif/collection/nishikie.json"
 }

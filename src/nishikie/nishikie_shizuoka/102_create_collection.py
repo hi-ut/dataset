@@ -55,7 +55,8 @@ collection = {
     "@type": "sc:Collection",
     "manifests": manifests,
     "label": label,
-    "vhint": "use-thumb"
+    "vhint": "use-thumb",
+    "within": prefix0 + "/iiif/collection/nishikie.json"
 }
 
 f_path = collection["@id"].replace(prefix0, static_dir)

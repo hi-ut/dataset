@@ -21,7 +21,7 @@ dirname = "nishikie_yokohama"
 label = "東京大学史料編纂所・錦絵データベース（横浜開港資料館）"
 
 prefix0 = "https://hi-ut.github.io/dataset"
-static_dir = "../.././docs"
+static_dir = "../../../docs"
 
 files = glob.glob(static_dir+"/iiif/{}*/manifest.json".format(dirname))
 
@@ -55,7 +55,8 @@ collection = {
     "@type": "sc:Collection",
     "manifests": manifests,
     "label": label,
-    "vhint": "use-thumb"
+    "vhint": "use-thumb",
+    "within": prefix0 + "/iiif/collection/nishikie.json"
 }
 
 f_path = collection["@id"].replace(prefix0, static_dir)
