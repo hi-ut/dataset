@@ -27,7 +27,7 @@ for file in files:
 
     items = df["collections"] if "collections" in df else df["manifests"]
 
-    fields = ["Title"]
+    fields = ["Title", "Link"]
 
     data = []
 
@@ -35,7 +35,8 @@ for file in files:
         
 
         map = {
-            fields[0] : [item["label"]]
+            fields[0] : [item["label"]],
+            fields[1] : ["https://hi-viewer.web.app/mirador/?manifest="+item["@id"]]
         }
 
         metadata = item["metadata"] if "metadata" in item else []
