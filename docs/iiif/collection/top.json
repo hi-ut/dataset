@@ -3,6 +3,7 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/collection/top.json",
     "@type": "sc:Collection",
     "label": "東京大学史料編纂所・IIIFコレクション",
+    "description": "東京大学史料編纂所が公開するIIIFコレクション（の一部）です。",
     "collections": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/collection/nishikie.json",
