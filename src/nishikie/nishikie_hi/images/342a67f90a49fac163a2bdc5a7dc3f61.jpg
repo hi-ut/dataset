@@ -1,0 +1,164 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+<title>東京大学史料編纂所</title>
+<link href="/css/style2.css" rel="stylesheet" type="text/css" charset='utf-8'>
+<script language="JavaScript" src="./fileList.js" type="text/javascript" charset='utf-8'></script>
+<script language="JavaScript" src="/scripts/mm.js" type="text/javascript" charset='utf-8'></script>
+<script language="JavaScript" src="/scripts/mainscript.js" type="text/javascript" charset='utf-8'></script>
+</head>
+
+<body oncontextmenu="return false;" onLoad="InitialProcess();addAction('image');addActionThumbWindow('ThumbWindowTitleBar');addActionThumbWindowLength('ThumbWindowLengthTitleBar');MM_preloadImages('/images/menu2/navi_r2_c2_f2.png','/images/menu2/navi_r2_c4_f2.png','/images/menu2/navi_r2_c5_f2.png','/images/menu2/navi_r2_c6_f2.png','/images/menu2/navi_r2_c7_f2.png','/images/menu2/navi_r2_c9_f2.png','/images/menu2/navi_r2_c11_f2.png','/images/menu2/navi_r2_c13_f2.png','/images/menu2/navi_r2_c15_f2.png','/images/menu2/navi_r2_c17_f2.png','/images/menu2/navi_r2_c19_f2.png','/images/menu2/navi_r2_c21_f2.png','/images/menu2/navi_r2_c23_f2.png','/images/menu2/navi_r2_c25_f2.png','/images/menu2/navi_r2_c26_f2.png','/images/menu2/navi_r2_c27_f2.png','/images/menu2/navi_r2_c28_f2.png');">
+<div id="mainScreen"> 
+  <div id="imageScreen" > 
+<img src="/images/loading.gif" onMouseOut="changeCursor(0,'imageScreen');" onMouseOver="changeCursor(1,'imageScreen');" onMouseDown="changeCursor(2,'imageScreen');return false;" onError="src='/images/loaderror.gif';" alt="" name="image" id="image" STYLE="position:absolute;filter:progid:DXImageTransform.Microsoft.BasicImage(Rotation=0)" border="0"/> 
+  </div>
+</div>
+<div id="ThumbScreen"> 
+<!-- サムネイル横 -->
+  <div id="ThumbWindow"> 
+    <div id="ThumbWindowTitleBar" onMouseOut="changeCursor(0,'ThumbWindow');" onMouseOver="changeCursor(1,'ThumbWindow');"> 
+    </div>
+    <div id="ThumbWindowTitleBarClose" ><a href="#"><img src="/images/menu2/spacer.gif" height="27" width="25" onMouseDown="unvisible('ThumbWindow');return false" border="0"></a></div>
+    <div id="ThumbWindowImages"> 
+      <table border="0" cellpadding="0" cellspacing="6">
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbBorder1"><span id="ThumbBlock1"><a href="#"><img src="/images/thumbwin/spacer.gif" name="Thumb1" border="0" class="ThumbImage" id="Thumb1" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[1];setImage();"></a></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="100" class="thumbBlock" id="ThumbBorder2"><span id="ThumbBlock2"><a href="#"><img src="/images/thumbwin/spacer.gif" name="Thumb2" border="0" class="ThumbImage" id="Thumb2" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[2];setImage();"></a></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="100" class="thumbBlock" id="ThumbBorder3"><span id="ThumbBlock3"><a href="#"><img src="/images/thumbwin/spacer.gif" name="Thumb3" border="0" class="ThumbImage" id="Thumb3" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[3];setImage();"></a></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="100" class="thumbBlock" id="ThumbBorder4"><span id="ThumbBlock4"><a href="#"><img src="/images/thumbwin/spacer.gif" name="Thumb4" border="0" class="ThumbImage" id="Thumb4" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[4];setImage();"></a></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="100" class="thumbBlock" id="ThumbBorder5"><span id="ThumbBlock5"><a href="#"><img src="/images/thumbwin/spacer.gif" name="Thumb5" border="0" class="ThumbImage" id="Thumb5" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[5];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="10"><span id="ThumbName1" class="ThumbName"></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="10"><span id="ThumbName2" class="ThumbName"></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="10"><span id="ThumbName3" class="ThumbName"></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="10"><span id="ThumbName4" class="ThumbName"></span></td>
+		  <td><img src="/images/menu2/spacer.gif" width="38" height="1"></td>
+          <td width="100" height="10"><span id="ThumbName5" class="ThumbName"></span></td>
+        </tr>
+      </table>
+    </div>
+    <div id="ThumbWindowSubMenu"> 
+      <table width="752" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="678" align="right"><span id="thumbMessage"></span></td>
+          <td width="37"><a href="#"><img src="/images/thumbwin/thumb_prevbutton1.png" alt="前ページ" width="37" height="27" border="0" onMouseDown="setThumbImage(-1);return false"></a></td>
+          <td width="37"><a href="#"><img src="/images/thumbwin/thumb_nextbutton1.png" alt="次ページ" width="37" height="27" border="0" onMouseDown="setThumbImage(1);return false"></a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+<!-- サムネイル縦 -->
+  <div id="ThumbWindowLength"> 
+    <div id="ThumbWindowLengthTitleBar" onMouseOut="changeCursor(0,'ThumbWindowLength');" onMouseOver="changeCursor(1,'ThumbWindowLength');"> 
+    </div>
+    <div id="ThumbWindowLengthTitleBarClose" ><a href="#"><img src="/images/menu2/spacer.gif" height="27" width="25" onMouseDown="unvisible('ThumbWindowLength');return false" border="0"></a></div>
+    <div id="ThumbWindowLengthImages"> 
+      <table border="0" cellpadding="0" cellspacing="6">
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbLengthBorder1"><span id="ThumbLengthBlock1"><a href="#"><img src="/images/thumbwin/spacer.gif" name="ThumbLength1" border="0" class="ThumbImage" id="ThumbLength1" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[1];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="25" valign="top"><span id="ThumbLengthName1" class="ThumbName"></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbLengthBorder2"><span id="ThumbLengthBlock2"><a href="#"><img src="/images/thumbwin/spacer.gif" name="ThumbLength2" border="0" class="ThumbImage" id="ThumbLength2" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[2];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="25" valign="top"><span id="ThumbLengthName2" class="ThumbName"></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbLengthBorder3"><span id="ThumbLengthBlock3"><a href="#"><img src="/images/thumbwin/spacer.gif" name="ThumbLength3" border="0" class="ThumbImage" id="ThumbLength3" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[3];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="25" valign="top"><span id="ThumbLengthName3" class="ThumbName"></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbLengthBorder4"><span id="ThumbLengthBlock4"><a href="#"><img src="/images/thumbwin/spacer.gif" name="ThumbLength4" border="0" class="ThumbImage" id="ThumbLength4" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[4];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="25" valign="top"><span id="ThumbLengthName4" class="ThumbName"></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="100" class="thumbBlock" id="ThumbLengthBorder5"><span id="ThumbLengthBlock5"><a href="#"><img src="/images/thumbwin/spacer.gif" name="ThumbLength5" border="0" class="ThumbImage" id="ThumbLength5" onError="src='/images/thumbloaderror.gif';" onMouseDown="imageNumber=thumbTargetImageNo[5];setImage();"></a></span></td>
+        </tr>
+        <tr align="center" valign="middle"> 
+          <td width="100" height="25" valign="top"><span id="ThumbLengthName5" class="ThumbName"></span></td>
+        </tr>
+      </table>
+    </div>
+    <div id="ThumbWindowLengthSubMenu"> 
+      <table width="138" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="64" height="27" align="center"><span id="thumbMessageLength"></span></td>
+          <td width="37"><a href="#"><img src="/images/thumbwin/thumb_prevbutton1.png" alt="前ページ" width="37" height="27" border="0" onMouseDown="setThumbImage(-1);return false"></a></td>
+          <td width="37"><a href="#"><img src="/images/thumbwin/thumb_nextbutton1.png" alt="次ページ" width="37" height="27" border="0" onMouseDown="setThumbImage(1);return false"></a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+<!-- メニュー -->
+<div id="MenuTop"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr><td><img src="/images/menu/spacer.gif" width="0" height="4"></td>
+	</tr>
+    <tr>
+      <td align="left">
+      <td width="1"><img name="logo" src="/images/logo.gif" border="0" alt="" onError="src='/images/thumbwin/spacer.gif';"></td>
+        <td>
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td><a href="#"><img src="/images/menu2/navi_r2_c2.png" alt="最初の画像へ" name="navi_r2_c2" width="30" height="29" border="0" id="navi_r2_c2" onMouseOver="MM_swapImage('navi_r2_c2','','/images/menu2/navi_r2_c2.png',1)" onMouseDown="MM_swapImage('navi_r2_c2','','/images/menu2/navi_r2_c2_f2.png',1);firstImage();" onMouseUp="MM_swapImage('navi_r2_c2','','/images/menu2/navi_r2_c2.png',1)"  onMouseOut="MM_swapImage('navi_r2_c2','','/images/menu2/navi_r2_c2.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c3.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c4.png" alt="５つ前の画像へ" name="navi_r2_c4" width="38" height="29" border="0" id="navi_r2_c4" onMouseOver="MM_swapImage('navi_r2_c4','','/images/menu2/navi_r2_c4.png',1)" onMouseDown="MM_swapImage('navi_r2_c4','','/images/menu2/navi_r2_c4_f2.png',1);previousImage(5);" onMouseUp="MM_swapImage('navi_r2_c4','','/images/menu2/navi_r2_c4.png',1)"  onMouseOut="MM_swapImage('navi_r2_c4','','/images/menu2/navi_r2_c4.png',1)"></a></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c5.png" alt="前の画像へ" name="navi_r2_c5" width="37" height="29" border="0" id="navi_r2_c5" onMouseOver="MM_swapImage('navi_r2_c5','','/images/menu2/navi_r2_c5.png',1)" onMouseDown="MM_swapImage('navi_r2_c5','','/images/menu2/navi_r2_c5_f2.png',1);previousImage(1);" onMouseUp="MM_swapImage('navi_r2_c5','','/images/menu2/navi_r2_c5.png',1)"  onMouseOut="MM_swapImage('navi_r2_c5','','/images/menu2/navi_r2_c5.png',1)"></a></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c6.png" alt="次の画像へ" name="navi_r2_c6" width="38" height="29" border="0" id="navi_r2_c6" onMouseOver="MM_swapImage('navi_r2_c6','','/images/menu2/navi_r2_c6.png',1)" onMouseDown="MM_swapImage('navi_r2_c6','','/images/menu2/navi_r2_c6_f2.png',1);nextImage(1);" onMouseUp="MM_swapImage('navi_r2_c6','','/images/menu2/navi_r2_c6.png',1)"  onMouseOut="MM_swapImage('navi_r2_c6','','/images/menu2/navi_r2_c6.png',1)"></a></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c7.png" alt="５つ先の画像へ" name="navi_r2_c7" width="39" height="29" border="0" id="navi_r2_c7" onMouseOver="MM_swapImage('navi_r2_c7','','/images/menu2/navi_r2_c7.png',1)" onMouseDown="MM_swapImage('navi_r2_c7','','/images/menu2/navi_r2_c7_f2.png',1);nextImage(5);" onMouseUp="MM_swapImage('navi_r2_c7','','/images/menu2/navi_r2_c7.png',1)"  onMouseOut="MM_swapImage('navi_r2_c7','','/images/menu2/navi_r2_c7.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c8.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c9.png" alt="最後の画像へ" name="navi_r2_c9" width="31" height="29" border="0" id="navi_r2_c9" onMouseOver="MM_swapImage('navi_r2_c9','','/images/menu2/navi_r2_c9.png',1)" onMouseDown="MM_swapImage('navi_r2_c9','','/images/menu2/navi_r2_c9_f2.png',1);lastImage();" onMouseUp="MM_swapImage('navi_r2_c9','','/images/menu2/navi_r2_c9.png',1)"  onMouseOut="MM_swapImage('navi_r2_c9','','/images/menu2/navi_r2_c9.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c10.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c11.png" alt="左回転" name="navi_r2_c11" width="27" height="29" border="0" id="navi_r2_c11" onMouseOver="MM_swapImage('navi_r2_c11','','/images/menu2/navi_r2_c11.png',1)" onMouseDown="MM_swapImage('navi_r2_c11','','/images/menu2/navi_r2_c11_f2.png',1);imageRotate('left');" onMouseUp="MM_swapImage('navi_r2_c11','','/images/menu2/navi_r2_c11.png',1)"  onMouseOut="MM_swapImage('navi_r2_c11','','/images/menu2/navi_r2_c11.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c12.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c13.png" alt="右回転" name="navi_r2_c13" width="27" height="29" border="0" id="navi_r2_c13" onMouseOver="MM_swapImage('navi_r2_c13','','/images/menu2/navi_r2_c13.png',1)" onMouseDown="MM_swapImage('navi_r2_c13','','/images/menu2/navi_r2_c13_f2.png',1);imageRotate('right');" onMouseUp="MM_swapImage('navi_r2_c13','','/images/menu2/navi_r2_c13.png',1)"  onMouseOut="MM_swapImage('navi_r2_c13','','/images/menu2/navi_r2_c13.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c14.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c15.png" alt="拡大" name="navi_r2_c15" width="27" height="29" border="0" id="navi_r2_c15" onMouseOver="MM_swapImage('navi_r2_c15','','/images/menu2/navi_r2_c15.png',1)" onMouseDown="MM_swapImage('navi_r2_c15','','/images/menu2/navi_r2_c15_f2.png',1);resizeImage('up');" onMouseUp="MM_swapImage('navi_r2_c15','','/images/menu2/navi_r2_c15.png',1)"  onMouseOut="MM_swapImage('navi_r2_c15','','/images/menu2/navi_r2_c15.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c16.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c17.png" alt="縮小" name="navi_r2_c17" width="27" height="29" border="0" id="navi_r2_c17" onMouseOver="MM_swapImage('navi_r2_c17','','/images/menu2/navi_r2_c17.png',1)" onMouseDown="MM_swapImage('navi_r2_c17','','/images/menu2/navi_r2_c17_f2.png',1);resizeImage('down');" onMouseUp="MM_swapImage('navi_r2_c17','','/images/menu2/navi_r2_c17.png',1)"  onMouseOut="MM_swapImage('navi_r2_c17','','/images/menu2/navi_r2_c17.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c18.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c19.png" alt="原寸表示" name="navi_r2_c19" width="31" height="29" border="0" id="menu_r1_c12" onMouseOver="MM_swapImage('navi_r2_c19','','/images/menu2/navi_r2_c19.png',1)" onMouseDown="MM_swapImage('navi_r2_c19','','/images/menu2/navi_r2_c19_f2.png',1);resizeImage('full');" onMouseUp="MM_swapImage('navi_r2_c19','','/images/menu2/navi_r2_c19.png',1)"  onMouseOut="MM_swapImage('navi_r2_c19','','/images/menu2/navi_r2_c19.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c20.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c21.png" alt="横反転" name="fliph" width="31" height="29" border="0" id="fliph" onMouseOver="MM_swapImage('fliph','','/images/menu2/navi_r2_c21.png',1)" onMouseDown="MM_swapImage('fliph','','/images/menu2/navi_r2_c21_f2.png',1);imageFliph();" onMouseUp="MM_swapImage('fliph','','/images/menu2/navi_r2_c21.png',1)"  onMouseOut="MM_swapImage('fliph','','/images/menu2/navi_r2_c21.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c22.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_c23.png" alt="縦反転" name="flipv" width="31" height="29" border="0" id="flipv" onMouseOver="MM_swapImage('flipv','','/images/menu2/navi_r2_c23.png',1)" onMouseDown="MM_swapImage('flipv','','/images/menu2/navi_r2_c23_f2.png',1);imageFlipv();"  onMouseUp="MM_swapImage('flipv','','/images/menu2/navi_r2_c23.png',1)"  onMouseOut="MM_swapImage('flipv','','/images/menu2/navi_r2_c23.png',1)"></a></td>
+			<td><img src="/images/menu2/navi_r2_c22.png"></td>
+            <td><a href="#"><img src="/images/menu2/navi_r2_print_b.png" alt="印刷" name="print" width="31" height="29" border="0" id="print" onMouseOver="MM_swapImage('print','','/images/menu2/navi_r2_print_b.png',1)" onMouseDown="MM_swapImage('print','','/images/menu2/navi_r2_print_f2_b.png',1);PrintPreview();"  onMouseUp="MM_swapImage('print','','/images/menu2/navi_r2_print_b.png',1)"  onMouseOut="MM_swapImage('print','','/images/menu2/navi_r2_print_b.png',1)"></a></td>
+            <td align="left">　
+              <input name="menuImageNumber" type="text" id="menuImageNumber" size="4" maxlength="4">
+              / 
+              <input name="menuImageMaxNumber" type="text" id="menuImageMaxNumber" size="4" maxlength="4" onFocus="this.blur();"> 
+              <input type="submit" name="menuImageNumberViewSubmit" id="menuImageNumberViewSubmit" value="表示" onClick="imageNumber=menuImageNumber.value-0;setImage();"> 
+            </td>
+            <td><div class="menuFileName"><span id="MenuFileName"></span></div></td>
+          </tr>
+        </table></td>
+      <td align="right"><a href="#"><img src="/images/menu2/navi_r2_c25.png" width="49" height="29" border="0" name="navi_r2_c25" id="navi_r2_c25" onMouseOver="MM_swapImage('navi_r2_c25','','/images/menu2/navi_r2_c25.png',1)" onMouseDown="MM_swapImage('navi_r2_c25','','/images/menu2/navi_r2_c25_f2.png',1);clickThumbViewClose();" onMouseUp="MM_swapImage('navi_r2_c25','','/images/menu2/navi_r2_c25.png',1)"  onMouseOut="MM_swapImage('navi_r2_c25','','/images/menu2/navi_r2_c25.png',1)"></a><a href="#"><img src="/images/menu2/navi_r2_c26.png" width="50" height="29" border="0" name="navi_r2_c26" id="navi_r2_c26" onMouseDown="MM_swapImage('navi_r2_c26','','/images/menu2/navi_r2_c26_f2.png',1);clickThumbViewLength();" onMouseUp="MM_swapImage('navi_r2_c26','','/images/menu2/navi_r2_c26.png',1)"  onMouseOut="MM_swapImage('navi_r2_c26','','/images/menu2/navi_r2_c26.png',1)"></a><a href="#"><img src="/images/menu2/navi_r2_c27.png" width="51" height="29" border="0" name="navi_r2_c27" id="navi_r2_c27" onMouseDown="MM_swapImage('navi_r2_c27','','/images/menu2/navi_r2_c27_f2.png',1);clickThumbView();" onMouseUp="MM_swapImage('navi_r2_c27','','/images/menu2/navi_r2_c27.png',1)"  onMouseOut="MM_swapImage('navi_r2_c27','','/images/menu2/navi_r2_c27.png',1)"></a><a href="#"><img src="/images/menu2/navi_r2_c28.png" width="13" height="29" border="0" onMouseDown="moveMenu();return false"></a></td>
+    </tr>
+  </table>
+</div>
+<!-- 印刷専用 -->
+<div id="printMainScreen">
+<div id="printScreen"></div>
+</div>
+</body>
+</html>

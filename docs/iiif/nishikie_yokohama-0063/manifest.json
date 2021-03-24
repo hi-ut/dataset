@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0063/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "伊勢御遷宮参詣群集之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "伊勢御遷宮参詣群集之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-015-00"
+        },
+        {
+            "label": "画工名",
+            "value": "玉蘭斎貞秀画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "嘉永２年(18490550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山口屋藤兵衛"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "吉村/衣笠"
+        },
+        {
+            "label": "国名",
+            "value": "伊勢"
+        },
+        {
+            "label": "地名",
+            "value": "二見ヶ浦/朝熊嶽"
+        },
+        {
+            "label": "人名",
+            "value": "お杉/お玉"
+        },
+        {
+            "label": "主題",
+            "value": "文明開化／神道"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "伊勢遷宮/外宮/内宮/五十鈴川/伊勢参り/伊勢神宮/万金丹/間の山/天の岩戸/御もすそ川"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-24。嘉永2年9月正遷宮、佐藤悟「名主双印考」では、吉村・衣笠は2月と5月の両度の担当"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0063/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0223/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（唐土二十四孝もうそう）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（唐土二十四孝もうそう）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-134-16"
+        },
+        {
+            "label": "画工名",
+            "value": "玉蘭貞秀画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "江戸期(00000000000)"
+        },
+        {
+            "label": "版元名",
+            "value": "（上州屋金蔵）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "猛宗"
+        },
+        {
+            "label": "主題",
+            "value": "教育／孝行・善行"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "唐土二十四孝/竹の子/猛宗竹"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-663。詞書あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0223/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

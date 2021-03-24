@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0558/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当世自筆鏡御厨喜三太",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当世自筆鏡御厨喜三太"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-13-(24)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久元年１０月(18610100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "魚屋栄吉"
+        },
+        {
+            "label": "彫師",
+            "value": "彫竹"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "酉十改"
+        },
+        {
+            "label": "人名",
+            "value": "中村芝翫/御厨喜三太"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「弟の名も恥かしき小菊哉」芝翫、文久元年9月、市村座にて「鬼一法眼三略巻」、芝翫久々にて当座に出勤、御目見狂言"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0558/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0349/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "各国旗章大略万国人物揃",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "各国旗章大略万国人物揃"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-04-098-00"
+        },
+        {
+            "label": "画工名",
+            "value": "錦朝楼孟斎芳虎画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２０年以前(18870550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "伊勢屋喜三郎（伊勢喜）"
+        },
+        {
+            "label": "版元住所",
+            "value": "南伝馬二"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "イギリス/アメリカ/トルコ/ブラジル/支那/プロシア/トリポリ/コロンビア/リベリア/アフリカ/デンマーク/インド/オランダ/ギリシア/イタリア/フランス/ベルギー/スイス/オーストリア/ポルトガル/スペイン"
+        },
+        {
+            "label": "主題",
+            "value": "国際関係"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-784。3枚続の残欠"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0349/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

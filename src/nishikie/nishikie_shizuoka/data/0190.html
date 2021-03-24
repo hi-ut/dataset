@@ -1,0 +1,185 @@
+<html><head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="text/css" http-equiv="content-Style-Type"/>
+<meta content="text/javascript" http-equiv="content-Script-Type"/>
+<link href="CSS/style.css?20201127" rel="stylesheet" type="text/css"/>
+<link href="CSS/lib/jquery-ui-1.10.4.custom.css?20201127" rel="stylesheet" type="text/css"/>
+<link href="CSS/lib/iThing.css?20201127" rel="stylesheet" type="text/css"/>
+<title>錦絵データベース【検索結果詳細画面】</title>
+<script src="JS/ships.js?20201127" type="text/javascript"></script>
+<script src="JS/shipsMap.js?20201127" type="text/javascript"></script>
+<script src="JS/shipsImage.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/OpenLayers.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jquery-1.10.2.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jquery-ui-1.10.4.custom.min.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/jQRangeSlider-withRuler-min.js?20201127" type="text/javascript"></script>
+<script src="JS/lib/geolib.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.map.define.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.map.js?20201127" type="text/javascript"></script>
+<script src="JS/ships.common.js?20201127" type="text/javascript"></script>
+</head>
+<body style=""><div id="container"><div id="primary">
+<form action="/ships/shipscontroller" method="post" name="form01">
+<div class="chuki" id="popup"></div>
+<input name="session" type="hidden" value="19216825203785981D076397ED0B1CD28263109AB646"/>
+<input name="screen" type="hidden" value="disp"/>
+<input name="hitsno" type="hidden" value=""/>
+<input name="hitsmax" type="hidden" value=""/>
+<input name="cfname" type="hidden" value="W18/18.ctl"/>
+<input name="pfid" type="hidden" value="disp01"/>
+<input name="mgno" type="hidden" value="18000952"/>
+<input name="listptn" type="hidden" value=""/>
+<input name="hcnt" type="hidden" value="1"/>
+<input name="lmax" type="hidden" value="20"/>
+<input name="url" type="hidden" value=""/>
+<input name="kanrenflg" type="hidden" value=""/>
+<input name="kanrenkey" type="hidden" value=""/>
+<input name="kanrendispSql" type="hidden" value=""/>
+<input name="srchlist" type="hidden" value=""/>
+<input name="maxsatu" type="hidden" value=""/>
+<input name="nowsatu" type="hidden" value=""/>
+<input name="maxrec" type="hidden" value="2918"/>
+<input name="nowrec" type="hidden" value="190"/>
+<input name="nowpage" type="hidden" value="10"/>
+<input name="hitspage" type="hidden" value="0"/>
+<input name="listmax" type="hidden" value=""/>
+<input name="refflg" type="hidden" value=""/>
+<input name="genteikywd" type="hidden" value=""/>
+<input name="srchtaisho" type="hidden" value=""/>
+<input name="stflg" type="hidden" value="0"/>
+<input name="another" type="hidden" value=""/>
+<input name="sortkey" type="hidden" value=" ORDER BY TO_CHAR(MGNO)"/>
+<table class="main">
+<tbody><tr><td>
+<table class="header_table"><tbody><tr>
+<td class="header"><table class="menu_table"><tbody><tr><td class="menu_bg">錦絵データベース      </td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('index')" onclick="return jsCheckClick();">DB選択</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('normal')" onclick="return jsCheckClick();">項目検索</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('easy')" onclick="return jsCheckClick();">簡易検索</a></td>
+<td class="menu_line"></td>
+<td class="menu_bg"><a class="menu" href="javascript:jsMenuLink('help')" onclick="return jsCheckClick();">ヘルプ</a></td>
+</tr></tbody></table></td></tr>
+<tr class="main"><td class="main"><hr class="main"/></td></tr>
+</tbody></table>
+</td></tr>
+<tr class="con_min"><td>
+<table class="scon_tbl"><tbody><tr><td>
+<input class="btn85" onclick="jsRecMove('disp01','previos',190,'18')" type="button" value="前　件"/>
+<input class="btn85" onclick="jsRecMove('disp01','next',190,'18')" type="button" value="次　件"/>
+<input class="btn85" onclick="jsRecMove('disp01','first',190,'18')" type="button" value="先　頭"/>
+<input class="btn85" onclick="jsRecMove('disp01','last',190,'18')" type="button" value="最　終"/>
+<input class="btn85" onclick="jsList('list01','18')" type="button" value="一　覧"/>
+</td></tr>
+</tbody></table>
+</td></tr><tr class="con_min"><td>
+<hr class="sub"/>
+</td></tr><tr class="con_min"><td>
+<table class="res_tbl"><tbody><tr><td>190/2918件</td></tr>
+</tbody></table>
+</td></tr><tr class="con_min"><td>
+<table class="dcon_tbl0 wordBreak">
+<tbody><tr class="con_min">
+<td class="dcon_data" colspan="2"><a href="http://www.tosyokan.pref.shizuoka.jp/jpg/m/ukiyoe/K915-108-007-003/U0001.jpg" target="_blank"><img alt="" border="0" src="http://www.tosyokan.pref.shizuoka.jp/jpg/m/ukiyoe/K915-108-007-003/U0001.jpg" width="100"/></a></td>
+</tr>
+<tr class="con_min">
+<td colspan="2"><hr class="sub"/></td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【題名】</td>
+<td class="dcon_data">小林の朝比奈坂東三津五郎</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【書名】</td>
+<td class="dcon_data">上村翁旧蔵浮世絵集（７）</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【所蔵機関】</td>
+<td class="dcon_data">静岡県立中央図書館</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【請求記号】</td>
+<td class="dcon_data">K915-108-07-(03)</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【画工名】</td>
+<td class="dcon_data">五渡亭国貞画</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【画工住所】</td>
+<td class="dcon_data"></td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【和暦年月日】</td>
+<td class="dcon_data">天保６年？(18350550552)</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【版元名】</td>
+<td class="dcon_data">越前屋平三郎</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【版元住所】</td>
+<td class="dcon_data">神明前</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【彫師】</td>
+<td class="dcon_data"></td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【判】</td>
+<td class="dcon_data">大判</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【形態】</td>
+<td class="dcon_data">竪絵 １枚</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【彩色】</td>
+<td class="dcon_data">錦絵</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【検印状況】</td>
+<td class="dcon_data">あり</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【検印】</td>
+<td class="dcon_data">極</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【国名】</td>
+<td class="dcon_data"></td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【地名】</td>
+<td class="dcon_data"></td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【人名】</td>
+<td class="dcon_data">坂東三津五郎（小林の朝比奈）</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【主題】</td>
+<td class="dcon_data">演劇／歌舞伎</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【細目】</td>
+<td class="dcon_data">役者絵</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【その他固有件名】</td>
+<td class="dcon_data">結題曽我暦</td>
+</tr>
+<tr class="con_min">
+<td class="dcon_ttl">【その他書誌事項】</td>
+<td class="dcon_data">天保6年1月15日より森田座にて「結題曽我暦」、三津五郎(朝比奈)</td>
+</tr>
+</tbody></table>
+</td></tr><tr><td><input name="datakubun" type="hidden" value="竪絵"/></td></tr>
+</tbody></table></form></div></div>
+<div id="footer"><table class="footer_table">
+<tbody><tr class="main"><td class="main"><hr class="main"/></td></tr>
+<tr class="footer_height"><td class="footer">© 2011 東京大学史料編纂所</td></tr>
+</tbody></table>
+</div>
+</body></html>

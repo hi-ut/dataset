@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0770/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京各社撰抜新聞米国前大統領グランド氏伝",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京各社撰抜新聞米国前大統領グランド氏伝"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-30-009-00"
+        },
+        {
+            "label": "画工名",
+            "value": "梅堂国政筆：竹内栄久"
+        },
+        {
+            "label": "画工住所",
+            "value": "長谷川丁２２"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１２年５月２２日届(18790050220)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本平吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "新葭町２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "グラント"
+        },
+        {
+            "label": "主題",
+            "value": "外交"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "メキシコ戦争/花火/上野公園"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-752。グラントの伝記あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0770/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

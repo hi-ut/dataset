@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0117/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "神奈川横浜二十八景之内（異人墓の図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "神奈川横浜二十八景之内（異人墓の図）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-045-25"
+        },
+        {
+            "label": "画工名",
+            "value": "五雲亭貞秀画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（万延元年５月）(18600050550)"
+        },
+        {
+            "label": "版元名",
+            "value": "糸屋庄兵衛（糸庄）"
+        },
+        {
+            "label": "版元住所",
+            "value": "通三"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "本村/横浜新田"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "異人墓/増徳院/杉山弁天/金比羅社/薬師堂/龍灯楠"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-155。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0117/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

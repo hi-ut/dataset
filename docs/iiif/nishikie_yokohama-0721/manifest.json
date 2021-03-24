@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0721/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "電信機名所発句寿古六",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "電信機名所発句寿古六"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-22-003-00"
+        },
+        {
+            "label": "画工名",
+            "value": "昇斎一景"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治５年１１月(18720110550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工渡辺栄蔵"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "その他 ６枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "壬申十一"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/神奈川/生麦/鶴見/川崎/川崎六郷/大森/品川/高輪/虎の門/日比谷御門/霞ヶ関/外桜田/上野/御成道/筋違門/蔵前/島原/築地/汐留/銀座/京橋/両国/日本橋/浅草/鮫洲"
+        },
+        {
+            "label": "主題",
+            "value": "文明開化"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "工部省/金杉橋/芝神明社/増上寺/幸橋/招魂社/聖堂/神田明神/芝口橋/海運橋/外務省/海軍所/東京府/大蔵省/民部省/明石橋/浜御殿"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-620。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0721/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

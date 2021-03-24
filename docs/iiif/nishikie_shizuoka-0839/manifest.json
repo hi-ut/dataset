@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0839/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京八ツ山下海軍蒸気車鉄道之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京八ツ山下海軍蒸気車鉄道之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-22-(57)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需広重筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治４年）(18710550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "万屋孫兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋通四丁目"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "八ツ山"
+        },
+        {
+            "label": "主題",
+            "value": "文明開化／土木／鉄道"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "馬車/人力車/品川燈台/乗合蒸気船/築地ホテル"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0839/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

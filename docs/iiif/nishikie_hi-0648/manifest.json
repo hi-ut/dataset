@@ -1,0 +1,121 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0648/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "近世人物誌第十五水戸翠香院殿",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "近世人物誌第十五水戸翠香院殿"
+        },
+        {
+            "label": "書名",
+            "value": "近世人物誌"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-63-2-1-(3)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳年"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２０年１２月１３日(18870120130)"
+        },
+        {
+            "label": "版元名",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "版元住所",
+            "value": "京橋区尾張町２丁目１"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "水戸竹松"
+        },
+        {
+            "label": "主題",
+            "value": "女性／節婦・善行"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "やまと新聞３５７号附録"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0648/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0648/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1234,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0648/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0648/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1234,
+                                "width": 852
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000003.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1234,
+                        "width": 852
+                    },
+                    "width": 852
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000003.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1234,
+        "width": 852
+    },
+    "viewingDirection": "right-to-left"
+}

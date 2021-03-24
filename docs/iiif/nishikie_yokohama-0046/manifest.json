@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0046/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "浅草奥山生人形",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "浅草奥山生人形"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-02-001-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一勇斎国芳画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政２年５月(18550050550)"
+        },
+        {
+            "label": "版元名",
+            "value": "釜屋喜兵衛（釜喜）"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国"
+        },
+        {
+            "label": "彫師",
+            "value": "佐七刻"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "卯五/改"
+        },
+        {
+            "label": "地名",
+            "value": "浅草/奥山/丸山"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／サーカス・曲馬"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "生人形/足長国/手長国/無腹国/穿胸国/ふけいこく/こんうんこく"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-54。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0046/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

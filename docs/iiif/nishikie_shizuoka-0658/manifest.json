@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0658/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（高綱と白菊）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（高綱と白菊）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-15-(26)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政４年４月(18570040550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大虎"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草並木"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/巳四"
+        },
+        {
+            "label": "人名",
+            "value": "白菊/荒川蔵人/佐々木右衛門佐/土佐修理之助"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "挿頭菖蒲閏高綱"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "安政4年閏5月5日より森田座にて「挿頭菖蒲閏高綱」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0658/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

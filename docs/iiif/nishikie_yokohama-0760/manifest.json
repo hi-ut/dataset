@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0760/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "連勝倭魄輝天下田庄台焼打之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "連勝倭魄輝天下田庄台焼打之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-29-015-00"
+        },
+        {
+            "label": "画工名",
+            "value": "国輝印（岡田）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２７年１１月(18940110550)"
+        },
+        {
+            "label": "版元名",
+            "value": "石井六之助"
+        },
+        {
+            "label": "版元住所",
+            "value": "深川区常盤町１丁目１１"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "中国"
+        },
+        {
+            "label": "地名",
+            "value": "田庄台"
+        },
+        {
+            "label": "主題",
+            "value": "日清戦争"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "測量機/軍夫/五十人長"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-864。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0760/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

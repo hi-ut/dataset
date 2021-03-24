@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0409/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "台所唐人おどけ双六",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "台所唐人おどけ双六"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-05-062-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一川芳員画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "慶応２年１２月(18660120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大黒屋金次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 ４枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "寅十二改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／女性／家事・生活"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "英語/マネー（金）/ウオッチ（時計）/ロック（錠）/ブルーム（ほうき）/ボトル（徳利）/サーヴァント（下男）/ボス（旦那）/コップ（盃）/ライス（米）/ランプ（明り）/ウッド（薪）/グリジロン（あぶりこ）/ゾンタク（休日）/ブックケース（本箱）/チェンバーメイド（腰元）/ケットル（釜）/スチールフリント（火打石）/パン（鍋）/ペエル（手桶）/ミストレス（おかみさん）/キイ（鍵）/ポンプ（水鉄砲）/クレエフル（包丁）/メイドサーヴァント（下女）/バスケット（ざる）/マガジン（倉）/トレンチル（まな板）/トウエル（手代）/ボルスター（枕）/プレート（皿）/チャコール（炭）/台所/宴会"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-513。外国語と日本語の対訳あり、グリジロン(gridiron)、ペエル(pail)、ブルーム(broom)、スチールフリント(steelflint)、パン(pan)、ボルスター(bolster)、包丁(cleaver)、また板(trencher)、この双六をつつんだ袋もあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0409/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

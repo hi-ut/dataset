@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0505/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "近世人物誌第十二五代目坂東彦三郎",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "近世人物誌第十二五代目坂東彦三郎"
+        },
+        {
+            "label": "書名",
+            "value": "こころのかがみ"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-10-010-04"
+        },
+        {
+            "label": "画工名",
+            "value": "芳年印（大蘇）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２０年９月２５日(18870090250)"
+        },
+        {
+            "label": "版元名",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "版元住所",
+            "value": "東京京橋区尾張町２丁目１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工円活"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "阪東彦三郎（５代目）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "中村座/守田座"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-793。阪東彦三郎の生涯につき詞書あり、やまと新聞296号附録"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0505/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

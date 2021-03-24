@@ -1,0 +1,121 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当世武勇伝渋江内膳",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当世武勇伝渋江内膳"
+        },
+        {
+            "label": "書名",
+            "value": "当世武勇伝"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0180-3-2-1-(33)"
+        },
+        {
+            "label": "画工名",
+            "value": "花陽楼国員画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治元年）(18680550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "川伝"
+        },
+        {
+            "label": "版元住所",
+            "value": "（大阪）"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "渋江内膳"
+        },
+        {
+            "label": "主題",
+            "value": "戊辰戦争"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書あり、秋田藩士、「四十四」とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1193,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1193,
+                                "width": 877
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1193,
+                        "width": 877
+                    },
+                    "width": 877
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1193,
+        "width": 877
+    },
+    "viewingDirection": "right-to-left"
+}

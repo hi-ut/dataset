@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0742/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "紅毛人図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "紅毛人図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-26-001-00"
+        },
+        {
+            "label": "画工名",
+            "value": "国磨"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（文久２年？）(18620550552)"
+        },
+        {
+            "label": "版元名",
+            "value": "江崎屋辰蔵（江辰板）"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬三"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "台山学（揮毫）"
+        },
+        {
+            "label": "主題",
+            "value": "人物画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "紅毛人"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-421。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0742/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

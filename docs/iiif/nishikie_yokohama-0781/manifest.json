@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0781/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜名勝競内田町よりステンションの図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜名勝競内田町よりステンションの図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-33-004-00"
+        },
+        {
+            "label": "画工名",
+            "value": "国松印：歌川国松"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１３年２月届(18800020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "歌川国松"
+        },
+        {
+            "label": "版元住所",
+            "value": "横浜吉田町１丁目７"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "建築／ステーション／土木／鉄道／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "蒸気機関車/電線/駅員/工夫/横浜駅"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-757。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0781/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0360/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "外国人衣服仕立之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "外国人衣服仕立之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-05-011-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一川芳員画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年１１月(18600110550)"
+        },
+        {
+            "label": "版元名",
+            "value": "丸屋甚八"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申十一改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／文明開化"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "ミシン/アイロン/椅子"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-195。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0360/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

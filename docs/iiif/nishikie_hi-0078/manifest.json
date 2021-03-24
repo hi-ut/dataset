@@ -1,0 +1,113 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0078/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当時流好諸喰商人尽",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当時流好諸喰商人尽"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　二"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-17-2-(5)"
+        },
+        {
+            "label": "画工名",
+            "value": "なし"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治元年４月頃(18680040770)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "徳川慶喜"
+        },
+        {
+            "label": "主題",
+            "value": "戊辰戦争"
+        },
+        {
+            "label": "細目",
+            "value": "風刺画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "猪が「あんまりでてあるくとみんな子どもがいやがるからよそう」、商人「どうせやけだふだでもしめろへ一ばいやらかせ」、官軍「イヤどこを見てもにもつをはこぶてナア」、天秤棒かつぎ「なんでも本所のしんるいへあづけるがよかろう」、 ぶたは慶喜のアダナ、官軍の江戸開城は４月１１日、子供は菊紋"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0078/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0078/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1339,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0078/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0078/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1339,
+                                "width": 867
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1339,
+                        "width": 867
+                    },
+                    "width": 867
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1339,
+        "width": 867
+    },
+    "viewingDirection": "right-to-left"
+}

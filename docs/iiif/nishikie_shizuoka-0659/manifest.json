@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0659/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（児雷也勇美之助田喜姫）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（児雷也勇美之助田喜姫）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-15-(27)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "嘉永５年８月(18520080550)"
+        },
+        {
+            "label": "版元名",
+            "value": "清水屋直次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "村田/衣笠/子八"
+        },
+        {
+            "label": "人名",
+            "value": "団十郎（兒雷児/比企蔵人）/璃寛（勇美之助）/粂三郎（田毎姫/照田）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "児雷也"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "嘉永5年7月19日より河原崎座にて「児雷也豪傑譚話」、15-(1)・(20)参照"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0659/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0583/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "阿蘭陀亜墨利加英吉利国",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "阿蘭陀亜墨利加英吉利国"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-18-013-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需広重画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年１２月(18600120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "金鱗堂"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申十二改"
+        },
+        {
+            "label": "国名",
+            "value": "オランダ/アメリカ/イギリス"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娯楽"
+        },
+        {
+            "label": "細目",
+            "value": "海外情報・異国趣味"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "遠目鏡/ワイングラス/ウイスキーボトル/きせる"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-229。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0583/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

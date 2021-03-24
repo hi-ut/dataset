@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0341/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "七福神種紙会社より海岸鉄道眺望の図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "七福神種紙会社より海岸鉄道眺望の図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-04-090-00"
+        },
+        {
+            "label": "画工名",
+            "value": "芳虎画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治５年９月(18720090550)"
+        },
+        {
+            "label": "版元名",
+            "value": "丸屋鉄次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋通二丁目"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "壬申九"
+        },
+        {
+            "label": "主題",
+            "value": "商業／商売／農林／土木／鉄道"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "広寓楼/種紙/七福神/蒸気車/人力車/種紙会社/蒸気船"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-612。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0341/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

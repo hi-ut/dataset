@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0527/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（お軽勘平）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（お軽勘平）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-12-(29)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政２年３月(18550030550)"
+        },
+        {
+            "label": "版元名",
+            "value": "伊勢兼"
+        },
+        {
+            "label": "彫師",
+            "value": "彫竹"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/卯三"
+        },
+        {
+            "label": "人名",
+            "value": "早野勘平/こし元お軽/秣翁/雪の屋"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "仮名手本忠臣蔵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "秣翁と雪の屋の和歌あり、この前後忠臣蔵の上演なし、不審"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0527/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0476/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "古今名婦伝栢原の捨女",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "古今名婦伝栢原の捨女"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-11-(41)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久元年２月(18610020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "魚屋栄吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "酉二改"
+        },
+        {
+            "label": "国名",
+            "value": "丹波"
+        },
+        {
+            "label": "地名",
+            "value": "栢原"
+        },
+        {
+            "label": "人名",
+            "value": "栢原の捨女/柳亭梅彦/盤桂禅師"
+        },
+        {
+            "label": "主題",
+            "value": "女性／女性／節婦・善行／和歌・狂歌"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "キセル"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書「栢原の捨女」、柳亭梅彦記、和歌俳諧を好んだ女性、「初雪や二字ふみ出す下駄の跡」、「粟のほやみはかずならぬおみなへし」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0476/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

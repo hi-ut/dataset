@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0065/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "楠正成千早城ニテ音楽敵の英気ヲ乱スの図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "楠正成千早城ニテ音楽敵の英気ヲ乱スの図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-017-00"
+        },
+        {
+            "label": "画工名",
+            "value": "玉蘭斎貞秀画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "浜/馬込"
+        },
+        {
+            "label": "人名",
+            "value": "楠正成/安西太郎/和田五郎/三ツ石藤内/南江備前守/橋本八郎/矢尾新助/宇佐美河内守/神宮守太郎/楠帯刀正季/恩地左石太郎"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画／娯楽／音楽／娯楽／踊"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "千早城"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-28。雅楽の図あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0065/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

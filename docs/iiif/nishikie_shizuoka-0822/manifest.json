@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0822/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京名所両ごく回向院元柳橋",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京名所両ごく回向院元柳橋"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-22-(40)"
+        },
+        {
+            "label": "画工名",
+            "value": "広重画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（安政４年５月）(18570050550)"
+        },
+        {
+            "label": "版元名",
+            "value": "魚栄"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "両国/元柳橋"
+        },
+        {
+            "label": "主題",
+            "value": "風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "回向院"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "広重の「名所江戸百景」のタイトルを「東京名所」とかえて明治初年に摺り出したもの、他は全く同一"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0822/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0468/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "十二月ノ内皐月生花会",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "十二月ノ内皐月生花会"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-11-(34)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政元年６月(18540060550)"
+        },
+        {
+            "label": "版元名",
+            "value": "蔦屋吉蔵"
+        },
+        {
+            "label": "彫師",
+            "value": "彫竹"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/寅六"
+        },
+        {
+            "label": "主題",
+            "value": "風俗"
+        },
+        {
+            "label": "細目",
+            "value": "年中行事"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "端午節句/生花会"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "3枚続の右側か"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0468/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

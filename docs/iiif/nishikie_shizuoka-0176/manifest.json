@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0176/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "おもひ出す菊のさかりや手向草再啼去年俤",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "おもひ出す菊のさかりや手向草再啼去年俤"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-06-(28)"
+        },
+        {
+            "label": "画工名",
+            "value": "御好に付国安画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文政３年？(18200550552)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "梅野由兵衛"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "死絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "文政3年9月河原崎座にて「梅由兵衛紫頭巾」、由兵衛は団十郎、または文化12年5月、「句兄弟菖蒲帷子」を中村座にて上演、由兵衛(三津五郎)、「ひいきの引たをしと呼れながらも」(江気山人述)とありて詞書あり、「…みな人毎に由兵衛とほめられし身もいたわしや今は頭巾に引か"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0176/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

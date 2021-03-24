@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0829/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（湧乳散等広告）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（湧乳散等広告）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-41-004-00"
+        },
+        {
+            "label": "画工名",
+            "value": "方円舎清親筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治期(55550550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大黒屋平吉（大平）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "守田治兵衛/岸田吟香"
+        },
+        {
+            "label": "主題",
+            "value": "医療・衛生"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "浩天堂/宝丹/精攷紂人案？Z供紳┯街僉芯胆顛紂針Ч畆髻振淑蛙紂燭④弔ｱ"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-931。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0829/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

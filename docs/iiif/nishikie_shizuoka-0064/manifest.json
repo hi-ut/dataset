@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0064/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当世薬玉五節句",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当世薬玉五節句"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-04-(04)"
+        },
+        {
+            "label": "画工名",
+            "value": "菊川英山筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文化８〜１０年(18130550550)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "極/伊賀"
+        },
+        {
+            "label": "主題",
+            "value": "女性／風俗"
+        },
+        {
+            "label": "細目",
+            "value": "美人画／年中行事"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "薬玉/端午の節句"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「春きては幾日も過ぬ朝戸出て鶯きぬるかとのむら竹」の歌あり、くす玉は端午の節句にかざるもの"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0064/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

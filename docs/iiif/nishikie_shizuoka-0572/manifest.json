@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0572/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（大黒屋惣六と妹しのぶ）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（大黒屋惣六と妹しのぶ）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-13-(38)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政４年６月(18570060550)"
+        },
+        {
+            "label": "版元名",
+            "value": "蔦屋吉蔵"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/巳六"
+        },
+        {
+            "label": "人名",
+            "value": "鶴蔵（大黒屋惣六）/由次郎（妹しのぶ）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "白石噺/陸奥群客娘菅笠"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "安政4年7月7日より中村座にて「陸奥群客娘菅笠」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0572/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

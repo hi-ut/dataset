@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0860/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "米船渡来旧諸藩士固之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "米船渡来旧諸藩士固之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-53-001-00"
+        },
+        {
+            "label": "画工名",
+            "value": "東洲勝月"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２２年９月１日(18890090010)"
+        },
+        {
+            "label": "版元名",
+            "value": "児玉又七"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草区駒形町４２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横須賀港/観音崎/富津岬"
+        },
+        {
+            "label": "主題",
+            "value": "戯び"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "葵紋/大砲/陣夫/黒船/蒸気船"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-813。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0860/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

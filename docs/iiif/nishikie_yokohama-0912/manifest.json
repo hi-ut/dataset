@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0912/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "中の嶋通商司の図浪花渡行往来賑ひ",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "中の嶋通商司の図浪花渡行往来賑ひ"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-64-003-00"
+        },
+        {
+            "label": "画工名",
+            "value": "長谷川小信"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治４年頃(18710770550)"
+        },
+        {
+            "label": "版元名",
+            "value": "綿屋喜兵衛板"
+        },
+        {
+            "label": "版元住所",
+            "value": "大阪心才橋塩町角"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "大阪/心斎橋/塩町/中の島"
+        },
+        {
+            "label": "主題",
+            "value": "建築／官庁／土木／道路"
+        },
+        {
+            "label": "細目",
+            "value": "建物"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "写真/自転車/人力車/馬車/洋傘/通商司"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-674。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0912/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,155 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "芋喰僧正魚説法",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "芋喰僧正魚説法"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　一"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-17-1-(30)"
+        },
+        {
+            "label": "画工名",
+            "value": "一恵斎芳幾戯画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政６年１２月(18590120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本屋平吉"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "未十二改"
+        },
+        {
+            "label": "人名",
+            "value": "岳亭春信/仮名垣魯文"
+        },
+        {
+            "label": "主題",
+            "value": "社会事件／珍説"
+        },
+        {
+            "label": "細目",
+            "value": "風刺画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "タコ"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "仮名垣魯文の狂歌、岳亭春信の戯誌、安政６年１１月「タコ大いにつれ、魚店毎にこの魚を商ふ」と武江年表にあり、芋酒屋（おでんや）でタコを出したからであろう"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1340,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000057.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1340,
+                                "width": 881
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000057.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1340,
+                        "width": 881
+                    },
+                    "width": 881
+                },
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1352,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/p2-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0030/canvas/p2",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000058.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1352,
+                                "width": 889
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000058.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1352,
+                        "width": 889
+                    },
+                    "width": 889
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000057.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1340,
+        "width": 881
+    },
+    "viewingDirection": "right-to-left"
+}

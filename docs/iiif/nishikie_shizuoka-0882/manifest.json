@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0882/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "釈迦八相記今様写絵三",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "釈迦八相記今様写絵三"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-23-(13)"
+        },
+        {
+            "label": "画工名",
+            "value": "国貞画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年４月(18600040550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助"
+        },
+        {
+            "label": "版元住所",
+            "value": "横山町三丁目"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申四改"
+        },
+        {
+            "label": "人名",
+            "value": "鶴亭"
+        },
+        {
+            "label": "主題",
+            "value": "文芸／娯楽／娯楽"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "船遊び/釈迦八相記"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書あり(鶴亭)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0882/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

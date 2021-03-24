@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0917/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "神戸名所之内蒸気車相生橋之景",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "神戸名所之内蒸気車相生橋之景"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-64-008-00"
+        },
+        {
+            "label": "画工名",
+            "value": "小信画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治初年(18680550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "富士政板"
+        },
+        {
+            "label": "版元住所",
+            "value": "心斎橋安堂寺町"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "神戸"
+        },
+        {
+            "label": "主題",
+            "value": "土木／鉄道／土木／港湾／開港／その他開港場"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "相生橋/蒸気車/電信柱/電信線/高札"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-679。神戸市立博物館作製の複製、神戸大阪間の鉄道は明治7年11月運転開始"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0917/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

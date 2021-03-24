@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0631/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜海上蒸気車鉄道之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜海上蒸気車鉄道之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-19-021-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需広重筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治４年１２月(18710120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "政田屋板"
+        },
+        {
+            "label": "版元住所",
+            "value": "土ばし（土橋）"
+        },
+        {
+            "label": "彫師",
+            "value": "片田彫長"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "未十二改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/生麦"
+        },
+        {
+            "label": "主題",
+            "value": "土木／鉄道／土木／橋梁"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "蒸気車/鉄橋/宮の河岸/貨車/客車/黒船/蒸気船/渡船"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-590。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0631/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

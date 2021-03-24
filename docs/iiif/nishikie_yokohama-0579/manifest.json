@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0579/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜道中双六",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜道中双六"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-18-009-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需広重画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年９月(18600090550)"
+        },
+        {
+            "label": "版元名",
+            "value": "藤岡屋慶次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "通油町"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申九改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/日本橋/高縄/品川/鈴ヶ森/大森/山本/六郷/大師河原/川崎/鶴見/生麦/神奈川/卜部切通/野毛町/本町/港崎町/鎌倉/江の島/金沢"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "三井/異人屋敷/波止場/岩亀楼/渡場/平沼橋/吉田橋/弁天/芝居/元村橋"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-174。袋あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0579/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

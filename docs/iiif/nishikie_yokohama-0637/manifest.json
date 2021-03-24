@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0637/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京横浜横浜裁判所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京横浜横浜裁判所"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-19-027-00"
+        },
+        {
+            "label": "画工名",
+            "value": "広重筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治５年２月(18720020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助（辻文）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "壬申二"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "建築／その他公共施設／開港／横浜"
+        },
+        {
+            "label": "細目",
+            "value": "風景画／建物"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "横浜裁判所/高札場/伝信局/日章旗/洋傘/乗馬/弁髪/カーテン"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-601。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0637/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

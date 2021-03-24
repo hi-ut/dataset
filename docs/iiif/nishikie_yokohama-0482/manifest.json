@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0482/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "アメリカ人遊里屋図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "アメリカ人遊里屋図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-09-004-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一龍斎芳豊画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年１２月(18600120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "菊屋市兵衛（菊市板）"
+        },
+        {
+            "label": "版元住所",
+            "value": "横山三"
+        },
+        {
+            "label": "彫師",
+            "value": "小泉彫兼"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申十二改"
+        },
+        {
+            "label": "国名",
+            "value": "アメリカ"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／建築／劇場"
+        },
+        {
+            "label": "細目",
+            "value": "遊廓"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "パイプ/テーブル/椅子/マッチ/遊郭"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-226。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0482/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0750/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜吉田橋通繁昌之図并本町通弁天通外国館遠景",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜吉田橋通繁昌之図并本町通弁天通外国館遠景"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-29-005-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応好一曜斎国輝画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３年１０月(18700100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本平吉梓"
+        },
+        {
+            "label": "版元住所",
+            "value": "親父橋角"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "午十改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/吉田橋通/海岸通/北仲通/本町/南仲通/神奈川/入舟町/真砂町/新浜町/駒形町/弁天通/太田町"
+        },
+        {
+            "label": "主題",
+            "value": "商業／互市・開市／建築／洋館／土木／橋梁"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "人力車/馬車/鉄橋/吉田橋/星条旗/日章旗"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-570。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0750/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

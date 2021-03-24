@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0956/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "堀の蘭丸けい城梅が枝",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "堀の蘭丸けい城梅が枝"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-25-(06)"
+        },
+        {
+            "label": "画工名",
+            "value": "国周筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "慶応２年１１月(18660110550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋亀吉"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工栄"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "寅十一改"
+        },
+        {
+            "label": "人名",
+            "value": "家橘（梅が枝）/家橘（蘭丸）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "雪武智一座初役"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応2年11月3日より市村座にて「雪武智一座初役」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0956/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

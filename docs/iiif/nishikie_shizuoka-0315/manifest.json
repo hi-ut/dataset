@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0315/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "江戸の花名勝会の内九番組ね組",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "江戸の花名勝会の内九番組ね組"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（９）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-09-(07)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画/卍桜北鵞画/為斎画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久３年？(18630550552)"
+        },
+        {
+            "label": "版元名",
+            "value": "見えず"
+        },
+        {
+            "label": "版元住所",
+            "value": "見えず"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "見えず"
+        },
+        {
+            "label": "地名",
+            "value": "巣鴨"
+        },
+        {
+            "label": "人名",
+            "value": "市の川市蔵（大村大角）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎／風景画"
+        },
+        {
+            "label": "細目",
+            "value": "風景画／役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "町火消/猫又橋/化猫"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "右下市の川市蔵(犬村大角)、豊国、左下巣鴨氷川下猫又橋、卍桜北鵞、左上化猫の図、「日でりの時は猫又橋の流れの水は水川下」、為斎、名勝会のところに　氷川のあめ、十羅刹女神、石場　とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0315/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

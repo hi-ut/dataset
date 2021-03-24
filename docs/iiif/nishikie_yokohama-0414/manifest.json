@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0414/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "御開港横浜一覧双六",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "御開港横浜一覧双六"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-06-004-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一恵斎芳幾写"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年１０月(18600100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "和泉屋市兵衛版"
+        },
+        {
+            "label": "版元住所",
+            "value": "芝神明前"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵/横絵 ５枚"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/神奈川/品川/川崎/鶴見/生麦/子安/吉田町/野毛町/本町/港崎町/本牧村"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "サボテン茶屋/神奈川台場/関門番所/亀甲せんべい/渡海場/越前陣屋/野毛橋/太田橋/弁天社/運上所/舟改所/波止場/十二天社/高札場/町会所/第六天/切通し/平沼橋/新田間橋/石崎橋"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-182。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0414/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

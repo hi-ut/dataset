@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0487/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "舶来大象図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "舶来大象図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-09-009-00"
+        },
+        {
+            "label": "画工名",
+            "value": "一龍斎芳豊画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久３年２月(18630020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "藤岡屋慶次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥二改"
+        },
+        {
+            "label": "国名",
+            "value": "インド"
+        },
+        {
+            "label": "地名",
+            "value": "マルカ/横浜/両国"
+        },
+        {
+            "label": "人名",
+            "value": "仮名垣魯文（詞書）"
+        },
+        {
+            "label": "主題",
+            "value": "動植物画／獣／娯楽／サーカス・曲馬"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "象"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-429。「天竺馬爾加国ヒツーベルケン山の麓大原野に生する処産てより三歳女象なり于時文久癸亥三月上旬より西両国広小路に於て奉入御覧に候」(魯文)、「象潟やむかしを今のおぼろ月」とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0487/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

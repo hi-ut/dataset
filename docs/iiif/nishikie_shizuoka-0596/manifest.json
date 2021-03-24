@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0596/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（鶴松扇曽我）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（鶴松扇曽我）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-14-(09)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政２年１２月(18550120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "森屋治兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町二丁目"
+        },
+        {
+            "label": "彫師",
+            "value": "彫駒"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/卯十二"
+        },
+        {
+            "label": "人名",
+            "value": "三十郎（梶井主膳）/彦三郎（阿古木源三郎）/菊五郎（おこよ）/亀蔵（せった直し長五郎）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "鶴松扇曽我/人相見"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "安政3年3月3日より市村座にて「鶴松扇曽我」、画中に「人相、梶井主膳」とあり、料金表に「御一代　金百疋、一ヶ年　金五十疋、当用　百孔、以上、梶井」とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0596/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

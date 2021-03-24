@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1014/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（黒手組助六と三浦屋内揚巻）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（黒手組助六と三浦屋内揚巻）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-26-(28)"
+        },
+        {
+            "label": "画工名",
+            "value": "国周筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "慶応３年３月(18670030550)"
+        },
+        {
+            "label": "版元名",
+            "value": "海老林"
+        },
+        {
+            "label": "彫師",
+            "value": "彫栄/彫工栄"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "卯三改"
+        },
+        {
+            "label": "人名",
+            "value": "坂東彦三郎（黒手組助六）/大谷友右衛門（鳥居新左衛門）/岩井紫若（三浦屋揚巻）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "当九字万成曽我"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応3年2月26日より守田座にて「当九字万成曽我」、4月19日まで52日間"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1014/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

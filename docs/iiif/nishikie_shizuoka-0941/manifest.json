@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0941/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "上野大合戦中堂之場",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "上野大合戦中堂之場"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-24-(21)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需香朝楼筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２２年５月(18890050550)"
+        },
+        {
+            "label": "版元名",
+            "value": "林吉蔵"
+        },
+        {
+            "label": "版元住所",
+            "value": "京橋区南伝馬丁２丁目２"
+        },
+        {
+            "label": "彫師",
+            "value": "ホリ銀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "上野"
+        },
+        {
+            "label": "人名",
+            "value": "尾上菊五郎（篠原国幹）/中村芝翫（榊原謙吉）/市川左伊次（生田義晴）/市川左団次（酒井宰輔）"
+        },
+        {
+            "label": "主題",
+            "value": "戊辰戦争／演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "彰義隊/上野戦争/皐月晴上野の朝風"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治23年5月23日より新富座にて「皐月晴上野の朝風」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0941/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

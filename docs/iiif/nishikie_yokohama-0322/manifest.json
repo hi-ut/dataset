@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0322/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜往返寿古録",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜往返寿古録"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-04-075-00"
+        },
+        {
+            "label": "画工名",
+            "value": "芳虎画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治３年か）(18700550550)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/尾張町"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／土木／港湾／土木／道路／建築／その他公共施設"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "恵美須屋（尾張町呉服屋）/早駕籠/早飛脚/町飛脚/台場灯台/灯台/三時早船/人力車/稲川丸/馬車/電信局/弘明丸/ふんじん丸"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-783。袋あり、馬車には明治2年夏より御免、往復通船には慶応4年春より御免、電信局には明治2年冬より、人力車には明治3年夏より、三時早船には明治元年冬より御免とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0322/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

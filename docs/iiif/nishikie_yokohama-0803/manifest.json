@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0803/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "国華養蚕之栞",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "国華養蚕之栞"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-40-006-00"
+        },
+        {
+            "label": "画工名",
+            "value": "楊州周延"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３２年(18990550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "松成保太郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草区芽町２丁目５"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "農林"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "製糸/養蚕"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-892。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0803/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

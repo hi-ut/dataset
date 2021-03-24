@@ -1,0 +1,117 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "丙午歳五月十六日土水性の人うけニ入",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "丙午歳五月十六日土水性の人うけニ入"
+        },
+        {
+            "label": "書名",
+            "value": "維新前後諷刺画　四"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-17-4-(38)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国門人一寿斎国政画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（弘化３年）(18460550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "高野屋友右衛門（高友）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "渡"
+        },
+        {
+            "label": "人名",
+            "value": "華月堂北雅"
+        },
+        {
+            "label": "主題",
+            "value": "暦／有卦絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「土水の恵みをうけて藤の花」華月堂北雅印、丙午は弘化３年"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 887,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 887,
+                                "width": 1277
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 887,
+                        "width": 1277
+                    },
+                    "width": 1277
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 887,
+        "width": 1277
+    },
+    "viewingDirection": "right-to-left"
+}

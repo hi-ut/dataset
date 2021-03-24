@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0154/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "再改横浜風景",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "再改横浜風景"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-079-00"
+        },
+        {
+            "label": "画工名",
+            "value": "五雲亭貞秀画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久元年２月(18610020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "丸屋徳造/丸屋甚八"
+        },
+        {
+            "label": "版元住所",
+            "value": "芝神明前（丸屋甚八）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ６枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "酉二改/酉四改"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/吉田新田/横浜新田/元村"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／娯楽／娼・妓(含売春）／建築／劇場"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "小形蒸気船/三井店/芝居/西波止場/東波止場/外人墓地/ペルリ墓/港崎町/船蔵/船番所/見張番所/本町/太田町/内浦/駒形町/水神社/太田橋/金毘羅社/岩里楼/岩亀楼/金浦楼/五十鈴楼/出世楼/金石楼/開勢楼/孔咲楼/玉泉楼/保橋楼/伊勢楼/千年長家/新岩亀楼/万長家/増徳院/オランダ船大工/龍燈神/造船/芸者長屋/関門"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-288。「合梓」とあり、検印に「酉四改」もあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0154/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

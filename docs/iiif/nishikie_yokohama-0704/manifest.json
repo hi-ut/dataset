@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0704/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "大日本物産図会常陸国養蚕之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "大日本物産図会常陸国養蚕之図"
+        },
+        {
+            "label": "書名",
+            "value": "大日本物産図会"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-19-057-37"
+        },
+        {
+            "label": "画工名",
+            "value": "広重筆：安藤徳兵衛"
+        },
+        {
+            "label": "画工住所",
+            "value": "大鋸町４"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治１０年８月１０日）(18770080100)"
+        },
+        {
+            "label": "版元名",
+            "value": "大倉孫兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋通１丁目１９"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "常陸"
+        },
+        {
+            "label": "主題",
+            "value": "物産／農林"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "養蚕/蚕種紙/種紙"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-735。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0704/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

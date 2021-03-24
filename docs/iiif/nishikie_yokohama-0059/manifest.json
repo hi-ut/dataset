@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0059/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "富士の裾野巻狩之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "富士の裾野巻狩之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-03-011-00"
+        },
+        {
+            "label": "画工名",
+            "value": "玉蘭斎貞秀画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "嘉永２年３月？(18490030552)"
+        },
+        {
+            "label": "版元名",
+            "value": "山口屋藤兵衛"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "村田/米良"
+        },
+        {
+            "label": "地名",
+            "value": "小金原/富士"
+        },
+        {
+            "label": "人名",
+            "value": "徳川家慶"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画／幕府／将軍"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "巻狩"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-19。嘉永2年3月18日の小金原の巻狩を描いたもの、将軍家慶が臨んでいる、佐藤悟「名主双印試考」では、米良と村田は嘉永2年4月"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0059/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

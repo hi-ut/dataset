@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0780/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "横浜名勝競伊勢山下瓦斯本局雪中の一覧",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "横浜名勝競伊勢山下瓦斯本局雪中の一覧"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-33-003-00"
+        },
+        {
+            "label": "画工名",
+            "value": "国松画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治８年頃）(18750770550)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横浜/伊勢山下（横浜）"
+        },
+        {
+            "label": "主題",
+            "value": "建築／官庁／風景画／名所図絵／土木／橋梁"
+        },
+        {
+            "label": "細目",
+            "value": "風景画／建物"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "ガス橋/人力車/ガス本局"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-689。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0780/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

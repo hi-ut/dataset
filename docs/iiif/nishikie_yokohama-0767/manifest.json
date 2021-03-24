@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0767/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新版横浜売込寿語録",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新版横浜売込寿語録"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-30-007-00"
+        },
+        {
+            "label": "画工名",
+            "value": "歌川国政画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治４年頃(18710770550)"
+        },
+        {
+            "label": "版元名",
+            "value": "亀遊堂寿梓"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜／商業／互市・開市"
+        },
+        {
+            "label": "細目",
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "電信（テレガラフ）/大波止場/錦絵/蒸気船/茶/綿/塗物/美濃紙/人力車/蒸気車/乾物/種紙/ニワトリ/豚/扇/牛肉/スルメ/ミカン/玉子/蒔絵/アワビ/自転車/穀物/糸/呉服/団扇/才取り/ドンタク/瀬戸物/凧揚げ/馬車/ラシャメン"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-809。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0767/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

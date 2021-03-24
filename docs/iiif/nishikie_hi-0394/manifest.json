@@ -1,0 +1,113 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新板おもちや尽",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新板おもちや尽"
+        },
+        {
+            "label": "書名",
+            "value": "文久麻疹流行漫画集"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-14-(30)"
+        },
+        {
+            "label": "画工名",
+            "value": "貞房"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（文久２年）(18620550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "江崎屋辰蔵（江辰板）"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "あり、赤色のみ"
+        },
+        {
+            "label": "検印状況",
+            "value": "あれどもよめず"
+        },
+        {
+            "label": "細目",
+            "value": "おもちゃ絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "鍾馗/ダルマ/おもちゃ/みみづく/犬張子"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "２５コマにそれぞれおもちゃの絵あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1306,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1306,
+                                "width": 867
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1306,
+                        "width": 867
+                    },
+                    "width": 867
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1306,
+        "width": 867
+    },
+    "viewingDirection": "right-to-left"
+}

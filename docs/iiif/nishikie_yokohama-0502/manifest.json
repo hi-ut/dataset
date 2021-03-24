@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0502/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "近世人物誌第九（市川団十郎）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "近世人物誌第九（市川団十郎）"
+        },
+        {
+            "label": "書名",
+            "value": "こころのかがみ"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-10-010-01"
+        },
+        {
+            "label": "画工名",
+            "value": "芳年写印（大蘇）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２０年６月１９日(18870060190)"
+        },
+        {
+            "label": "版元名",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "版元住所",
+            "value": "東京京橋区尾張町２丁目１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工円活"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "市川団十郎（弁慶）/中村福助（義経）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎／皇室／天皇"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "安宅関/やまと新聞/天覧"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-790。詞書あり、やまと新聞210号附録、明治20年4月26日、井上馨邸で天覧"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0502/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

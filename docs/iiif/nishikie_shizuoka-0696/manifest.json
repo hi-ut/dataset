@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0696/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（八代目団十郎七回忌追善狂言口上）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（八代目団十郎七回忌追善狂言口上）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-16-(31)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "万延元年７月(18600070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "林屋庄五郎"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工政"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申七改"
+        },
+        {
+            "label": "人名",
+            "value": "紫扇（権十郎）/米升（小団次）/粂三郎（お富）/白猿（みる杭松）/羽左衛門（与五郎）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "八幡祭小望月賑/切られ与三郎"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "兄三升七回忌追善として「世話情浮名横櫛」をつとめるとの紫扇(権十郎)、米升(小団次)の口上、万延元年7月13日より市村座にて「八幡祭小望月賑」、与三郎(権十郎)、こうもり安(小団次)、お富(粂三郎)、みる杭松(白猿)、与五郎(羽左衛門)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0696/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

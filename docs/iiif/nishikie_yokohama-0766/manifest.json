@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0766/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "市村座開場浄瑠璃狂言",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "市村座開場浄瑠璃狂言"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-30-006-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需香朝楼筆印（楳堂）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２６年(18930550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田熊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川町１９"
+        },
+        {
+            "label": "彫師",
+            "value": "二世彫栄"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "中村福助（女異人）/尾上丑之助（シャリューベ）/尾上菊五郎（英国人・シャリューベ）/尾上栄三郎（女異人）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "市村座"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-764。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0766/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

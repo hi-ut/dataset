@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0814/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "千代田の大奥観菊",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "千代田の大奥観菊"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-40-009-09"
+        },
+        {
+            "label": "画工名",
+            "value": "楊洲周延"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２８年１０月１日(18950100010)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田初次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川町１９"
+        },
+        {
+            "label": "彫師",
+            "value": "柘植刀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "幕府／江戸城／動植物画／草木・花・果実／娯楽／娯楽"
+        },
+        {
+            "label": "細目",
+            "value": "年中行事"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "大奥/菊/縁台"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-876。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0814/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

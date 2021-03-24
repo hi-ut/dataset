@@ -1,0 +1,99 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0847/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "娼妓喜遊之話説",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "娼妓喜遊之話説"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-48-001-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需年信印：山崎"
+        },
+        {
+            "label": "画工住所",
+            "value": "長谷川町２０"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１１年届(18780550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田熊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "長谷川町２０"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工弥太"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "アメリカ"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "人名",
+            "value": "喜遊"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娼・妓(含売春）／開港／横浜"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "岩亀楼"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-751。定価6銭、詞書あり、「露をだにいとふやまとの女郎花ふるあめりかに袖はぬらさじ」の辞世あり、「二十余年前」のこととあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0847/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

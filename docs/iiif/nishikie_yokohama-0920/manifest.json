@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0920/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "神戸海岸ヨリ兵庫和田ノ岬望む図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "神戸海岸ヨリ兵庫和田ノ岬望む図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-65-001-00"
+        },
+        {
+            "label": "画工名",
+            "value": "芳滝筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治４年(18710550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "石和梓"
+        },
+        {
+            "label": "版元住所",
+            "value": "大坂平淀角"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "検印",
+            "value": "未"
+        },
+        {
+            "label": "地名",
+            "value": "神撫山/鉄かいが峯/鉢伏山/一ノ谷/和田峠/川崎/兵庫/柳原町/相生町/多聞町/湊川"
+        },
+        {
+            "label": "主題",
+            "value": "開港／その他開港場／船舶／蒸気船／建築／洋館／土木／港湾"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "楠公社/長田社/新福原廓"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-594。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0920/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

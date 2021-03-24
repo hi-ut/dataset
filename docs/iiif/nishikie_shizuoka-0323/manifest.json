@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0323/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "江戸名所図会十七駒込小姓吉三",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "江戸名所図会十七駒込小姓吉三"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（９）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-09-(15)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊国画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "嘉永５年７月(18520070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "伊勢忠"
+        },
+        {
+            "label": "彫師",
+            "value": "彫げん"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "米良/渡辺/子七"
+        },
+        {
+            "label": "地名",
+            "value": "駒込"
+        },
+        {
+            "label": "人名",
+            "value": "小姓吉三"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画／役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "駒込の風景あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0323/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

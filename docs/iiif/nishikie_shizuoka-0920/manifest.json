@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0920/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当盛五歌妓",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当盛五歌妓"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-23-(51)"
+        },
+        {
+            "label": "画工名",
+            "value": "国貞画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "慶応元年６月(18650060550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本久兵衛"
+        },
+        {
+            "label": "彫師",
+            "value": "彫長"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "丑六改"
+        },
+        {
+            "label": "地名",
+            "value": "猿若町/柳橋"
+        },
+        {
+            "label": "人名",
+            "value": "猿若町のおたの/落語家の雁馬/検番のお鶴/男芸者新左/柳橋のおむら/箱屋吉六"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娼・妓(含売春）"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "箱屋/男芸者/落語家"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "5枚のうちの3枚か"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0920/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

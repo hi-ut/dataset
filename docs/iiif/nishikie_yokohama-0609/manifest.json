@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0609/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "武陽横浜一覧　Ｍａｐ　ｏｆ　Ｙｏｋｏｈａｍａ",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "武陽横浜一覧　Ｍａｐ　ｏｆ　Ｙｏｋｏｈａｍａ"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-18-036-00"
+        },
+        {
+            "label": "画工名",
+            "value": "応需喜斎立祥画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３年１０月(18700100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助"
+        },
+        {
+            "label": "版元住所",
+            "value": "横山町三丁目"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "よみ"
+        },
+        {
+            "label": "地名",
+            "value": "本牧/戸部町/金沢/杉田/根岸/横浜"
+        },
+        {
+            "label": "主題",
+            "value": "開港／横浜"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "横浜居留地/製鉄所"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-567。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0609/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

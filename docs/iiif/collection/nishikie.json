@@ -1,0 +1,23 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/collection/nishikie.json",
+    "@type": "sc:Collection",
+    "label": "東京大学史料編纂所・錦絵データベース",
+    "collections": [
+        {
+            "@id": "https://hi-nishikie.web.app/api/iiif/collection/nishikie_hi.json",
+            "@type": "sc:Collection",
+            "label": "東京大学史料編纂所"
+        },
+        {
+            "@id": "https://hi-nishikie.web.app/api/iiif/collection/nishikie_shizuoka.json",
+            "@type": "sc:Collection",
+            "label": "静岡県立中央図書館"
+        },
+        {
+            "@id": "https://hi-nishikie.web.app/api/iiif/collection/nishikie_yokohama.json",
+            "@type": "sc:Collection",
+            "label": "横浜開港資料館"
+        }
+    ],
+}

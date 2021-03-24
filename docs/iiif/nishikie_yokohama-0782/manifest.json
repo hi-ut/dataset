@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0782/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "武陽横浜神風楼賑之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "武陽横浜神風楼賑之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-33-005-00"
+        },
+        {
+            "label": "画工名",
+            "value": "豊重画：小林英次良"
+        },
+        {
+            "label": "画工住所",
+            "value": "神田八名川町５"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年９月２１日届(18770090210)"
+        },
+        {
+            "label": "版元名",
+            "value": "真下常"
+        },
+        {
+            "label": "版元住所",
+            "value": "本郷森川町１６"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥八"
+        },
+        {
+            "label": "地名",
+            "value": "横浜"
+        },
+        {
+            "label": "人名",
+            "value": "豊重（国松）"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娼・妓(含売春）／建築／劇場"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "神風楼/宴会/蒸気車/三味線/遊女/大道芸人/ガス灯/洋犬"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-686。上余白に「亥八」の検印と「大正堂小林」の印あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0782/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

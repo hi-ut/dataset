@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1005/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "三崎座秋狂言所作紅葉狩",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "三崎座秋狂言所作紅葉狩"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-26-(19)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊原国周筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２６年１０月(18930100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田熊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川町１９"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "市川笑燕（余五将軍平維茂）/市川粂八（姫紅葉/実は戸隠山鬼女の精）/市川桂三（戸隠山神之翁）/市川かつら（腰元葉末）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "紅葉狩"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1005/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

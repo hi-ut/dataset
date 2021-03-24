@@ -1,0 +1,125 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0651/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "近世人物誌第十二五代目阪東彦三郎",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "近世人物誌第十二五代目阪東彦三郎"
+        },
+        {
+            "label": "書名",
+            "value": "近世人物誌"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-63-2-2-(3)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳年"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２０年９月２５日(18870090250)"
+        },
+        {
+            "label": "版元名",
+            "value": "やまと新聞社"
+        },
+        {
+            "label": "版元住所",
+            "value": "京橋区尾張町２丁目１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工円活"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "阪東彦三郎（５代目）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "やまと新聞２９３号附録"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0651/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0651/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1275,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0651/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0651/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1275,
+                                "width": 870
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000006.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1275,
+                        "width": 870
+                    },
+                    "width": 870
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000038/00000006.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1275,
+        "width": 870
+    },
+    "viewingDirection": "right-to-left"
+}

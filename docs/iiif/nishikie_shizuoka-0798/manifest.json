@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0798/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（虎蔵智恵内と鬼一法眼）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（虎蔵智恵内と鬼一法眼）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（１８）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-18-(19)"
+        },
+        {
+            "label": "画工名",
+            "value": "一勇斎国芳画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "嘉永２年？(18490550552)"
+        },
+        {
+            "label": "版元名",
+            "value": "伊場屋仙三郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "米良/村田"
+        },
+        {
+            "label": "人名",
+            "value": "歌右衛門（鬼一法眼）/三十郎（智恵内）/しうか（虎蔵）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "鬼一法眼三巻略"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "嘉永2年9月より市村座にて「鬼一法眼」、鬼一(歌右衛門)、智恵内(三十郎)、虎蔵(しうか)、これにあたるか？"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0798/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

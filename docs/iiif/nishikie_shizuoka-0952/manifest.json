@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0952/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（左団次の頼光）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（左団次の頼光）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-25-(02)"
+        },
+        {
+            "label": "画工名",
+            "value": "国周筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３年６月(18700060550)"
+        },
+        {
+            "label": "版元名",
+            "value": "小川半助"
+        },
+        {
+            "label": "版元住所",
+            "value": "猿若町三丁目"
+        },
+        {
+            "label": "彫師",
+            "value": "彫卯多"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "午六改"
+        },
+        {
+            "label": "人名",
+            "value": "中村芝翫（袴垂保輔）/市川左団次（源頼光）/岩井紫若（美切丸）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "好音魁紫紀花咄"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治3年6月25日より守田座にて「好音魁紫紀花咄」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0952/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

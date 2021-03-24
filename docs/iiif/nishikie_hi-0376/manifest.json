@@ -1,0 +1,155 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "妙医甲斐徳本痳疹之来記",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "妙医甲斐徳本痳疹之来記"
+        },
+        {
+            "label": "書名",
+            "value": "文久麻疹流行漫画集"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "東京大学史料編纂所"
+        },
+        {
+            "label": "請求記号",
+            "value": "0380-14-(12)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳藤画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久２年７月(18620070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "相模屋藤吉（相ト）"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "戌七改"
+        },
+        {
+            "label": "人名",
+            "value": "岳亭春信/甲斐徳本/文の屋仲丸"
+        },
+        {
+            "label": "主題",
+            "value": "疾病（衛生）／麻疹"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "講釈"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書は岳亭春信、替歌は文の屋仲丸、「薬用と手当をさきにするがなる富士とあげたる山もなにかは」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1307,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/p1-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/canvas/p1",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1307,
+                                "width": 851
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000014.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1307,
+                        "width": 851
+                    },
+                    "width": 851
+                },
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1302,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/p2-image",
+                            "@type": "oa:Annotation",
+                            "format": "image/jpeg",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0376/canvas/p2",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1302,
+                                "width": 851
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000015.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": 1302,
+                        "width": 851
+                    },
+                    "width": 851
+                }
+            ]
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000014.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": 1307,
+        "width": 851
+    },
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0658/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "米俵綱引の図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "米俵綱引の図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-19-047-00"
+        },
+        {
+            "label": "画工名",
+            "value": "広重画：安藤徳兵衛"
+        },
+        {
+            "label": "画工住所",
+            "value": "南紺屋町２７番地"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１３年５月１０日届(18800050100)"
+        },
+        {
+            "label": "版元名",
+            "value": "林吉蔵"
+        },
+        {
+            "label": "版元住所",
+            "value": "南伝馬町１丁目２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "自由民権運動／相場／米相場"
+        },
+        {
+            "label": "細目",
+            "value": "風刺画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "東北の下ケ松/狡猾峠/奸商山/職人/人力/商人/芸者/鳶/南京人"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-758。定価6銭、明治10年代前半のインフレーションを諷刺したもの"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0658/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

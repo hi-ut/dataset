@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0785/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "養蚕天覧之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "養蚕天覧之図"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "横浜開港資料館"
+        },
+        {
+            "label": "請求記号",
+            "value": "Ab1-34-003-00"
+        },
+        {
+            "label": "画工名",
+            "value": "梅寿国利筆印：山村清助"
+        },
+        {
+            "label": "画工住所",
+            "value": "小川町３５"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１３年届(18800550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "井上茂兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町３丁目１７"
+        },
+        {
+            "label": "彫師",
+            "value": "遠藤彫定"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "明治天皇/昭憲皇后"
+        },
+        {
+            "label": "主題",
+            "value": "農林／皇室／天皇／皇室／皇后（含女官）"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "養蚕"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "U-759。"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_yokohama-0785/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}
