@@ -1,0 +1,15 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/iiif/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "東京大学史料編纂所・IIIFコレクション",
+    "collections": [
+        {
+            "@id": "https://hi-nishikie.web.app/api/iiif/collection/hi.json",
+            "@type": "sc:Collection",
+            "label": "錦絵ギャラリー",
+            "thumbnail": "http://www.hi.u-tokyo.ac.jp/collection/images/collect_nishikie.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
