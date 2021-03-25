@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1246/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "肥前佐賀花奥庭怪猫",
+    "label": "近世東侠客太刀売朝五郎",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "肥前佐賀花奥庭怪猫"
+            "value": "近世東侠客太刀売朝五郎"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(56)"
+            "value": "K915-108-28-(14)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆：橋本直義"
+            "value": "国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１７年８月２日届(18840080020)"
+            "value": "慶応３年１２月(18670120550)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎"
+            "value": "福太梓"
         },
         {
             "label": "版元住所",
-            "value": "日本橋通３丁目１３"
-        },
-        {
-            "label": "彫師",
-            "value": "宗岡刀"
+            "value": "赤坂"
         },
         {
             "label": "判",
@@ -57,27 +53,35 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "国名",
-            "value": "肥前"
+            "label": "検印",
+            "value": "卯十二改"
         },
         {
             "label": "地名",
-            "value": "佐賀"
+            "value": "青物市場"
+        },
+        {
+            "label": "人名",
+            "value": "市村家橘/村柑子/太刀売朝五郎"
         },
         {
             "label": "主題",
-            "value": "怪異／怪談"
+            "value": "娯楽／富くじ・ばくち"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
         },
         {
             "label": "その他固有件名",
-            "value": "化猫/鍋島騒動"
+            "value": "侠客/太刀売"
         },
         {
             "label": "その他書誌事項",
-            "value": "(十五)とあり"
+            "value": "詞書あり"
         }
     ],
     "sequences": [

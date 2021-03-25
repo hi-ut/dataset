@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1180/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（婦人束髪会いぎりす結下結の図）",
+    "label": "見立十二ヶ月之内五月十郎祐成市川左団次",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（婦人束髪会いぎりす結下結の図）"
+            "value": "見立十二ヶ月之内五月十郎祐成市川左団次"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(35)"
+            "value": "K915-108-26-(33)"
         },
         {
             "label": "画工名",
-            "value": "国周"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "（明治１８年１０月）(18850100550)"
+            "value": "明治９年？(18760550552)"
         },
         {
             "label": "版元名",
-            "value": "植木林之助"
+            "value": "武川清吉"
         },
         {
             "label": "版元住所",
-            "value": "堀江町２丁目２"
+            "value": "須田町４"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀"
         },
         {
             "label": "判",
@@ -56,16 +60,20 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "惺々暁斎/市川左団次（曽我祐成）"
+        },
+        {
             "label": "主題",
-            "value": "女性／家事・生活"
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "束髪/イギリス結/マガレイト/マーガレット/リボン/洗髪/留針"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "(34)の左側部分と思われる"
+            "value": "曽我物"
         }
     ],
     "sequences": [

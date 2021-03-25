@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1162/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "当世美人揃久喜楼",
+    "label": "富山城雪解清水",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "当世美人揃久喜楼"
+            "value": "富山城雪解清水"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(17)"
+            "value": "K915-108-26-(15)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１月(18650010550)"
+            "value": "明治２３年２月１　日(18900020550)"
         },
         {
             "label": "版元名",
-            "value": "平野屋"
+            "value": "石井六之助"
         },
         {
             "label": "版元住所",
-            "value": "万丁"
+            "value": "日本橋区馬喰町２丁目１１"
         },
         {
             "label": "彫師",
-            "value": "彫太田多七"
+            "value": "ホリ銀"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,27 +57,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "丑正改"
+            "label": "人名",
+            "value": "尾上菊五郎（羽柴久吉）/中村福助（早百合姫霊）/中村芝翫（建部兵庫守）/市川左団次（佐々成政）"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "久喜楼"
+            "value": "富山城雪解清水"
         },
         {
             "label": "その他書誌事項",
-            "value": "番号あれど読めず、左端切断"
+            "value": "明治23年3月2日より新富座にて「富山城雪解清水」"
         }
     ],
     "sequences": [

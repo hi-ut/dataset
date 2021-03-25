@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2018/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新板狂言所作事",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新板狂言所作事"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-42-(33)"
+        },
+        {
+            "label": "画工名",
+            "value": "生田幾三郎"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１２年届(18790550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "荒川藤兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区馬喰町２丁目９"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "春駒/朝妻船/保奈の狂乱/手習子/大江山の下山かつ/金太郎山姥/菊寿童/夜鷹米市/三番千歳/蕎麦売り/女太夫/浜松風/所作事"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "42-(62)も同一図"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2018/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

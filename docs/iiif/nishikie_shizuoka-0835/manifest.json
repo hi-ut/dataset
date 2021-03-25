@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0835/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所図会愛宕山",
+    "label": "和漢準源氏末つむ花無官大夫敦盛",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所図会愛宕山"
+            "value": "和漢準源氏末つむ花無官大夫敦盛"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(53)"
+            "value": "K915-108-18-(56)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "不明(00000000000)"
+            "value": "安政２年１２月(18550120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "伊勢芳"
+        },
+        {
+            "label": "彫師",
+            "value": "彫庄治"
         },
         {
             "label": "判",
@@ -45,23 +53,27 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "地名",
-            "value": "愛宕山"
+            "label": "検印",
+            "value": "改/卯十二"
+        },
+        {
+            "label": "人名",
+            "value": "平敦盛"
         },
         {
             "label": "主題",
-            "value": "風景画／名所図絵"
+            "value": "歴史画／歴史画／源氏絵"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
-            "label": "その他書誌事項",
-            "value": "詞書あり"
+            "label": "その他固有件名",
+            "value": "平家物語/源氏物語/末摘花"
         }
     ],
     "sequences": [

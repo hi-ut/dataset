@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0992/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（矢之根五郎に牛若丸熊坂長範）",
+    "label": "東京名勝図会芝山内丸山の見はらし",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（矢之根五郎に牛若丸熊坂長範）"
+            "value": "東京名勝図会芝山内丸山の見はらし"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(06)"
+            "value": "K915-108-22-(49)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１５年１１月１３日届(18820110130)"
+            "value": "（明治２年）(18690550550)"
         },
         {
             "label": "版元名",
-            "value": "荒井喜三郎"
+            "value": "小林鉄次郎（丸鉄）"
         },
         {
             "label": "版元住所",
-            "value": "南伝馬町２丁目２"
+            "value": "通二"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,24 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川団十郎（矢之根五郎）/中村梅助（牛若丸）/中村芝翫（熊坂長範）"
+            "label": "地名",
+            "value": "ナ/丸山"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "矢の根/色成楓夕栄"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治15年11月8日新富座にて「色成楓夕栄」、芝翫の熊坂、大切は十八番の「矢の根」"
+            "value": "東照宮/丸山古跡"
         }
     ],
     "sequences": [

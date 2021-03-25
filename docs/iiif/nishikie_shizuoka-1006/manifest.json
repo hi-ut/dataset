@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1006/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "松名高紅葉京橋",
+    "label": "東京名所図会筋違万代橋",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "松名高紅葉京橋"
+            "value": "東京名所図会筋違万代橋"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(20)"
+            "value": "K915-108-22-(63)"
         },
         {
             "label": "画工名",
-            "value": "豊春楼国周印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２５年１０月８日(18920100080)"
+            "value": "明治７年３月(18740030550)"
         },
         {
             "label": "版元名",
-            "value": "具足屋板"
-        },
-        {
-            "label": "版元住所",
-            "value": "人形町"
-        },
-        {
-            "label": "彫師",
-            "value": "彫弥太"
+            "value": "伊勢屋喜三郎（いせき）"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +49,27 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "市川左団次（梅田雅楽之助）/市川権十郎（桜井武雄）"
+            "label": "検印",
+            "value": "戌三"
+        },
+        {
+            "label": "地名",
+            "value": "筋違門"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／橋梁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "松名高紅葉京橋"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治25年11月10日より市村座にて「松名高紅葉京橋」"
+            "value": "万代橋"
         }
     ],
     "sequences": [

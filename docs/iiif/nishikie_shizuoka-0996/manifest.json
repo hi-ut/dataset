@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0996/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（福助の姐妃と権十郎の那須与一）",
+    "label": "東京名所図会愛宕山",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（福助の姐妃と権十郎の那須与一）"
+            "value": "東京名所図会愛宕山"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(10)"
+            "value": "K915-108-22-(53)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２０年１月１３日届(18870010130)"
-        },
-        {
-            "label": "版元名",
-            "value": "松木平吉"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区吉川町２"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -45,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,24 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "嵐瑠幸（駒の井御前）/市川権十郎（奈須与市）/中村福助（小太郎乳人）/中村政次郎（奈須小太郎）/沢村訥子（荒川小文治）"
+            "label": "地名",
+            "value": "愛宕山"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "今姐妃浪花聞書"
+            "value": "風景画"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治20年1月13日より中村座にて「今姐妃浪花聞書」"
+            "value": "詞書あり"
         }
     ],
     "sequences": [

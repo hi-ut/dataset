@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1056/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（いかけ松）",
+    "label": "青柳楼梅吉",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（いかけ松）"
+            "value": "青柳楼梅吉"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(25)"
+            "value": "K915-108-23-(26)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "香蝶楼国貞筆印/国政筆"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応２年３月(18660030550)"
+            "value": "慶応３年４月(18670040550)"
         },
         {
             "label": "版元名",
-            "value": "井筒屋"
+            "value": "遠州屋彦兵衛"
         },
         {
             "label": "彫師",
-            "value": "彫栄"
+            "value": "片田彫長"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +57,27 @@
         },
         {
             "label": "検印",
-            "value": "寅三改"
+            "value": "卯四改"
         },
         {
             "label": "人名",
-            "value": "坂東三津五郎（芸者おくみ）/沢村訥升（森戸屋宗次郎）/大谷友右衛門（くりから伝次）"
+            "value": "梅吉/国政"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "娯楽／娼・妓(含売春）"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "美人画"
         },
         {
             "label": "その他固有件名",
-            "value": "鋳掛松/船打込橋間白浪"
+            "value": "青柳楼"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応2年2月12日より守田座にて「船打込橋間白浪」、いかけ松を市川小団次が演じ大当り、しかし3月10日より病気引、ついに病死"
+            "value": "「たうせいこのみすかたのあつらへ」とあり、背景は国政画"
         }
     ],
     "sequences": [

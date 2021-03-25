@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1201/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "名勝美人会讃岐象頭山",
+    "label": "（八陣守護本城）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "名勝美人会讃岐象頭山"
+            "value": "（八陣守護本城）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(11)"
+            "value": "K915-108-27-(09)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３１年２月２０日(18980020200)"
+            "value": "明治１９年１月２２日(18860010220)"
         },
         {
             "label": "版元名",
-            "value": "松木平吉"
+            "value": "佐々木豊吉"
         },
         {
             "label": "版元住所",
-            "value": "東京日本橋区吉川町２"
+            "value": "京橋区南鍋町２丁目２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,20 +60,24 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "象頭山"
+            "label": "人名",
+            "value": "市川団十郎（加藤清正）/市川寿美蔵（大内義弘）/坂東秀調（清正妻葉末）/市川左団次（後藤基次）"
         },
         {
             "label": "主題",
-            "value": "女性／建築／神社"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "金毘羅"
+            "value": "南無妙法蓮華経/八陣守護本城"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治19年1月16日より新富座にて「八陣守護本城」"
         }
     ],
     "sequences": [

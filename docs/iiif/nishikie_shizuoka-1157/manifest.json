@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1157/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "葵艸松の裏苑第七帙",
+    "label": "（福助の姐妃と権十郎の那須与一）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "葵艸松の裏苑第七帙"
+            "value": "（福助の姐妃と権十郎の那須与一）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(12)"
+            "value": "K915-108-26-(10)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１２年届(18790550550)"
+            "value": "明治２０年１月１３日届(18870010130)"
         },
         {
             "label": "版元名",
-            "value": "武川清吉"
+            "value": "松木平吉"
         },
         {
             "label": "版元住所",
-            "value": "須田丁４"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀次郎"
+            "value": "日本橋区吉川町２"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,15 +57,23 @@
         },
         {
             "label": "人名",
-            "value": "九皐堂真容（鶴田）/徳川家継御台所/八十宮/浄林院殿"
+            "value": "嵐瑠幸（駒の井御前）/市川権十郎（奈須与市）/中村福助（小太郎乳人）/中村政次郎（奈須小太郎）/沢村訥子（荒川小文治）"
         },
         {
             "label": "主題",
-            "value": "幕府／将軍／歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "今姐妃浪花聞書"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治20年1月13日より中村座にて「今姐妃浪花聞書」"
         }
     ],
     "sequences": [

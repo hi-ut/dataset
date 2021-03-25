@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0987/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（鋳掛松立腹の場）",
+    "label": "東京開華名所図絵之内海運橋第一国立銀行",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（鋳掛松立腹の場）"
+            "value": "東京開華名所図絵之内海運橋第一国立銀行"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(01)"
+            "value": "K915-108-22-(44)"
         },
         {
             "label": "画工名",
-            "value": "國周筆印"
+            "value": "広重筆（三代目）"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応２年３月(18660030550)"
+            "value": "不明(00000000000)"
         },
         {
             "label": "版元名",
-            "value": "清水屋常次郎"
+            "value": "熊谷庄七"
+        },
+        {
+            "label": "版元住所",
+            "value": "小舟町３丁目１１番地"
+        },
+        {
+            "label": "彫師",
+            "value": "彫多"
         },
         {
             "label": "判",
@@ -41,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -49,31 +57,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "寅三改"
-        },
-        {
-            "label": "人名",
-            "value": "尾上菊次郎（文蔵妻お咲）/市川小団次（鋳掛松）/市川小文治（道具屋番頭）"
+            "label": "地名",
+            "value": "海運橋"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "文明開化／建築／洋館／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "鋳掛松/船打込橋間白浪"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "慶応2年2月12日より守田座にて「船打入橋間白浪」、好評なれども3月10日より小団次病気引き、5月8日没、55歳"
+            "value": "第一国立銀行/人力車"
         }
     ],
     "sequences": [

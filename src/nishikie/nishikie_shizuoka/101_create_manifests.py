@@ -34,12 +34,14 @@ def download_img(url, file_name):
             r.raw.decode_content = True
             shutil.copyfileobj(r.raw, f)
 
-ids = []
-
 for i in range(len(files)):
     file = files[i]
     if i % 100 == 0:
         print(i+1, len(files), file)
+
+    if str(i+1) not in file:
+        print(file)
+
     soup = bs4.BeautifulSoup(open(file), 'lxml')
     aas = soup.find_all("a")
 
@@ -78,11 +80,6 @@ for i in range(len(files)):
 
         if field == "題名":
             label = value
-
-    if cn in ids:
-        print(cn, file)
-    else:
-        ids.append(cn)
 
 
     prefix = prefix0 + "/iiif/{}-{}".format(dirname, str(i+1).zfill(4))

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0963/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "足利光氏沢村訥升たそがれ坂東三津五郎",
+    "label": "三十六花撰東京広尾原桔梗",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "足利光氏沢村訥升たそがれ坂東三津五郎"
+            "value": "三十六花撰東京広尾原桔梗"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(13)"
+            "value": "K915-108-22-(24)"
         },
         {
             "label": "画工名",
-            "value": "国周筆"
+            "value": "喜斎立祥印（喜斎）"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年９月(18670090550)"
+            "value": "（慶応２年）(18660550550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋亀吉"
+            "value": "蔦屋吉蔵（蔦吉板）"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "卯九改"
+            "value": "切断"
         },
         {
-            "label": "人名",
-            "value": "沢村訥升（足利光氏）/たそがれ（坂東三津五郎）"
+            "label": "地名",
+            "value": "広尾"
         },
         {
             "label": "主題",
-            "value": "文芸／演劇／歌舞伎"
+            "value": "動植物画／草木・花・果実／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "源氏物語/恋暮時雨袖古寺/諺紫田舎源氏"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "慶応3年10月6日より守田座にて「恋暮時雨袖古寺」"
+            "value": "桔梗"
         }
     ],
     "sequences": [

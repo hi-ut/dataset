@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1004/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（彦三郎の羽柴秀吉と訥升の清元秀吉）",
+    "label": "東京名所新橋ステンション蒸気車図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（彦三郎の羽柴秀吉と訥升の清元秀吉）"
+            "value": "東京名所新橋ステンション蒸気車図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(18)"
+            "value": "K915-108-22-(61)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治９年９月２０日届(18760090200)"
+            "value": "明治９年８月届(18760080550)"
         },
         {
             "label": "版元名",
-            "value": "植木林之助板"
+            "value": "浅野栄蔵"
         },
         {
             "label": "版元住所",
-            "value": "堀江町２丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "渡辺彫弥太"
+            "value": "上野広小路丁３番地"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川幸作（三坊子丸）/坂東彦三郎（羽柴秀吉）/市川団十郎（柴田勝家）/市川左団次（清元延勝）/沢村訥升（清元秀吉）"
+            "label": "地名",
+            "value": "新橋"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／鉄道／建築／ステーション／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／建物"
         },
         {
             "label": "その他固有件名",
-            "value": "音響千成瓢/出世娘瓢簪"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "定価6銭、明治9年9月15日より新富座にて「音響千成瓢」、2番目「出世娘瓢簪」"
+            "value": "ステーション"
         }
     ],
     "sequences": [

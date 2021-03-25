@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2191/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "旧弊開化盛衰くらべ",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "旧弊開化盛衰くらべ"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(30)"
+        },
+        {
+            "label": "画工名",
+            "value": "梅堂狂画：画工竹内栄久"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年５月１１日届(18770050110)"
+        },
+        {
+            "label": "版元名",
+            "value": "大西庄之助"
+        },
+        {
+            "label": "版元住所",
+            "value": "松島丁１"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "士族反乱／西南戦争／文明開化"
+        },
+        {
+            "label": "細目",
+            "value": "風刺画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "定価5銭、当時流行野蛮題之誌「開化生利怪化成、旧弊早舞新平起、甘者新制西洋艦、辛而名代征韓糖、肥前車覆性懲莫、肥後車戒頓守不、暴動楯突天師敵不、平暇取官院出、昨年山口荒熊撃、今般前原又鹿逐、学校書生書于非、在郷農父農而無、提乎負邪廃脱刀、切足張矣電辰機、島"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2191/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

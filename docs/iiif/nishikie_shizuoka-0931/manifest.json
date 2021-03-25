@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0931/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "夢結蝶鳥追",
+    "label": "源三位頼政猪早太",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "夢結蝶鳥追"
+            "value": "源三位頼政猪早太"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(11)"
+            "value": "K915-108-21-(55)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼豊斎画印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２７年１月(18940010550)"
+            "value": "不明(00000000000)"
         },
         {
             "label": "版元名",
-            "value": "小森作太郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区馬喰町３丁目１０"
-        },
-        {
-            "label": "彫師",
-            "value": "間世彫徳"
+            "value": "川口屋正蔵"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,28 +52,16 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "吾妻橋"
-        },
-        {
             "label": "人名",
-            "value": "尾上栄三郎（女太夫おこよ）/尾上松助（女太夫おとら）/尾上菊之助（阿古木源之丞）/尾上菊五郎（雪駄直し長五郎）"
+            "value": "源頼政/猪早太"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "歴史画"
         },
         {
             "label": "細目",
             "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "雪駄直し長五郎"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治27年1月12日より歌舞伎座にて「夢結蝶鳥追」"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0983/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（菅原伝授手習鑑）",
+    "label": "東京名所両ごく回向院元柳橋",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（菅原伝授手習鑑）"
+            "value": "東京名所両ごく回向院元柳橋"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(33)"
+            "value": "K915-108-22-(40)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３年１０月(18700100550)"
+            "value": "（安政４年５月）(18570050550)"
         },
         {
             "label": "版元名",
-            "value": "大黒屋平吉"
+            "value": "魚栄"
         },
         {
             "label": "版元住所",
-            "value": "両国"
+            "value": "下谷"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "午十改"
-        },
-        {
-            "label": "人名",
-            "value": "大谷広治（藤原時平）/松王丸（坂東薪水）/尾上梅幸（桜丸）/河原崎権之助（舎人梅王丸）"
+            "label": "地名",
+            "value": "両国/元柳橋"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "回向院"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治3年10月25日より中村座にて「菅原」"
+            "value": "広重の「名所江戸百景」のタイトルを「東京名所」とかえて明治初年に摺り出したもの、他は全く同一"
         }
     ],
     "sequences": [

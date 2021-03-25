@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0865/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東海道五十三次石部目川の名物でんがく",
+    "label": "（早瀬伊織と万歳師）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道五十三次石部目川の名物でんがく"
+            "value": "（早瀬伊織と万歳師）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（２０）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,35 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(80)-1"
+            "value": "K915-108-20-(07)"
         },
         {
             "label": "画工名",
-            "value": "広重筆"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治４年７月(18710070550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "人形屋多吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "元飯田町中坂"
+        },
+        {
+            "label": "彫師",
+            "value": "廉吉"
         },
         {
             "label": "判",
-            "value": "その他"
+            "value": "大判"
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -49,27 +61,27 @@
         },
         {
             "label": "検印",
-            "value": "未七改"
+            "value": "米良/村田"
         },
         {
-            "label": "地名",
-            "value": "石部/目川"
+            "label": "人名",
+            "value": "早瀬伊織/非人の頭腕の伝吉/早瀬源次郎/築地の善之丞/高間鈴太夫/大和の小万歳鶴若"
         },
         {
             "label": "主題",
-            "value": "風景画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "吉野銀"
+            "value": "万歳/天下茶屋聚"
         },
         {
             "label": "その他書誌事項",
-            "value": "「五十三」とあり"
+            "value": "「廉吉鏤之」とあり、18-(12)にも同種の錦絵あり"
         }
     ],
     "sequences": [

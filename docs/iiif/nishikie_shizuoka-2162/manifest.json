@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2162/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新撰太閤記（山崎合戦加藤清正近藤半助一騎打の図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新撰太閤記（山崎合戦加藤清正近藤半助一騎打の図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(01)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊宣画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１６年６月２０日届(18830060200)"
+        },
+        {
+            "label": "版元名",
+            "value": "綱島亀吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町２丁目１４"
+        },
+        {
+            "label": "彫師",
+            "value": "彫亀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "山崎"
+        },
+        {
+            "label": "人名",
+            "value": "加藤清正/近藤半助/中川清秀"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "山崎合戦"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書、山崎合戦の時、加藤清正使番たり、時々路次にて近藤半助の足軽共を引廻、鉄砲打たせ居るを見て、清正突駈寄、声を掛るが否や、二尺九寸の刀を以て大げさに打放、首を取て悠々と本陣へ帰れり、台慢は百事の敵、近藤半助の終世"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2162/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

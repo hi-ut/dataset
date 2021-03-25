@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0989/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（八百屋半兵衛お千代）",
+    "label": "東京自慢名勝八景永代帰帆",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（八百屋半兵衛お千代）"
+            "value": "東京自慢名勝八景永代帰帆"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(03)"
+            "value": "K915-108-22-(46)"
         },
         {
             "label": "画工名",
-            "value": "五渡亭国貞画"
+            "value": "広重筆"
         },
         {
             "label": "和暦年月日",
-            "value": "天保５年９月(18340090550)"
+            "value": "明治４年３月(18710030550)"
         },
         {
             "label": "版元名",
-            "value": "佐野喜/若松"
+            "value": "政田屋板"
+        },
+        {
+            "label": "版元住所",
+            "value": "土橋"
         },
         {
             "label": "判",
@@ -41,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +57,19 @@
         },
         {
             "label": "検印",
-            "value": "極"
-        },
-        {
-            "label": "人名",
-            "value": "岩井半四郎（女房お千代）/沢村訥升（八百屋半兵衛）"
+            "value": "未三改"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／橋梁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "千代見草恋中墻/八百屋献立"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "天保5年9月12日より森田座にて「千代見草恋中墻」"
+            "value": "永代橋"
         }
     ],
     "sequences": [

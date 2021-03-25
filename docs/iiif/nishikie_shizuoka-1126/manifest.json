@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1126/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（芝居小判絵楼門の場他三図）",
+    "label": "（さざ波実は忠度）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（芝居小判絵楼門の場他三図）"
+            "value": "（さざ波実は忠度）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(55)"
+            "value": "K915-108-25-(15)"
         },
         {
             "label": "画工名",
-            "value": "（国周）：荒川八十八"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１２年１２月５日届(18790120050)"
-        },
-        {
-            "label": "版元名",
-            "value": "林吉蔵"
-        },
-        {
-            "label": "版元住所",
-            "value": "南伝馬町１丁目２"
+            "value": "明治７年１０月(18740100550)"
         },
         {
             "label": "彫師",
-            "value": "彫弥太"
+            "value": "彫銀"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,11 +49,15 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "戌十"
         },
         {
             "label": "人名",
-            "value": "高助（久吉）/多見蔵（五右衛門）/佐団次（政尾）/半四郎（おではのかた）/菊五郎（大月）/団十郎（若山公）/宗十郎"
+            "value": "尾上菊五郎（さざ波/実は忠度）/市川左団次（楽人斎）/坂東彦三郎（岡部六弥太）"
         },
         {
             "label": "主題",
@@ -73,11 +69,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "双六/楼門の場/鏡山部屋の場/鏡山書院の場/若山記"
+            "value": "一谷凱歌小謡曲"
         },
         {
             "label": "その他書誌事項",
-            "value": "(55)(56)(57)は1枚の双六の4分の1づつのもの"
+            "value": "明治7年10月18日より守田座にて「一谷凱歌小謡曲」"
         }
     ],
     "sequences": [

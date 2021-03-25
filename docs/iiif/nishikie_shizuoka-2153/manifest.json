@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2153/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "明治十三年五月於回向院境内に大相撲土俵入之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "明治十三年五月於回向院境内に大相撲土俵入之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-43-(67)"
+        },
+        {
+            "label": "画工名",
+            "value": "蜂須賀国明画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１３年５月届(18800050550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大黒屋平吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "東京両国吉川町"
+        },
+        {
+            "label": "判",
+            "value": "その他"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "嶋田川/稲川/入間川/梅谷/阿武松/武蔵潟"
+        },
+        {
+            "label": "主題",
+            "value": "スポーツ／相撲"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詳細な絵入り番附"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2153/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1318/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "葵艸松の裏苑第七帙",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "葵艸松の裏苑第七帙"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２９）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-29-(12)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊原国周筆印：荒川八十八"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１２年届(18790550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "武川清吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "須田丁４"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工銀次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "九皐堂真容（鶴田）/徳川家継御台所/八十宮/浄林院殿"
+        },
+        {
+            "label": "主題",
+            "value": "幕府／将軍／歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1318/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

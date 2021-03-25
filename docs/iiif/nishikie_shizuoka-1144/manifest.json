@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1144/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "誠忠義士伝桃井若狭之助保近",
+    "label": "（菅原伝授手習鑑）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "誠忠義士伝桃井若狭之助保近"
+            "value": "（菅原伝授手習鑑）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(72)-2"
+            "value": "K915-108-25-(33)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応２年７月(18660070550)"
+            "value": "明治３年１０月(18700100550)"
         },
         {
             "label": "版元名",
-            "value": "木屋板"
+            "value": "大黒屋平吉"
         },
         {
             "label": "版元住所",
-            "value": "馬喰四"
-        },
-        {
-            "label": "彫師",
-            "value": "彫栄"
+            "value": "両国"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,11 +57,11 @@
         },
         {
             "label": "検印",
-            "value": "寅七改"
+            "value": "午十改"
         },
         {
             "label": "人名",
-            "value": "桃井若狭之助"
+            "value": "大谷広治（藤原時平）/松王丸（坂東薪水）/尾上梅幸（桜丸）/河原崎権之助（舎人梅王丸）"
         },
         {
             "label": "主題",
@@ -73,15 +69,11 @@
         },
         {
             "label": "細目",
-            "value": "肖像画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "忠臣蔵"
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書あり"
+            "value": "明治3年10月25日より中村座にて「菅原」"
         }
     ],
     "sequences": [

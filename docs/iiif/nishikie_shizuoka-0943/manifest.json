@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0943/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "故大教正堀越秀玉垣道守彦命芸名市川団十郎",
+    "label": "江戸名所五百羅漢さざゐ堂",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "故大教正堀越秀玉垣道守彦命芸名市川団十郎"
+            "value": "江戸名所五百羅漢さざゐ堂"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(23)"
+            "value": "K915-108-22-(04)"
         },
         {
             "label": "画工名",
-            "value": "なし"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３６年(19030550550)"
-        },
-        {
-            "label": "版元名",
-            "value": "福田初次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区長谷川町１９"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -45,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,20 +48,16 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川団十郎（仁木弾正）"
-        },
-        {
             "label": "主題",
-            "value": "文明開化／神道／演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "死絵"
+            "value": "風景画"
         },
         {
-            "label": "その他書誌事項",
-            "value": "「明治36年9月13日行年66才青山墓地」とあり、「電浪394」とあり"
+            "label": "その他固有件名",
+            "value": "五百羅漢/さざえ堂"
         }
     ],
     "sequences": [

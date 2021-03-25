@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0925/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "歌舞伎座新狂言伽羅先代萩",
+    "label": "名所江戸百景井の頭乃池弁天の社",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "歌舞伎座新狂言伽羅先代萩"
+            "value": "名所江戸百景井の頭乃池弁天の社"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,35 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(05)"
+            "value": "K915-108-21-(49)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼筆"
+            "value": "広重筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３１年(18980550550)"
-        },
-        {
-            "label": "版元名",
-            "value": "堤吉兵衛"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区吉川町５"
-        },
-        {
-            "label": "彫師",
-            "value": "荒木刀"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +48,24 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "尾上菊五郎（足利頼兼）/中村福助（三浦屋高尾）/尾上栄三郎（新造高窓）/尾上丑之助（禿紅葉）"
+            "label": "地名",
+            "value": "井の頭"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "建築／神社／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "先代萩/裏表春着伊達織"
+            "value": "弁天社/井頭池"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治31年3月5日より歌舞伎座にて「裏表春着伊達織」"
+            "value": "複製"
         }
     ],
     "sequences": [

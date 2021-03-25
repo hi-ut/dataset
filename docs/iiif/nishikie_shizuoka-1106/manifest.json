@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1106/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "歌舞伎三十六句かけ清",
+    "label": "助高屋小伝次",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "歌舞伎三十六句かけ清"
+            "value": "助高屋小伝次"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(35)"
+            "value": "K915-108-24-(25)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "梅堂豊斎筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年９月(18650090550)"
+            "value": "明治３２年９月１日(18990090010)"
         },
         {
             "label": "版元名",
-            "value": "増田屋"
+            "value": "井上吉次郎"
         },
         {
             "label": "版元住所",
-            "value": "江戸芝神明前"
+            "value": "日本橋区本町２丁目１０"
         },
         {
             "label": "判",
@@ -53,15 +53,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "丑九改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "景清/河原崎権十郎/二葉軒"
+            "value": "助高屋小伝次"
         },
         {
             "label": "主題",
@@ -69,15 +65,11 @@
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "山崎屋"
+            "value": "死絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "「山崎屋古こん大当り」とあり"
+            "value": "「助高屋小伝次、享年十六年八ヶ月、当八月二十五日病重リテ死ス、法名高照院伝誉政明居士、菩提所本所千歳町西光寺」とあり"
         }
     ],
     "sequences": [

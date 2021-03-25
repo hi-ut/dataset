@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1003/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（片岡我童の野晒悟助）",
+    "label": "東京名所不忍池上野真図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（片岡我童の野晒悟助）"
+            "value": "東京名所不忍池上野真図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(17)"
+            "value": "K915-108-22-(60)"
         },
         {
             "label": "画工名",
-            "value": "豊原國周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１８年９月２０日届(18850090200)"
-        },
-        {
-            "label": "版元名",
-            "value": "三浦武明"
-        },
-        {
-            "label": "版元住所",
-            "value": "浅草区並木町１"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工野田岡三郎"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -49,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "坂東家橘（浮世戸平）/尾上菊五郎（羅漢清蔵/土器売詫助）/片岡我童（野晒悟助）/岩井松之助（詫助娘小賤）"
+            "label": "地名",
+            "value": "上野/不忍池"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "酔菩提新酒又六"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "定価金6銭、明治18年10月5日より千歳座にて「酔菩提新酒又六」、「此の芝居不入にて直に千秋楽」と『歌舞伎年表』にあり"
+            "value": "馬車/人力車"
         }
     ],
     "sequences": [

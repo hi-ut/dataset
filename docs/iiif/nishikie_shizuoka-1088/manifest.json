@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1088/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "近世東侠客恵の勢五郎",
+    "label": "織姫繻子緑色絲",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "近世東侠客恵の勢五郎"
+            "value": "織姫繻子緑色絲"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(17)"
+            "value": "K915-108-24-(07)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "応需香朝楼筆"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１１月(18650110550)"
+            "value": "明治２７年５月(18940050550)"
         },
         {
             "label": "版元名",
-            "value": "福太梓"
+            "value": "森本順三郎"
         },
         {
             "label": "版元住所",
-            "value": "赤坂"
+            "value": "浅草区瓦丁２"
+        },
+        {
+            "label": "彫師",
+            "value": "ホリ徳"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,31 +57,31 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "卯十一改"
+            "label": "地名",
+            "value": "桐生"
         },
         {
             "label": "人名",
-            "value": "村柑子/恵の勢五郎/め組の勢五郎"
+            "value": "市川権十郎（山田衛士織部）/市川左団次（白瀧姫）/市川米蔵（官女水無瀬）/市川莚女（官女皐月）"
         },
         {
             "label": "主題",
-            "value": "娯楽／富くじ・ばくち"
+            "value": "農林／演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "侠客"
+            "value": "織姫嬬子縁色糸"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書あり"
+            "value": "明治27年5月12日より明治座にて「織姫嬬子縁色糸」、桐生名産の繻子広告のもの"
         }
     ],
     "sequences": [

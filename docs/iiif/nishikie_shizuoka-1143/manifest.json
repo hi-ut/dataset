@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1143/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "誠忠義士伝高武蔵守師直",
+    "label": "（田之助の清姫）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "誠忠義士伝高武蔵守師直"
+            "value": "（田之助の清姫）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,7 +21,7 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(72)-1"
+            "value": "K915-108-25-(32)"
         },
         {
             "label": "画工名",
@@ -29,19 +29,15 @@
         },
         {
             "label": "和暦年月日",
-            "value": "慶応２年７月(18660070550)"
+            "value": "明治２年２月(18690020550)"
         },
         {
             "label": "版元名",
-            "value": "木屋板"
-        },
-        {
-            "label": "版元住所",
-            "value": "馬喰四"
+            "value": "津国屋伊三郎"
         },
         {
             "label": "彫師",
-            "value": "彫栄"
+            "value": "彫辰"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,11 +57,11 @@
         },
         {
             "label": "検印",
-            "value": "寅七改"
+            "value": "巳三改"
         },
         {
             "label": "人名",
-            "value": "高師直"
+            "value": "市川左団次（剛寂僧都）/沢村田之助（庄司娘清姫）/沢村訥升（安珍）/尾上多賀之丞（小田巻姫）"
         },
         {
             "label": "主題",
@@ -73,15 +69,15 @@
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "忠臣蔵"
+            "value": "恋紀の路日高曙"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書あり"
+            "value": "明治2年1月28日より守田座にて「恋紀の路日高曙」"
         }
     ],
     "sequences": [

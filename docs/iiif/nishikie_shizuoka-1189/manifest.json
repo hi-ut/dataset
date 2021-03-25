@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1189/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "近世名婦美人鏡種田少将妾勝子",
+    "label": "三芝居花の姿見十一和実沢村訥升立役市川九蔵",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "近世名婦美人鏡種田少将妾勝子"
+            "value": "三芝居花の姿見十一和実沢村訥升立役市川九蔵"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(44)"
+            "value": "K915-108-26-(42)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆"
+            "value": "国周筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２０年２月１２日届(18870020120)"
+            "value": "明治元年４月(18680040550)"
         },
         {
             "label": "版元名",
-            "value": "林吉蔵"
-        },
-        {
-            "label": "版元住所",
-            "value": "京橋区南伝馬丁１丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工弥太"
+            "value": "増田屋"
         },
         {
             "label": "判",
@@ -57,27 +49,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "地名",
-            "value": "熊本"
+            "label": "検印",
+            "value": "辰四改"
         },
         {
             "label": "人名",
-            "value": "種田政明/種田勝子"
+            "value": "沢村訥升（大高主膳）/市川九蔵（人入忠蔵）"
         },
         {
             "label": "主題",
-            "value": "士族反乱／神風連の乱／女性／節婦・善行"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "金春"
+            "value": "役者絵"
         }
     ],
     "sequences": [

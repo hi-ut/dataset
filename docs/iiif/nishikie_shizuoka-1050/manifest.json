@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1050/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（狐忠信）",
+    "label": "（左団次の玉島幸兵衛）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（狐忠信）"
+            "value": "（左団次の玉島幸兵衛）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(19)"
+            "value": "K915-108-23-(20)"
         },
         {
             "label": "画工名",
-            "value": "国貞筆印"
+            "value": "国貞画印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年７月(18670070550)"
+            "value": "元治元年１０月(18640100550)"
         },
         {
             "label": "版元名",
-            "value": "相模屋藤吉"
-        },
-        {
-            "label": "版元住所",
-            "value": "下谷"
-        },
-        {
-            "label": "彫師",
-            "value": "彫須川銀"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,11 +53,11 @@
         },
         {
             "label": "検印",
-            "value": "卯七改"
+            "value": "子十改"
         },
         {
             "label": "人名",
-            "value": "中村芝翫（狐忠信）/沢村訥升（源義経）/岩井紫若（静御前）"
+            "value": "尾上菊次郎（幸兵衛女房お衣霊）/市川左団次（玉島幸兵衛）/市村家橘（小狐礼三）/坂東松次郎"
         },
         {
             "label": "主題",
@@ -77,11 +69,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "千本桜/一守九字成大漁"
+            "value": "小春穏沖白浪"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応3年7月13日より守田座にて「一守九字成大漁」、3枚続きの内、左側の1枚なし"
+            "value": "元治元年11月1日より市村座にて「小春穏沖津白浪」"
         }
     ],
     "sequences": [

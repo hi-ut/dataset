@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2806/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "征韓論之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "征韓論之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集西南之役（巻子）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-109-03-(01)"
+        },
+        {
+            "label": "画工名",
+            "value": "楊洲斎周延拝写：松本直義"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年７月５日届(18770070050)"
+        },
+        {
+            "label": "版元名",
+            "value": "松下平兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "本郷元富士丁１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫秀勝"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "朝鮮"
+        },
+        {
+            "label": "人名",
+            "value": "江藤新平/西郷隆盛/桐野利秋/岩倉具視/柳々子仙果/三条実美/大久保利通/大隈重信/大木喬任/前原一誠/板垣退介/有栖川宮熾仁親王"
+        },
+        {
+            "label": "主題",
+            "value": "征韓論と日朝関係／征韓論"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "定価6銭、詞書あり(柳々子仙果)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2806/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

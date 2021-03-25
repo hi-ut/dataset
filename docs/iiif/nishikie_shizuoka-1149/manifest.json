@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1149/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "やどかり尾上栄三郎",
+    "label": "（男達五人男）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "やどかり尾上栄三郎"
+            "value": "（男達五人男）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(04)"
+            "value": "K915-108-26-(02)"
         },
         {
             "label": "画工名",
-            "value": "国周筆"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年２月(18640020550)"
+            "value": "明治３年１０月(18700100550)"
         },
         {
             "label": "版元名",
-            "value": "越嘉"
+            "value": "萬屋"
         },
         {
             "label": "版元住所",
-            "value": "深川高橋"
+            "value": "通一"
         },
         {
             "label": "彫師",
-            "value": "朝倉彫万"
+            "value": "片田彫長"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,15 +61,15 @@
         },
         {
             "label": "検印",
-            "value": "子二改"
+            "value": "午十改"
         },
         {
             "label": "人名",
-            "value": "尾上栄三郎（やどかり）"
+            "value": "大谷廣治（えんま銅六）/尾上菊五郎（天人吉三）/中村芝翫（仁王力松）/河原崎三升（雷神五郎蔵）/坂東彦三郎（頼政源太）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎／娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
@@ -77,11 +77,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "曽我模様侠御所染"
+            "value": "男達六初雪"
         },
         {
             "label": "その他書誌事項",
-            "value": "歌謡の詞あり、元治元年2月14日より市村座にて「曽我模様侠御所染」、傾城逢州(三津五郎)、逢州妹やどかり(尾上栄三郎)"
+            "value": "明治3年10月25日より中村座にて「男達六初雪」、この際のものか"
         }
     ],
     "sequences": [

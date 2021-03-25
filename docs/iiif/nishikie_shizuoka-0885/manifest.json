@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0885/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "今様美人揃",
+    "label": "富士三十六景信州諏訪之湖",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "今様美人揃"
+            "value": "富士三十六景信州諏訪之湖"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(16)"
+            "value": "K915-108-21-(09)"
         },
         {
             "label": "画工名",
-            "value": "応好国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年１月(18630010550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "大黒屋平吉（大平板）"
-        },
-        {
-            "label": "版元住所",
-            "value": "両国"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -57,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "亥正改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "梅吉"
+            "label": "国名",
+            "value": "信濃"
+        },
+        {
+            "label": "地名",
+            "value": "諏訪湖"
         },
         {
             "label": "主題",
-            "value": "女性"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "松鮨楼"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「松の鮨樓うめ吉」とあり"
+            "value": "富士山"
         }
     ],
     "sequences": [

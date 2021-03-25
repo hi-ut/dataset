@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2235/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "教導立志基（秋色己の駕籠に父を乗せるの図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "教導立志基（秋色己の駕籠に父を乗せるの図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-45-(34)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊原国周"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１８年１２月２６日届(18850120260)"
+        },
+        {
+            "label": "版元名",
+            "value": "松木平吉版"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国吉川町２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "秋色/紅雲舎東窓"
+        },
+        {
+            "label": "主題",
+            "value": "教育／孝行・善行／歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "シリーズ番号37、「秋色ハ江戸小網町菓子商の女なり、常に孝心深く、13才の時東台花見の時、大般若と名付けし桜を見て、「井の端の桜あぶなく酒の酔」と吟ぜるを、二品親王の上聞に達し、屡殿中に召る、或は国中を拝見させんと、父を供にいでたたせ連行しに、帰る頃、大雨降"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2235/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

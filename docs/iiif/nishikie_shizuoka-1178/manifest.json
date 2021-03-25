@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1178/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所六ヶ撰の内吉原",
+    "label": "羅喉星見立競当九星",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所六ヶ撰の内吉原"
+            "value": "羅喉星見立競当九星"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(33)"
+            "value": "K915-108-26-(31)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２３年７月(18900070550)"
+            "value": "明治１０年１０月２２日届(18770100220)"
         },
         {
             "label": "版元名",
-            "value": "佐々木豊吉"
+            "value": "綱島亀吉"
         },
         {
             "label": "版元住所",
-            "value": "京橋区尾張町２丁目１"
+            "value": "浅草瓦町１２"
         },
         {
             "label": "彫師",
-            "value": "彫銀"
+            "value": "彫工弥太"
         },
         {
             "label": "判",
@@ -60,20 +60,20 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "新吉原"
-        },
-        {
             "label": "人名",
-            "value": "中村芝翫（見返りのお翫）"
+            "value": "中村芝翫（西郷隆盛）/岩井半四郎（お杉）/長谷川一嶺"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎／風景画／名所図絵"
+            "value": "士族反乱／西南戦争／演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画／役者絵"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "西南戦争"
         }
     ],
     "sequences": [

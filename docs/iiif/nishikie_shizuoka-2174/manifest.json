@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2174/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "摂州一之谷合戦",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "摂州一之谷合戦"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(13)"
+        },
+        {
+            "label": "画工名",
+            "value": "一幽斎重宣画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "安政５年７月(18580070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "上州屋金蔵（上金）"
+        },
+        {
+            "label": "彫師",
+            "value": "彫千之助"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "午七"
+        },
+        {
+            "label": "地名",
+            "value": "一谷/ひよどり越/鉄界峯/鉢伏山/須磨浦/塩家"
+        },
+        {
+            "label": "人名",
+            "value": "熊谷直実/那須与一/無官太夫敦盛"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "一之谷合戦/須磨内裏"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2174/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0955/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "朝比奈藤兵衛鷲の長吉夢の市郎兵衛",
+    "label": "三十六花撰東京梅屋敷臥龍梅",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "朝比奈藤兵衛鷲の長吉夢の市郎兵衛"
+            "value": "三十六花撰東京梅屋敷臥龍梅"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(05)"
+            "value": "K915-108-22-(16)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "喜斎立祥印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治元年閏４月(18680045550)"
+            "value": "（慶応２年）(18660550550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋亀吉（辻亀）"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工栄"
+            "value": "蔦屋吉蔵（蔦吉版）"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "辰閏改"
+            "value": "切断"
         },
         {
-            "label": "人名",
-            "value": "市川家橘（朝比奈藤兵衛）/中村芝翫（鷲の長吉）/沢村訥升（夢の市郎兵衛）"
+            "label": "地名",
+            "value": "梅屋敷"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "動植物画／草木・花・果実／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "入墨"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "上演のこと不明"
+            "value": "臥龍梅"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0907/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "悌げんじ五十四帖四十九やとり木",
+    "label": "伊勢参宮宮川の渡し",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "悌げんじ五十四帖四十九やとり木"
+            "value": "伊勢参宮宮川の渡し"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(38)"
+            "value": "K915-108-21-(31)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞筆"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "不明(00000000000)"
+            "value": "安政２年４月(18550040550)"
         },
         {
             "label": "判",
@@ -45,23 +45,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "立斎"
+            "label": "検印",
+            "value": "改/卯四"
+        },
+        {
+            "label": "国名",
+            "value": "伊勢"
+        },
+        {
+            "label": "地名",
+            "value": "宮川"
         },
         {
             "label": "主題",
-            "value": "歴史画／源氏絵"
+            "value": "建築／寺院／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風俗"
         },
         {
             "label": "その他固有件名",
-            "value": "源氏物語/化粧道具/宿木"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "寄生木の和歌あり"
+            "value": "伊勢参り"
         }
     ],
     "sequences": [

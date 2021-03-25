@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2026/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（西南戦争４図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（西南戦争４図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-42-(40)"
+        },
+        {
+            "label": "画工名",
+            "value": "村井静馬"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年９月２６日届(18770090260)"
+        },
+        {
+            "label": "版元名",
+            "value": "小森宗次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町４丁目１８"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "川尻/吉次越/高瀬口/花岡山"
+        },
+        {
+            "label": "人名",
+            "value": "西郷隆盛/篠原国幹"
+        },
+        {
+            "label": "主題",
+            "value": "士族反乱／西南戦争"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "1枚4図、定価1銭5厘"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2026/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0994/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優見立旭将軍営中図",
+    "label": "東京名所図会する賀町三ツ井銀行",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優見立旭将軍営中図"
+            "value": "東京名所図会する賀町三ツ井銀行"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(08)"
+            "value": "K915-108-22-(51)"
         },
         {
             "label": "画工名",
-            "value": "応需豊原国周筆印"
+            "value": "広しけ（広重）"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２０年届(18870550550)"
-        },
-        {
-            "label": "版元名",
-            "value": "三宅半四郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区大伝馬町２丁目１４"
-        },
-        {
-            "label": "彫師",
-            "value": "彫弥太"
+            "value": "（明治９年以降）(18760550550)"
         },
         {
             "label": "判",
@@ -49,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,20 +48,24 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "木曽義仲/市川団十郎（巴御前）/尾上菊五郎（義仲）/中村福助（山吹御前）"
+            "label": "地名",
+            "value": "駿河町"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "井戸/三井銀行/資生堂"
         },
         {
             "label": "その他書誌事項",
-            "value": "上演記録なし"
+            "value": "三井銀行は明治9年7月からの名称"
         }
     ],
     "sequences": [

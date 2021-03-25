@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1176/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "美人姿見競",
+    "label": "音聞天竺徳兵衛尾上菊五郎",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "美人姿見競"
+            "value": "音聞天竺徳兵衛尾上菊五郎"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,7 +21,7 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(31)"
+            "value": "K915-108-26-(29)"
         },
         {
             "label": "画工名",
@@ -29,19 +29,19 @@
         },
         {
             "label": "和暦年月日",
-            "value": "明治２１年１２月１９日(18880120190)"
+            "value": "明治３１年６月２８日(18980060280)"
         },
         {
             "label": "版元名",
-            "value": "佐々木豊吉"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "京橋区尾張町２丁目１"
+            "value": "日本橋区長谷川丁１９"
         },
         {
             "label": "彫師",
-            "value": "彫工小三"
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -60,20 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "尾上菊五郎（天竺徳兵衛）"
+        },
+        {
             "label": "主題",
-            "value": "女性／娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "洋装"
+            "value": "音菊天竺徳兵衛"
         },
         {
             "label": "その他書誌事項",
-            "value": "遊女、洋装貴婦人、芸者の三姿"
+            "value": "明治31年6月24日より歌舞伎座にて「音菊天竺徳兵衛」"
         }
     ],
     "sequences": [

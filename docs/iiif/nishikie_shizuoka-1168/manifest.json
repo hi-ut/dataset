@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1168/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "書分源氏明石景",
+    "label": "見立名婦六勇撰",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "書分源氏明石景"
+            "value": "見立名婦六勇撰"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(23)"
+            "value": "K915-108-26-(21)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印/広重筆印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２年７月(18690070550)"
+            "value": "明治１７年２月届(18840020550)"
         },
         {
-            "label": "彫師",
-            "value": "ホリ□"
+            "label": "版元名",
+            "value": "井沢菊太郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "芝区愛宕町３丁目５"
         },
         {
             "label": "判",
@@ -49,23 +53,19 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "巳七改"
-        },
-        {
-            "label": "地名",
-            "value": "明石"
+            "label": "人名",
+            "value": "市川団十郎（巴御前）/中村福助（山吹御前）/市川左団次（大井子）/尾上菊五郎（更科姫）/助高屋高助（静御前）/中村芝翫（板額女）"
         },
         {
             "label": "主題",
-            "value": "歴史画／源氏絵"
+            "value": "演劇／歌舞伎"
         },
         {
-            "label": "その他書誌事項",
-            "value": "「人物国周、惣図広重」とあり"
+            "label": "細目",
+            "value": "役者絵"
         }
     ],
     "sequences": [

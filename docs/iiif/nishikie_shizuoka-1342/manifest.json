@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1342/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京開化名勝ノ内金龍山",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京開化名勝ノ内金龍山"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（２９）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-29-(36)"
+        },
+        {
+            "label": "画工名",
+            "value": "惺々暁斎/豊原国周筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治８年９月(18750090550)"
+        },
+        {
+            "label": "版元名",
+            "value": "沢村板"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥九"
+        },
+        {
+            "label": "人名",
+            "value": "尾上栄五郎（天人）"
+        },
+        {
+            "label": "主題",
+            "value": "文明開化／建築／寺院／風刺画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "浅草寺/金龍山/鵺"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "上段(天女図)が国周、下段(洋装男子に鵺放逐さるるの図)が暁斎"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1342/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

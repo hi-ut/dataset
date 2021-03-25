@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1021/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優落語當り競",
+    "label": "都百景伏見京橋",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優落語當り競"
+            "value": "都百景伏見京橋"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(35)"
+            "value": "K915-108-22-(77)-2"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "国員画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治６年(18730550550)"
+            "value": "不明(00000000000)"
         },
         {
             "label": "版元名",
-            "value": "具足屋"
+            "value": "石川屋和助（石和板）"
         },
         {
             "label": "版元住所",
-            "value": "人形町"
-        },
-        {
-            "label": "彫師",
-            "value": "渡辺彫栄"
+            "value": "（大阪）"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "中判"
         },
         {
             "label": "形態",
@@ -60,20 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "沢村田之助（芸者お玉）/沢村訥升（紀の国文左）/尾上菊五郎（萩江松五郎）/はなし亭燕路"
+            "label": "地名",
+            "value": "伏見"
         },
         {
             "label": "主題",
-            "value": "講談／落語・一口噺／演劇／歌舞伎"
+            "value": "土木／橋梁／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "落語"
+            "value": "京橋"
         }
     ],
     "sequences": [

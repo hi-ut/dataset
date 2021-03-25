@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1072/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "助六坂東彦三郎牛若伝次沢村訥升",
+    "label": "（鮑取り船見物の図）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "助六坂東彦三郎牛若伝次沢村訥升"
+            "value": "（鮑取り船見物の図）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(01)"
+            "value": "K915-108-23-(42)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "国貞筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年１月(18670010550)"
+            "value": "慶応元年閏５月(18650055550)"
         },
         {
             "label": "版元名",
-            "value": "海老屋林之助"
-        },
-        {
-            "label": "彫師",
-            "value": "片田彫長"
+            "value": "丸屋久四郎"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "中判"
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +53,15 @@
         },
         {
             "label": "検印",
-            "value": "卯正改"
-        },
-        {
-            "label": "人名",
-            "value": "坂東彦三郎（助六）/沢村訥升（牛若伝次）/中村仲蔵（門兵衛）"
+            "value": "閏五改"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "歴史画／源氏絵"
         },
         {
             "label": "その他固有件名",
-            "value": "助六/当九字万成曽我"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "慶応3年2月26日より守田座にて「当九字万成曽我」、「信仰記」「助六」の世界、但しかんぬき門兵衛(現十郎)とあり"
+            "value": "源氏物語/海女"
         }
     ],
     "sequences": [

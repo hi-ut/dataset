@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1093/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "義女水滸伝（小判を持つ女）",
+    "label": "歌舞伎座新狂言後咲榛名梅ヶ香",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "義女水滸伝（小判を持つ女）"
+            "value": "歌舞伎座新狂言後咲榛名梅ヶ香"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(22)"
+            "value": "K915-108-24-(12)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "応需香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年８月(18670080550)"
+            "value": "明治２６年７月４日(18930070040)"
         },
         {
             "label": "版元名",
-            "value": "伊勢屋喜三郎"
+            "value": "森本順三郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草瓦町２"
         },
         {
             "label": "彫師",
-            "value": "田中彫牛"
+            "value": "彫徳"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,11 +57,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "卯八改"
+            "label": "人名",
+            "value": "市川左団次（恒川半三郎）/尾上菊之助（簾形岩二郎）/尾上栄三郎（傾成相馬川）/尾上菊四郎（捕手役）/尾上菊五郎（榛名梅吉）"
         },
         {
             "label": "主題",
@@ -69,11 +73,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "水滸伝"
+            "value": "榛名梅香団扇絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "人気役者の図か"
+            "value": "明治26年7月14日より歌舞伎座にて団菊左の大一座の盆興行、一番目「榛名梅香団扇絵」"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1230/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま追羽根",
+    "label": "木曽山雪中之場",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま追羽根"
+            "value": "木曽山雪中之場"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(40)"
+            "value": "K915-108-27-(38)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "豊原国周筆"
         },
         {
             "label": "和暦年月日",
-            "value": "（明治２９年）(18960550550)"
+            "value": "明治２１年８月１４日(18880080140)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
+            "value": "小森宗次郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区長谷川丁１９"
-        },
-        {
-            "label": "彫師",
-            "value": "和田刀"
+            "value": "日本橋区馬喰町３丁目１０"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,16 +56,28 @@
             "value": "なし"
         },
         {
+            "label": "地名",
+            "value": "木曽"
+        },
+        {
+            "label": "人名",
+            "value": "市川左団次（宮本無三四）/宮本武蔵/市川団十郎（笠原隨翁軒）/中村寿三郎（賎の女月の輪/実は熊の精）"
+        },
+        {
             "label": "主題",
-            "value": "女性／育児／風俗／娯楽／娯楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "年中行事"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "正月/羽根つき"
+            "value": "二刀額面捧宮本"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治21年9月28日より千歳座にて「二刀額面捧宮本」"
         }
     ],
     "sequences": [

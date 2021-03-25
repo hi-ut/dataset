@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2615/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "中村芝翫熊坂長範",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "中村芝翫熊坂長範"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-51-(13)"
+        },
+        {
+            "label": "画工名",
+            "value": "守川周重筆印：守川音治郎"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１５年１０月届(18820100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山村鉱次郎（丸大印）"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草諏訪丁１２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "中村福助（牛若丸）/中村芝翫（熊坂長範）/中村芝翫（蘭平）/三味線岸次/常磐津小文字太夫/常磐津長張太夫"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "色成楓夕栄"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治15年11月8日より新富座にて所作事「色成楓夕栄」、芝翫(熊坂)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2615/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

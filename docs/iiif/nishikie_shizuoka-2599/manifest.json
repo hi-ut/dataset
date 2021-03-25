@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2599/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "清国旅順港図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "清国旅順港図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５０）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-50-(30)"
+        },
+        {
+            "label": "画工名",
+            "value": "なし"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治２７年１１月？）(18940110552)"
+        },
+        {
+            "label": "版元名",
+            "value": "村上豊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷区二長町１５浅草公園仲見世東側"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "中国"
+        },
+        {
+            "label": "地名",
+            "value": "旅順"
+        },
+        {
+            "label": "人名",
+            "value": "大島義昌/大迫少將/立見少將/橋本少佐/山路中將/宋慶"
+        },
+        {
+            "label": "主題",
+            "value": "日清戦争"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2599/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

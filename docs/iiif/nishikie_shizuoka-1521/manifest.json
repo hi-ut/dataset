@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1521/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "徳川家累代御台所ノ図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "徳川家累代御台所ノ図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-34-(02)"
+        },
+        {
+            "label": "画工名",
+            "value": "楊洲周延印：橋本直義"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１２年８月１日届(18790080010)"
+        },
+        {
+            "label": "版元名",
+            "value": "松下平兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "本郷元富士丁１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "築山御殿（家康室）/駿河御前（家康室）/於江与之方（秀忠室）/中之丸殿（家光室）/浅宮（家綱室）/信姫（綱吉室）/照姫（家宣室）/八十宮（家継室）/真宮（吉宗室）/比之宮（家重室）/五十宮（家治室）/茂子（家斉室）/楽之宮（家慶室）/天璋院（家定室）/和"
+        },
+        {
+            "label": "主題",
+            "value": "幕府／将軍／歴史画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "御台所"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1521/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

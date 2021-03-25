@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1065/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（黒田騒動）",
+    "label": "紫式部げんじかるた三十六柏木",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（黒田騒動）"
+            "value": "紫式部げんじかるた三十六柏木"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(34)"
+            "value": "K915-108-23-(35)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "梅蝶楼国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治８年８月(18750080550)"
+            "value": "安政４年１０月(18570100550)"
         },
         {
             "label": "版元名",
-            "value": "大黒屋平吉"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +53,19 @@
         },
         {
             "label": "検印",
-            "value": "亥八"
+            "value": "巳十/改"
         },
         {
             "label": "人名",
-            "value": "尾上菊五郎（毛谷主水）/沢村訥升（愛妾お秀）/市川左団次（黒田右衛門）/坂東彦三郎（栗山大膳）/中村芝翫（倉橋重太夫）"
+            "value": "紫式部"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "歴史画／源氏絵"
         },
         {
             "label": "その他固有件名",
-            "value": "黒田騒動"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "この前後上演記録なし、但し明治8年10月1日より新富座にて「筑紫巷談浪白縫」"
+            "value": "源氏物語/柏木"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0858/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "日本地誌略図（周防と長門）",
+    "label": "（尾上菊五郎の次郎吉）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "日本地誌略図（周防と長門）"
+            "value": "（尾上菊五郎の次郎吉）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(76)"
+            "value": "K915-108-19-(23)"
         },
         {
             "label": "画工名",
-            "value": "広重画：安藤徳兵衛"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治９年３月３日届(18760030030)"
+            "value": "天保１３年以前(18420550550)"
         },
         {
             "label": "版元名",
-            "value": "水野慶次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "道油町６番地"
+            "value": "川口屋正蔵"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,31 +49,27 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "国名",
-            "value": "周防/長門"
+            "label": "検印",
+            "value": "極"
         },
         {
-            "label": "地名",
-            "value": "赤間関"
+            "label": "人名",
+            "value": "坂東三津五郎（見立朝日奈藤兵衛）/尾上菊五郎（見立けんくりや次郎吉）/関三十郎（見立五郎時宗）"
         },
         {
             "label": "主題",
-            "value": "土木／港湾／土木／橋梁／風景画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "錦帯橋"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "2図が上下に描かれている、定価1銭5厘(1枚につき)、「五十五」、「五十六」とあり"
+            "value": "仙女香（坂本氏）"
         }
     ],
     "sequences": [

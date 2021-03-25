@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1906/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "大日本美術展覧会",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "大日本美術展覧会"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４０）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-40-(30)"
+        },
+        {
+            "label": "画工名",
+            "value": "楊斎延一筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２２年３月？(18890030552)"
+        },
+        {
+            "label": "版元名",
+            "value": "綱島亀吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区馬喰町２丁目１４"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "明治天皇/昭憲皇后/嘉仁親王（大正天皇）"
+        },
+        {
+            "label": "主題",
+            "value": "皇室／天皇／皇室／皇后（含女官）／娯楽／芸"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "洋装/展覧会"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "3月とのみあり、明治22年4月15日、日本美術協会展覧会に行幸、16日、日本美術協会展覧会に皇太后行啓、22日、日本美術協会展覧会に皇后行啓、故に明治22年と推定"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1906/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

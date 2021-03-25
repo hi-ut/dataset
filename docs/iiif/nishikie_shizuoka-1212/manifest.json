@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1212/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま裁縫",
+    "label": "（忠臣蔵）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま裁縫"
+            "value": "（忠臣蔵）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(22)"
+            "value": "K915-108-27-(20)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年１１月(18960110550)"
+            "value": "慶応２年８月(18660080550)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎（具足屋板）"
+            "value": "伊勢喜三郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区長谷川丁１９"
+            "value": "南伝馬二"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工多七"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,19 +57,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "寅八改"
+        },
+        {
+            "label": "人名",
+            "value": "中村芝翫（大星由良之助）/市川九蔵（寺岡平右衛門）/沢村田之助（一力屋お軽）"
         },
         {
             "label": "主題",
-            "value": "女性／女性／家事・生活"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "裁縫"
+            "value": "忠臣蔵/一力屋"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応2年8月19日より中村座にて「仮名手本忠臣蔵」"
         }
     ],
     "sequences": [

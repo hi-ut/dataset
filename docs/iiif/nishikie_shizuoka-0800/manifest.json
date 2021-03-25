@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0800/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "三十六花撰東京大久保つつぢ",
+    "label": "（高尾を猟師与右衛門救うの図）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "三十六花撰東京大久保つつぢ"
+            "value": "（高尾を猟師与右衛門救うの図）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(22)"
+            "value": "K915-108-18-(21)"
         },
         {
             "label": "画工名",
-            "value": "喜斎立祥印（喜斎）"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "（慶応２年）(18660550550)"
+            "value": "嘉永３年？(18500550552)"
         },
         {
             "label": "版元名",
-            "value": "蔦屋吉蔵（蔦吉板）"
+            "value": "辻岡屋文助"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,23 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "切断"
+            "value": "米良/村田"
         },
         {
-            "label": "地名",
-            "value": "大久保"
+            "label": "人名",
+            "value": "三浦の高尾/四真田十三郎/猟師与右衛門"
         },
         {
             "label": "主題",
-            "value": "動植物画／草木・花・果実／風景画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "役者絵"
         },
         {
-            "label": "その他固有件名",
-            "value": "つつじ"
+            "label": "その他書誌事項",
+            "value": "嘉永3年3月より市村座にて「好色嶋田話」、高尾(梅幸)、島田十三郎(長十郎)、猟師網六(三津五郎)、これにあたるか？"
         }
     ],
     "sequences": [

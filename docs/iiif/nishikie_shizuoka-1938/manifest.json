@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1938/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "五色願の糸ぐち",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "五色願の糸ぐち"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-41-(15)"
+        },
+        {
+            "label": "画工名",
+            "value": "一泉斎国輝画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "酒井"
+        },
+        {
+            "label": "版元住所",
+            "value": "麹町"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "浜/衣笠"
+        },
+        {
+            "label": "地名",
+            "value": "浅草"
+        },
+        {
+            "label": "主題",
+            "value": "建築／寺院"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "浅草観音/魚見寿司"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "願かけと美人画のくみあわせ、これは浅草寺が後景、魚見すしの旗あり、「船橋□」と寺のところに文字あり、これが願かけと関係あるか"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1938/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

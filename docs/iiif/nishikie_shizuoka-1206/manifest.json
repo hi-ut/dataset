@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1206/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま（目録）",
+    "label": "（桃山譚）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま（目録）"
+            "value": "（桃山譚）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(16)"
+            "value": "K915-108-27-(14)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延画"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年(18960550550)"
+            "value": "明治２０年２月１８日届(18870020180)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
+            "value": "小林藤次郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区長谷川町１９"
+            "value": "浅草区花川戸町２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫小三"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,12 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "市川団十郎（加藤清正）/市川寿美蔵（石田三成）/沢村田之助（大政所）/片岡我童（秀義公）"
+        },
+        {
             "label": "主題",
-            "value": "女性"
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "桃山譚"
         },
         {
             "label": "その他書誌事項",
-            "value": "但し刊記の印刷はなし、目録には、鶯、二弦琴、手鞠、生花帰り、花見、裁縫、金魚、三味線、七草、涼み、化粧、船、愛猫、宮参り、きりごはじき、双六、婚礼、盆栽、月琴、琴、ちん、茶之湯、追羽根、お手玉、と24図の題あり"
+            "value": "明治20年2月25日より市村座にて「桃山譚」"
         }
     ],
     "sequences": [

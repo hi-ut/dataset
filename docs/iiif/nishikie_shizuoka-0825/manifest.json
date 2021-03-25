@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0825/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京府下名所尽新橋ステンーション",
+    "label": "百人一首之内紀友則",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京府下名所尽新橋ステンーション"
+            "value": "百人一首之内紀友則"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(43)"
+            "value": "K915-108-18-(46)"
         },
         {
             "label": "画工名",
-            "value": "広重画（三代目）"
+            "value": "朝櫻楼国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治７年１０月(18740100550)"
+            "value": "不明(00000000000)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋亀吉板"
+            "value": "えびこ"
         },
         {
             "label": "判",
@@ -49,27 +49,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "戌十"
-        },
-        {
-            "label": "地名",
-            "value": "新橋"
+            "label": "人名",
+            "value": "紀友則"
         },
         {
             "label": "主題",
-            "value": "文明開化／土木／鉄道／建築／ステーション／風景画／名所図絵"
+            "value": "和歌・狂歌／歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
-            "label": "その他固有件名",
-            "value": "ステーション"
+            "label": "その他書誌事項",
+            "value": "和歌あり"
         }
     ],
     "sequences": [

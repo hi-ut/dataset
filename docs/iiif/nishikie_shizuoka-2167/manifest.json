@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2167/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新撰太閤記（秀吉伊東日向守を打取る図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新撰太閤記（秀吉伊東日向守を打取る図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(06)"
+        },
+        {
+            "label": "画工名",
+            "value": "豊宣画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１６年６月２０日届(18830060200)"
+        },
+        {
+            "label": "版元名",
+            "value": "荒川喜三郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "京橋区南伝馬丁２丁目２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "富士川"
+        },
+        {
+            "label": "人名",
+            "value": "木下藤吉郎/伊東日向守/松下嘉兵衛治"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "詞書、木下高吉、今川方松下嘉兵衛治の許に在て、北条と合戦の時、富士川に於て抜駈して敵将を討つ、若年よりしてよく奇計を備ふ、一其器賞すべし、必勤て後に中る"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2167/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

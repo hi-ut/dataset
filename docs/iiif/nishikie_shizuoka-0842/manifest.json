@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0842/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所不忍池上野真図",
+    "label": "源頼朝大仏供養之図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所不忍池上野真図"
+            "value": "源頼朝大仏供養之図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(60)"
+            "value": "K915-108-19-(07)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画/広重画/朝桜楼国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "不明(00000000000)"
+            "value": "天保１４〜弘化４年(18330550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "吉見屋園吉板"
+        },
+        {
+            "label": "彫師",
+            "value": "鹿吉"
         },
         {
             "label": "判",
@@ -37,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -45,23 +53,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "地名",
-            "value": "上野/不忍池"
+            "label": "検印",
+            "value": "村"
+        },
+        {
+            "label": "人名",
+            "value": "畠山重忠/半沢六郎成清/悪七兵衛平景清/本多六郎近常/岩永左衛門"
         },
         {
             "label": "主題",
-            "value": "風景画／名所図絵"
+            "value": "歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
             "label": "その他固有件名",
-            "value": "馬車/人力車"
+            "value": "東大寺"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「東大寺境内之図、広重画」とあり、詞書に「東鑑」建久6年3月の記事あり"
         }
     ],
     "sequences": [

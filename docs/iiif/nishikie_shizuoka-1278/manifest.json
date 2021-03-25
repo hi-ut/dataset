@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1278/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "千代田の大奥月見宴",
+    "label": "三十六句せんの内九郎はん官源よし経",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "千代田の大奥月見宴"
+            "value": "三十六句せんの内九郎はん官源よし経"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３１）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-31-(17)"
+            "value": "K915-108-28-(46)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "国周筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２７年９月７日(18940090070)"
+            "value": "（慶応３年７月）(18670070550)"
         },
         {
             "label": "版元名",
-            "value": "福田熊次郎（具足屋板）"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区長谷川町１９"
+            "value": "具足屋"
         },
         {
             "label": "彫師",
-            "value": "柘植刀"
+            "value": "彫栄"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,20 +56,16 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "千代田"
+            "label": "人名",
+            "value": "源義経/東休"
         },
         {
             "label": "主題",
-            "value": "幕府／江戸城／娯楽／娯楽／歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
-            "label": "その他固有件名",
-            "value": "月見/大奥"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「人形町通り具足屋版」とあり"
+            "label": "細目",
+            "value": "役者絵"
         }
     ],
     "sequences": [

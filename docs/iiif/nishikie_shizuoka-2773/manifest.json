@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2773/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "教草茶之湯の栞",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "教草茶之湯の栞"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-56-(08)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需楊斎延一画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３０年８月４日(18970080040)"
+        },
+        {
+            "label": "版元名",
+            "value": "長谷川園吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区小伝馬町３丁目１７"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "教育／女子教育／娯楽／芸"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "茶の湯/茶道"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2773/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

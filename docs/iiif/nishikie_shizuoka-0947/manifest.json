@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0947/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "極楽寺山門の場",
+    "label": "江戸名所道外尽四十九内藤しん宿",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "極楽寺山門の場"
+            "value": "江戸名所道外尽四十九内藤しん宿"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(27)"
+            "value": "K915-108-22-(08)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼国貞筆印"
+            "value": "広景画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２２年１０月(18890100550)"
+            "value": "安政６年(18590550550)"
         },
         {
             "label": "版元名",
-            "value": "林吉蔵"
-        },
-        {
-            "label": "版元住所",
-            "value": "京橋区南伝馬町１丁目２"
+            "value": "辻岡屋"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,24 +52,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川左団次（南郷力丸）/尾上菊五郎（弁天小僧）/大谷馬十（倉島金吾）/高砂屋福助（青砥左衛門）"
+            "label": "地名",
+            "value": "内藤新宿"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／道路／戯び／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "弁天娘女男白波"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治22年10月21日より桐座にて「弁天娘女男白波」"
+            "value": "大台/馬子"
         }
     ],
     "sequences": [

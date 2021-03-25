@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2586/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "日露戦争電報実記之内（バイカル湖の鉄道事故）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "日露戦争電報実記之内（バイカル湖の鉄道事故）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５０）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-50-(17)"
+        },
+        {
+            "label": "画工名",
+            "value": "柳蛙印（江戸子）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治３７年３月(19040030550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田初次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川丁１９"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "バイカル湖"
+        },
+        {
+            "label": "主題",
+            "value": "日露戦争"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "シベリア鉄道"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「電浪294」、英文での説明文あり、「露国ノバイカル湖氷上鉄道汽関車及列車水中ニ沈没シテ將校兵士数十人即死ス露国輸送力ハ大障害ヲ受タルモノナリ」となり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2586/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

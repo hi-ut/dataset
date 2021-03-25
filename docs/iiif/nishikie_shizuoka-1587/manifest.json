@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1587/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京開化名所荒木田之原桜草遊興之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京開化名所荒木田之原桜草遊興之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-36-(40)"
+        },
+        {
+            "label": "画工名",
+            "value": "暁斎画/暁斎門人豊二"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治８年９月(18750090550)"
+        },
+        {
+            "label": "版元名",
+            "value": "沢村屋清吉"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥九"
+        },
+        {
+            "label": "地名",
+            "value": "三河島/荒木田原"
+        },
+        {
+            "label": "人名",
+            "value": "徳川家光"
+        },
+        {
+            "label": "主題",
+            "value": "風景画／名所図絵"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1587/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

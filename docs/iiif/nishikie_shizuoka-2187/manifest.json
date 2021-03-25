@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2187/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "明治二十年給金附英優水滸伝",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "明治二十年給金附英優水滸伝"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(26)"
+        },
+        {
+            "label": "画工名",
+            "value": "梅堂国政筆印：画工竹内栄久"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１９年１１月１５日届(18860110150)"
+        },
+        {
+            "label": "版元名",
+            "value": "堤吉兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区吉川町５"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工藤"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "中村福助（高砂登之助）/尾上菊五郎（寺嶋隼人）/坂東家橘（奴橘内）/市川団十郎（願満太郎）/中村芝翫（雀念坊翫哲）/中村福助（磯女若駒）/中村攻次郎（児雀若）/沢村由之助（息女曙姫）/市川九蔵（修行者猿典）/市川権十郎（仕丁鯉又）/岩井松之助（女船頭松江"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "水滸伝/給金附"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "上方に給金附あり、高島屋3500円、市川左団治同左、顔見世番附形式のもの"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2187/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

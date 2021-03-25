@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0855/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京開化三十六景（水天宮と商行会社）",
+    "label": "武勇千柄草",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京開化三十六景（水天宮と商行会社）"
+            "value": "武勇千柄草"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(73)"
+            "value": "K915-108-19-(20)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治７年８月(18740080550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
         },
         {
             "label": "版元名",
-            "value": "万屋（よろつやはん）"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋"
+            "value": "不明版元丸に二点印"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "戌八"
+            "value": "米良/村田"
         },
         {
-            "label": "地名",
-            "value": "蛎殻町"
+            "label": "人名",
+            "value": "箱王丸"
         },
         {
             "label": "主題",
-            "value": "文明開化／建築／洋館／建築／神社／風景画"
-        },
-        {
-            "label": "細目",
-            "value": "風景画／建物"
+            "value": "講談／謡曲・狂言"
         },
         {
             "label": "その他固有件名",
-            "value": "水天宮/米商会社/商行会社"
+            "value": "能装束"
         },
         {
             "label": "その他書誌事項",
-            "value": "2図が上下に描かれている、米商会所は明治7年竣工"
+            "value": "詞書あり、「箱根山において曽我の箱王丸父の仇を討んとて左衛門祐経を調伏なす、不動明王の尊霊孝心を憐み力を添へたまふ」"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0889/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（左団次の玉島幸兵衛）",
+    "label": "富士三十六景鴻之台とね川",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（左団次の玉島幸兵衛）"
+            "value": "富士三十六景鴻之台とね川"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(20)"
+            "value": "K915-108-21-(13)"
         },
         {
             "label": "画工名",
-            "value": "国貞画印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年１０月(18640100550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "子十改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "尾上菊次郎（幸兵衛女房お衣霊）/市川左団次（玉島幸兵衛）/市村家橘（小狐礼三）/坂東松次郎"
+            "label": "国名",
+            "value": "下総"
+        },
+        {
+            "label": "地名",
+            "value": "鴻之台/江戸川/利根川"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "小春穏沖白浪"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "元治元年11月1日より市村座にて「小春穏沖津白浪」"
+            "value": "富士山/帆船"
         }
     ],
     "sequences": [

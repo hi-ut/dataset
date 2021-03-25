@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1145/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "太平記大合戦",
+    "label": "（牛若丸と熊坂長範）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "太平記大合戦"
+            "value": "（牛若丸と熊坂長範）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(73)"
+            "value": "K915-108-25-(34)"
         },
         {
             "label": "画工名",
-            "value": "一鶯斎国周画"
+            "value": "応需豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "万延元年１２月(18600120550)"
+            "value": "明治１５年１０月届(18820100550)"
         },
         {
             "label": "版元名",
-            "value": "山田屋板"
+            "value": "木村常一郎"
         },
         {
             "label": "版元住所",
-            "value": "南伝馬二"
+            "value": "桶町１丁目"
+        },
+        {
+            "label": "彫師",
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -53,27 +57,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "申十二改"
-        },
-        {
-            "label": "地名",
-            "value": "桶狭間"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "待下佐平/此下藤七郎/石田九郎兵衛/仁奈川義元/伊東半七/木下藤吉郎/今川義元"
+            "value": "中村芝翫（熊坂長範/奴蘭平）/中村福助（牛若丸）"
         },
         {
             "label": "主題",
-            "value": "歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
-            "label": "その他固有件名",
-            "value": "桶狭間の戦い"
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治15年9月21日より春木座にて「義経千本桜」、これか？"
         }
     ],
     "sequences": [

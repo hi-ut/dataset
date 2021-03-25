@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1062/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "しら浪五人男",
+    "label": "八犬伝犬の草紙の内犬塚信乃戌孝",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "しら浪五人男"
+            "value": "八犬伝犬の草紙の内犬塚信乃戌孝"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(31)"
+            "value": "K915-108-23-(32)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１８年６月届(18850060550)"
+            "value": "嘉永５年９月(18520090550)"
         },
         {
             "label": "版元名",
-            "value": "児玉又七梓"
+            "value": "蔦屋吉蔵"
         },
         {
-            "label": "版元住所",
-            "value": "日本橋通３丁目６"
+            "label": "彫師",
+            "value": "彫竹"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,23 +53,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "浜/馬込/子九"
         },
         {
             "label": "人名",
-            "value": "尾上菊五郎（弁天小僧菊之助）/市川左団次（南郷力丸）/市川団十郎（日本駄右衛門）/市川九蔵（忠信利平）/高砂屋福助（赤星十三）"
+            "value": "しうか（犬塚信乃）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "文芸／演劇／歌舞伎"
         },
         {
             "label": "細目",
             "value": "役者絵"
         },
         {
+            "label": "その他固有件名",
+            "value": "八犬伝"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "セリフあり、この前後に上演記録なし"
+            "value": "嘉永5年1月23日より市村座にて「八犬伝」"
         }
     ],
     "sequences": [

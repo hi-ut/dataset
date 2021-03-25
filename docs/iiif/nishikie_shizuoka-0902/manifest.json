@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0902/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "八犬伝犬のさうしの内蟇六娘浜路",
+    "label": "新撰江戸名所上野東叡山花盛之図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "八犬伝犬のさうしの内蟇六娘浜路"
+            "value": "新撰江戸名所上野東叡山花盛之図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(33)"
+            "value": "K915-108-21-(26)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "一立斎広重画印"
         },
         {
             "label": "和暦年月日",
-            "value": "嘉永５年９月(18520090550)"
-        },
-        {
-            "label": "版元名",
-            "value": "蔦屋吉蔵"
-        },
-        {
-            "label": "彫師",
-            "value": "彫竹"
+            "value": "天保１２〜１３年(18420550550)"
         },
         {
             "label": "判",
@@ -45,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +49,23 @@
         },
         {
             "label": "検印",
-            "value": "浜/馬込/子九"
+            "value": "極"
         },
         {
-            "label": "人名",
-            "value": "菊次郎（蟇六娘浜路）"
+            "label": "地名",
+            "value": "上野"
         },
         {
             "label": "主題",
-            "value": "文芸／演劇／歌舞伎"
+            "value": "建築／寺院／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／風俗"
         },
         {
             "label": "その他固有件名",
-            "value": "八犬伝"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "嘉永5年1月23日より市村座にて「八犬伝」"
+            "value": "寛永寺/桜"
         }
     ],
     "sequences": [

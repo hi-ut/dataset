@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0815/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "江戸名所両国橋眺望料理屋",
+    "label": "十二段続仮名手本桃燈蔵七段目",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "江戸名所両国橋眺望料理屋"
+            "value": "十二段続仮名手本桃燈蔵七段目"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(33)"
+            "value": "K915-108-18-(36)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "安政５年３月(18580030550)"
+            "value": "嘉永５年９月(18520090550)"
         },
         {
             "label": "版元名",
-            "value": "山田屋"
+            "value": "三河屋喜兵衛"
         },
         {
-            "label": "版元住所",
-            "value": "中橋"
+            "label": "彫師",
+            "value": "彫巳の"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,23 +57,27 @@
         },
         {
             "label": "検印",
-            "value": "午三"
+            "value": "浜/馬込/子九"
         },
         {
-            "label": "地名",
-            "value": "両国"
+            "label": "人名",
+            "value": "海老蔵（平右衛門？）"
         },
         {
             "label": "主題",
-            "value": "風景画／名所図絵"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "料理屋/両国橋"
+            "value": "忠臣蔵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "この前後に忠臣蔵上演なし"
         }
     ],
     "sequences": [

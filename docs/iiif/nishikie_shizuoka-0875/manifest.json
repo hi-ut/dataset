@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0875/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（夫婦雛と男女の仕丁）",
+    "label": "（古手屋八郎兵衛と丹波屋おつま）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（夫婦雛と男女の仕丁）"
+            "value": "（古手屋八郎兵衛と丹波屋おつま）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２０）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(06)"
+            "value": "K915-108-20-(17)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年３月(18640030550)"
+            "value": "嘉永元年５月(18480050550)"
         },
         {
             "label": "版元名",
-            "value": "若狭屋与市"
-        },
-        {
-            "label": "版元住所",
-            "value": "ナ"
+            "value": "若宇"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "子三改"
+            "value": "米良/村田"
         },
         {
             "label": "人名",
-            "value": "坂東彦三郎（男雛）/岩井紫若（女雛）/市川新車（女仕丁）/中村鶴蔵（仕丁わに又）"
+            "value": "矢島才兵衛/歌右衛門（古手屋八郎兵衛）/菊次郎（丹波屋おつま）"
         },
         {
             "label": "主題",
-            "value": "風俗／演劇／歌舞伎"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "役者絵／年中行事"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "夫婦雛/桃の節句"
+            "value": "仇縁浮名のまいたち"
         },
         {
             "label": "その他書誌事項",
-            "value": "粂三郎改岩井紫若とあり、元治元年4月より中村座にて「誉曽我皐月念力」、これと関係あるか？、また1枚欠か？"
+            "value": "嘉永元年5月9日より中村座にて「仇縁浮名のまいたち」"
         }
     ],
     "sequences": [

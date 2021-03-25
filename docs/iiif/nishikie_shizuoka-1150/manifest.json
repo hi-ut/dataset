@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1150/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東都三十六景之内番町沢村田之助",
+    "label": "（八百屋半兵衛お千代）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東都三十六景之内番町沢村田之助"
+            "value": "（八百屋半兵衛お千代）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(05)"
+            "value": "K915-108-26-(03)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "五渡亭国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年３月(18650030550)"
+            "value": "天保５年９月(18340090550)"
         },
         {
             "label": "版元名",
-            "value": "近久"
-        },
-        {
-            "label": "彫師",
-            "value": "片田彫長"
+            "value": "佐野喜/若松"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -57,31 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "丑三改"
-        },
-        {
-            "label": "地名",
-            "value": "番町"
+            "value": "極"
         },
         {
             "label": "人名",
-            "value": "沢村田之助（欠皿）"
+            "value": "岩井半四郎（女房お千代）/沢村訥升（八百屋半兵衛）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎／風景画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画／役者絵"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "番町皿屋敷/魁駒松梅桜曙徴"
+            "value": "千代見草恋中墻/八百屋献立"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応元年3月18日より守田座にて「魁駒松梅桜曙徴」、田之助(欠皿)"
+            "value": "天保5年9月12日より森田座にて「千代見草恋中墻」"
         }
     ],
     "sequences": [

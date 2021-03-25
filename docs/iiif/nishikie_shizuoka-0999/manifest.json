@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0999/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（田之助の蜘蛛の精霊）",
+    "label": "東京名所常磐橋内紙幣寮新建之図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（田之助の蜘蛛の精霊）"
+            "value": "東京名所常磐橋内紙幣寮新建之図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(13)"
+            "value": "K915-108-22-(56)"
         },
         {
             "label": "画工名",
-            "value": "國周画印"
+            "value": "応需広重画：安藤徳兵衛"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年９月(18640090550)"
+            "value": "明治１０年１月２５日届(18770010250)"
         },
         {
             "label": "版元名",
-            "value": "森屋治兵衛（森治）"
+            "value": "小林平次郎"
         },
         {
             "label": "版元住所",
-            "value": "馬二"
-        },
-        {
-            "label": "彫師",
-            "value": "彫栄"
+            "value": "日本橋榑正町１０番地"
         },
         {
             "label": "判",
@@ -57,31 +53,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "子九改"
-        },
-        {
-            "label": "人名",
-            "value": "中村芝翫（坂田金時）/沢村訥升（源頼光）/沢村田之助（くもの精霊）/市川九蔵（渡辺綱）"
+            "label": "地名",
+            "value": "常盤橋"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "建築／官庁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "来宵蜘蛛線"
+            "value": "馬車/人力車/紙幣寮"
         },
         {
             "label": "その他書誌事項",
-            "value": "元治元年10月7日より守田座にて「来宵蜘蛛線」"
+            "value": "明治9年12月竣工"
         }
     ],
     "sequences": [

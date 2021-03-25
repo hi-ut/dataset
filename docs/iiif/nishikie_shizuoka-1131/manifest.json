@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1131/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "花盛楽屋姿見（家橘）",
+    "label": "大阪陣諸家記録",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "花盛楽屋姿見（家橘）"
+            "value": "大阪陣諸家記録"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(60)"
+            "value": "K915-108-25-(20)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年６月(18650060550)"
+            "value": "明治２８年(18950550550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋文助（辻文板）"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "横山町三丁目"
+            "value": "日本橋区長谷川町１９"
         },
         {
             "label": "彫師",
-            "value": "朝倉彫万"
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,15 +57,15 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "丑六改"
+            "label": "地名",
+            "value": "大阪"
         },
         {
             "label": "人名",
-            "value": "市村家橘"
+            "value": "沢村訥升（小出三尹）/市川団十郎（徳川家康）/沢村訥子（藤堂高虎）"
         },
         {
             "label": "主題",
@@ -74,6 +74,14 @@
         {
             "label": "細目",
             "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "大阪陣"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治28年11月12日より歌舞伎座にて「大坂陣諸家記録」"
         }
     ],
     "sequences": [

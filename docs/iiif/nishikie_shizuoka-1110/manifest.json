@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1110/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "御行の松のかみなり",
+    "label": "怪談牡丹燈籠",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "御行の松のかみなり"
+            "value": "怪談牡丹燈籠"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(39)"
+            "value": "K915-108-24-(29)"
         },
         {
             "label": "画工名",
-            "value": "国周画"
+            "value": "応需香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年５月(18640050550)"
+            "value": "明治２５年７月(18920070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田熊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川町１９"
         },
         {
             "label": "判",
@@ -37,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -45,23 +53,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "子五改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "河原崎権十郎（朝比奈藤兵衛）"
+            "value": "尾上菊五郎（関口屋伴蔵）/坂東しう調（伴蔵妻みね）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "怪異／怪談／講談／落語・一口噺／演劇／歌舞伎"
         },
         {
             "label": "細目",
             "value": "役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治25年7月14日より歌舞伎座にて「怪異談牡丹灯籠」"
         }
     ],
     "sequences": [

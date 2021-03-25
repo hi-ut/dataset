@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1838/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "日本名女咄正成が妻",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "日本名女咄正成が妻"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３９）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-39-(13)"
+        },
+        {
+            "label": "画工名",
+            "value": "（芳年）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "不明(00000000000)"
+        },
+        {
+            "label": "版元名",
+            "value": "武川清吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区本銀町２丁目１２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "楠正行/楠正成/楠正成妻"
+        },
+        {
+            "label": "主題",
+            "value": "女性／節婦・善行／歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1838/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0839/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京八ツ山下海軍蒸気車鉄道之図",
+    "label": "（義経堀川館の闘い）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京八ツ山下海軍蒸気車鉄道之図"
+            "value": "（義経堀川館の闘い）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(57)"
+            "value": "K915-108-19-(04)"
         },
         {
             "label": "画工名",
-            "value": "応需広重筆"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "（明治４年）(18710550550)"
+            "value": "天保１３年以前(18420550550)"
         },
         {
             "label": "版元名",
-            "value": "万屋孫兵衛"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋通四丁目"
+            "value": "西村屋与八"
         },
         {
             "label": "判",
@@ -53,23 +49,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "地名",
-            "value": "八ツ山"
+            "label": "検印",
+            "value": "極"
+        },
+        {
+            "label": "人名",
+            "value": "源義経/弁慶/静御前"
         },
         {
             "label": "主題",
-            "value": "文明開化／土木／鉄道"
+            "value": "文芸／歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "馬車/人力車/品川燈台/乗合蒸気船/築地ホテル"
+            "value": "肖像画"
         }
     ],
     "sequences": [

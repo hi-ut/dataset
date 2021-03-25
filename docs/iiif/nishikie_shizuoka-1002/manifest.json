@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1002/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（団十郎の金看板甚五郎）",
+    "label": "東京名所上野東照宮之図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（団十郎の金看板甚五郎）"
+            "value": "東京名所上野東照宮之図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(16)"
+            "value": "K915-108-22-(59)"
         },
         {
             "label": "画工名",
-            "value": "豊原國周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１６年５月１０日届(18830050100)"
-        },
-        {
-            "label": "版元名",
-            "value": "荒川喜三郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "南伝馬丁２丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工弥太"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -49,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "中村芝翫（紫剣大五郎）/市川団十郎（金看板甚五郎）/市川左団治（木崎久蔵）"
+            "label": "地名",
+            "value": "上野"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "建築／神社／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／建物"
         },
         {
             "label": "その他固有件名",
-            "value": "金看板侠客本店"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治16年4月23日より新富座にて「金看板侠客本店」"
+            "value": "上野東照宮"
         }
     ],
     "sequences": [

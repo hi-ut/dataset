@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1193/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東風俗福つくし万民きふく",
+    "label": "歌舞伎座中満久皿屋舗化粧姿鏡",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東風俗福つくし万民きふく"
+            "value": "歌舞伎座中満久皿屋舗化粧姿鏡"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(03)"
+            "value": "K915-108-27-(01)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２２年(18890550550)"
+            "value": "明治２５年１０月(18920100550)"
         },
         {
             "label": "版元名",
-            "value": "武川卯之吉"
+            "value": "福田熊次郎（人形町具足屋板）"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区本銀町２丁目１２"
+            "value": "日本橋区吉川町１９"
+        },
+        {
+            "label": "彫師",
+            "value": "梅沢刀"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,16 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "市川団十郎（浅山鉄山）/尾上菊五郎（お菊霊）/尾上松助（岩淵忠太）/尾上菊四郎（中間蟻助）"
+        },
+        {
             "label": "主題",
-            "value": "皇室／天皇／土木／橋梁／建築／宮城"
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "二重橋"
+            "value": "番丁皿屋敷/皿屋敷化粧姿見"
         },
         {
             "label": "その他書誌事項",
-            "value": "「宝祚万歳」と扇子にかかれてあり"
+            "value": "明治25年10月14日より歌舞伎座にて「皿屋敷化粧姿見」"
         }
     ],
     "sequences": [

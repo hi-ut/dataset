@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2345/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "勧進大相撲土俵入之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "勧進大相撲土俵入之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-46-(63)"
+        },
+        {
+            "label": "画工名",
+            "value": "一恵斎芳幾筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治４年７月(18710070550)"
+        },
+        {
+            "label": "版元名",
+            "value": "丸屋鉄次郎板"
+        },
+        {
+            "label": "版元住所",
+            "value": "通二町目"
+        },
+        {
+            "label": "彫師",
+            "value": "小泉彫兼"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "未七改"
+        },
+        {
+            "label": "人名",
+            "value": "尾上/雲龍/荒馬/出釈伽山/千年川/武蔵川/木村庄之助/綾浪/秀ノ山/追手風/不知火/鷲浜/小野川/千賀浦/白真弓/東関/日出山/越の海/鬼面山/梶ヶ浜/照ヶ嶽/熊ヶ谷/君が浜/築瀬嶽/渓川"
+        },
+        {
+            "label": "主題",
+            "value": "スポーツ／相撲"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "(62)(63)は同一図"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2345/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

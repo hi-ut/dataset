@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1182/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "鹿児嶋新誌三号",
+    "label": "俳優落語當り競",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "鹿児嶋新誌三号"
+            "value": "俳優落語當り競"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,7 +21,7 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(37)"
+            "value": "K915-108-26-(35)"
         },
         {
             "label": "画工名",
@@ -29,19 +29,19 @@
         },
         {
             "label": "和暦年月日",
-            "value": "（明治１０年１０月？）(18770100552)"
+            "value": "明治６年(18730550550)"
         },
         {
             "label": "版元名",
-            "value": "上村清左衛門"
+            "value": "具足屋"
         },
         {
             "label": "版元住所",
-            "value": "浅草並木町１"
+            "value": "人形町"
         },
         {
             "label": "彫師",
-            "value": "彫工平"
+            "value": "渡辺彫栄"
         },
         {
             "label": "判",
@@ -61,19 +61,19 @@
         },
         {
             "label": "人名",
-            "value": "長谷川一嶺/市川左団次（池辺吉十郎）"
+            "value": "沢村田之助（芸者お玉）/沢村訥升（紀の国文左）/尾上菊五郎（萩江松五郎）/はなし亭燕路"
         },
         {
             "label": "主題",
-            "value": "士族反乱／西南戦争／演劇／歌舞伎"
+            "value": "講談／落語・一口噺／演劇／歌舞伎"
         },
         {
             "label": "細目",
             "value": "役者絵"
         },
         {
-            "label": "その他書誌事項",
-            "value": "(38)と同一版元のもの、詞書あり"
+            "label": "その他固有件名",
+            "value": "落語"
         }
     ],
     "sequences": [

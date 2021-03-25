@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1100/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "沢村田之助（娘懸皿）",
+    "label": "歌舞伎十八番の内勧進帳",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "沢村田之助（娘懸皿）"
+            "value": "歌舞伎十八番の内勧進帳"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(29)"
+            "value": "K915-108-24-(19)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "応需香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年３月(18650030550)"
+            "value": "明治２３年５月(18900050550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋"
+            "value": "小林鉄次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区通３丁目１３"
         },
         {
             "label": "彫師",
-            "value": "朝倉彫万"
+            "value": "彫藤刀"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,15 +57,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "丑三改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "沢村田之助（継橋素太夫娘懸皿）/欠皿"
+            "value": "市川荒次郎（兵当）/市川左団次（富樫左衛門）/市川団十郎（武蔵坊弁慶）/中村寿三郎（亀井六郎）/尾上菊五郎（源義経）"
         },
         {
             "label": "主題",
@@ -73,11 +73,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "魁駒松梅桜曙徴/紅皿欠皿"
+            "value": "勧進帳"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応元年3月18日より守田座にて「魁駒松梅桜曙徴」、紅皿欠皿の世界、大当り"
+            "value": "明治23年5月23日より新富座にて「勧進帳」"
         }
     ],
     "sequences": [

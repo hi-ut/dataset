@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0972/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "黄門記幼童講釈下馬先の場",
+    "label": "八幡太郎義家朝比奈三郎義秀",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "黄門記幼童講釈下馬先の場"
+            "value": "八幡太郎義家朝比奈三郎義秀"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(22)"
+            "value": "K915-108-22-(30)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "重宣画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１０年１２月５日届(18770120050)"
+            "value": "不明(00000000000)"
         },
         {
             "label": "版元名",
-            "value": "荒井喜三郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "南伝馬町２丁目２"
+            "value": "山甚板"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "中判"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -57,23 +53,15 @@
         },
         {
             "label": "人名",
-            "value": "中村宗十郎（中間大稲葉惣介）/中村仲蔵（中間大久保秀蔵）/市川左団次（中間織田左九郎）/市川団十郎（中間水戸重蔵）/尾上菊五郎（中間小稲葉音蔵）/徳川光圀"
+            "value": "源義家/朝比奈義秀"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "歴史画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "黄門記幼童講釈"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治10年12月2日より新富座にて「黄門記幼童講釈」"
+            "value": "肖像画"
         }
     ],
     "sequences": [

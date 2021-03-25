@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0957/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（御所の五郎蔵と妻さつき）",
+    "label": "三十六花撰東京百花園芍薬",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（御所の五郎蔵と妻さつき）"
+            "value": "三十六花撰東京百花園芍薬"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(07)"
+            "value": "K915-108-22-(18)"
         },
         {
             "label": "画工名",
-            "value": "国周画"
+            "value": "喜斎立祥印"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年２月(18640020550)"
+            "value": "（慶応２年）(18660550550)"
         },
         {
             "label": "版元名",
-            "value": "万屋善太郎"
+            "value": "蔦屋吉蔵（蔦吉板）"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "子二改"
+            "value": "切断"
         },
         {
-            "label": "人名",
-            "value": "尾上菊次郎（妻さつき）/市川小団次（五郎蔵）"
+            "label": "地名",
+            "value": "百花園"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "動植物画／草木・花・果実／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "曽我模様侠御所染"
+            "value": "芍薬"
         },
         {
             "label": "その他書誌事項",
-            "value": "元治元年2月14日より市村座にて「曽我模様侠御所染」"
+            "value": "「十八」とあり"
         }
     ],
     "sequences": [

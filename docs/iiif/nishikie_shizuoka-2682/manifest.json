@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2682/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（花魁道中）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（花魁道中）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-52-(16)"
+        },
+        {
+            "label": "画工名",
+            "value": "国松印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "大正１１年３月(19220030550)"
+        },
+        {
+            "label": "彫師",
+            "value": "彫源刀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "魚河岸"
+        },
+        {
+            "label": "人名",
+            "value": "木徳（会主）/大光分店（会主）/鈴仙（会主）/伏宗幸/港吉/菊屋豊/三木安/大慶/大光竹/虎留/鈴幸/松竹/伊藤久/佐駒/乙国/三政重/大増要/八百藤/虎金清/野田屋/大野/西幸/山吉梅"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娼・妓(含売春）"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "会主以外は総て魚河岸の人々"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2682/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

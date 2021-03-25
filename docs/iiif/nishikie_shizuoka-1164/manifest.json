@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1164/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "当世美人揃玉ろう若むらさき",
+    "label": "（片岡我童の野晒悟助）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "当世美人揃玉ろう若むらさき"
+            "value": "（片岡我童の野晒悟助）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(19)"
+            "value": "K915-108-26-(17)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "豊原國周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１月(18650010550)"
+            "value": "明治１８年９月２０日届(18850090200)"
         },
         {
             "label": "版元名",
-            "value": "平野屋"
+            "value": "三浦武明"
         },
         {
             "label": "版元住所",
-            "value": "万丁"
+            "value": "浅草区並木町１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工野田岡三郎"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,31 +57,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "丑正改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "若紫"
+            "value": "坂東家橘（浮世戸平）/尾上菊五郎（羅漢清蔵/土器売詫助）/片岡我童（野晒悟助）/岩井松之助（詫助娘小賤）"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "玉楼"
+            "value": "酔菩提新酒又六"
         },
         {
             "label": "その他書誌事項",
-            "value": "「一」とあり"
+            "value": "定価金6銭、明治18年10月5日より千歳座にて「酔菩提新酒又六」、「此の芝居不入にて直に千秋楽」と『歌舞伎年表』にあり"
         }
     ],
     "sequences": [

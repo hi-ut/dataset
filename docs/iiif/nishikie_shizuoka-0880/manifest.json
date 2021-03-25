@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0880/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "雀歌万代げんじ",
+    "label": "東都名所芝神明宮御宮元暁神楽之図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "雀歌万代げんじ"
+            "value": "東都名所芝神明宮御宮元暁神楽之図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(11)"
+            "value": "K915-108-21-(04)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "万延元年閏３月(18600035550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
         },
         {
             "label": "版元名",
-            "value": "大貞"
+            "value": "佐野屋喜兵衛"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,19 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "申閏三改"
+            "value": "衣笠/渡辺"
+        },
+        {
+            "label": "地名",
+            "value": "ナ"
         },
         {
             "label": "主題",
-            "value": "風俗／歴史画／源氏絵"
+            "value": "建築／神社／娯楽／芸／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "年中行事"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "鶴/鳥籠/雀歌"
+            "value": "神楽/芝神明宮/おひねり"
         }
     ],
     "sequences": [

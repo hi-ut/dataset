@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1079/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（関取千両幟）",
+    "label": "新吉原角町二丁目稲本楼美人名女揃",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（関取千両幟）"
+            "value": "新吉原角町二丁目稲本楼美人名女揃"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(08)"
+            "value": "K915-108-23-(49)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "梅蝶楼国貞画印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治元年３月(18680030550)"
+            "value": "慶応元年４月(18650040550)"
         },
         {
             "label": "版元名",
-            "value": "大貞"
+            "value": "小川半助"
         },
         {
             "label": "彫師",
-            "value": "田中彫牛"
+            "value": "朝倉彫万"
         },
         {
             "label": "判",
@@ -57,27 +57,27 @@
         },
         {
             "label": "検印",
-            "value": "辰三改"
+            "value": "丑四改"
+        },
+        {
+            "label": "地名",
+            "value": "新吉原"
         },
         {
             "label": "人名",
-            "value": "沢村訥升（小野屋七兵衛）/中村芝翫（稲川）/大谷友右衛門（女房）"
+            "value": "小稲/在原/鳰鳥/相生/花鳥/井筒/久方/薄衣/濃糸/若柳"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "娯楽／娼・妓(含売春）"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "美人画"
         },
         {
             "label": "その他固有件名",
-            "value": "関取千両幟"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "中の印が「辰二改」とあり、明治元年2月8日より守田座にて「関取千両幟」"
+            "value": "稲本楼"
         }
     ],
     "sequences": [

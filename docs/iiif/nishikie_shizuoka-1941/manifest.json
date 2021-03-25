@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1941/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "伊賀越道中双六",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "伊賀越道中双六"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-41-(18)"
+        },
+        {
+            "label": "画工名",
+            "value": "歌川国輝画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "栄久堂梓"
+        },
+        {
+            "label": "版元住所",
+            "value": "芳町川岸角"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "浜/馬込"
+        },
+        {
+            "label": "人名",
+            "value": "和田志津馬/お袖/足軽助正"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「富士川の新関に於袖志津馬に恋慕する図」と詞書あり、続き物で第八のもの、「八」とあり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1941/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

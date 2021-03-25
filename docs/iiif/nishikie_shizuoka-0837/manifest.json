@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0837/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所図会新橋ステンション蒸気発車",
+    "label": "太物浦大合戦",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所図会新橋ステンション蒸気発車"
+            "value": "太物浦大合戦"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(55)"
+            "value": "K915-108-19-(02)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "不明(00000000000)"
+            "value": "安政３年１０月(18560100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "森屋治兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬二"
         },
         {
             "label": "判",
@@ -37,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -45,23 +53,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "改/辰十"
         },
         {
             "label": "地名",
-            "value": "新橋"
+            "value": "大物浦"
+        },
+        {
+            "label": "人名",
+            "value": "源九郎判官義経/新中納言知盛/能登守教経"
         },
         {
             "label": "主題",
-            "value": "土木／鉄道／建築／ステーション／風景画／名所図絵"
+            "value": "文芸／歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
             "label": "その他固有件名",
-            "value": "ステーション"
+            "value": "平家物語"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0900/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（権十郎の唐犬権兵衛と紫若の権八）",
+    "label": "富士三十六景東海堂左り不二",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（権十郎の唐犬権兵衛と紫若の権八）"
+            "value": "富士三十六景東海堂左り不二"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(31)"
+            "value": "K915-108-21-(24)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年２月(18640020550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "菊屋市兵衛"
-        },
-        {
-            "label": "版元住所",
-            "value": "横山三"
-        },
-        {
-            "label": "彫師",
-            "value": "彫太田多七"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -61,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "子二改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "岩井紫若（白井権八）/市川新車（三浦屋小紫）/河原崎権十郎（唐犬権兵衛）/坂東彦三郎（寺西閑心実はマムシの次郎吉）"
+            "label": "地名",
+            "value": "東海道"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "昔噺誉曽我"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "元治元年2月15日より中村座にて「昔噺誉曽我」"
+            "value": "富士山/左り富士"
         }
     ],
     "sequences": [

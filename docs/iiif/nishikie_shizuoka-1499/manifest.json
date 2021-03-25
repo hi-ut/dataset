@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1499/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "官女名器縦覧ノ図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "官女名器縦覧ノ図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-33-(18)"
+        },
+        {
+            "label": "画工名",
+            "value": "楊洲周延筆印：橋本直義"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１４年４月９日届(18810040090)"
+        },
+        {
+            "label": "版元名",
+            "value": "山村金三郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草芳野丁６５"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "皇室／皇后（含女官）／博覧会"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "内国勧業博覧会"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治14年3月1日第2回内国勧業博覧会開業式に行幸"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1499/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

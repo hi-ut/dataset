@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1099/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "梅幸百種之内柴田勝家",
+    "label": "上るり愛宕館芝浦八景",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "梅幸百種之内柴田勝家"
+            "value": "上るり愛宕館芝浦八景"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(28)"
+            "value": "K915-108-24-(18)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "応需香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２６年(18930550550)"
+            "value": "明治２４年５月(18910050550)"
         },
         {
             "label": "版元名",
-            "value": "福田熊次郎"
+            "value": "森本順三郎"
         },
         {
             "label": "版元住所",
-            "value": "東京日本橋区長谷川町１９"
+            "value": "浅草区瓦町２"
         },
         {
             "label": "彫師",
-            "value": "二世彫栄"
+            "value": "彫徳"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,8 +60,12 @@
             "value": "なし"
         },
         {
+            "label": "地名",
+            "value": "芝浦"
+        },
+        {
             "label": "人名",
-            "value": "尾上梅幸/中村芝翫（石川八左衛門）"
+            "value": "市川左団次（山田重兵衛）/市川米蔵（緑山お雪）/尾上栄三郎（高輪晴子）/尾上菊五郎（田嶋安太郎）/坂東家橘（今光氏）"
         },
         {
             "label": "主題",
@@ -72,8 +76,12 @@
             "value": "役者絵"
         },
         {
+            "label": "その他固有件名",
+            "value": "愛宕館"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "「二十」とあり"
+            "value": "明治24年5月5日より新富座にて「愛宕館芝浦八景」"
         }
     ],
     "sequences": [

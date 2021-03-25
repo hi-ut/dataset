@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1196/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "雪月花屏風のつき",
+    "label": "鉢の木之大意",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "雪月花屏風のつき"
+            "value": "鉢の木之大意"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(06)"
+            "value": "K915-108-27-(04)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３２年９月１０日(18990090100)"
+            "value": "（明治８年１１月）(18750110550)"
         },
         {
             "label": "版元名",
-            "value": "松木平吉"
+            "value": "森本順三郎"
         },
         {
             "label": "版元住所",
-            "value": "東京日本橋区吉川町２"
+            "value": "浅草瓦町２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工平"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,16 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "市川左団次（時頼入道）/坂東彦三郎（源左衛門経世）/沢村訥升（経世妻白妙）"
+        },
+        {
             "label": "主題",
-            "value": "女性／娯楽／娯楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "月見"
+            "value": "初深雪佐野鉢木"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治8年11月14日より新富座にて「初深雪佐野鉢木」、配役は上記の通り、詞書あり、届も検印もなし"
         }
     ],
     "sequences": [

@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2328/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（甲子曽我大国柱の芝翫と田之助）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（甲子曽我大国柱の芝翫と田之助）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-46-(46)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳幾画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "元治元年２月(18640020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "加賀屋"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国"
+        },
+        {
+            "label": "彫師",
+            "value": "彫巳の"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "子二改"
+        },
+        {
+            "label": "人名",
+            "value": "沢村田之助（白縫/実は若菜姫）/中村芝翫（千草/実は鳥山秋作）/市川浜七（播磨三吉）/中村木十郎（竹）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "甲子曽我大国柱"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "元治元年2月15日より守田座にて「甲子曽我大国柱」、但し、芝翫(若菜姫/鳥山秋作)は出ているが、田之助の出演なし"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2328/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

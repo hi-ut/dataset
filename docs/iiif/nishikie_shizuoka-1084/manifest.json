@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1084/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "近世東侠客寝覚の於吉",
+    "label": "相馬平氏二代譚",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "近世東侠客寝覚の於吉"
+            "value": "相馬平氏二代譚"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(13)"
+            "value": "K915-108-24-(03)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "香朝楼筆"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年１１月(18670110550)"
+            "value": "明治２３年３月(18900030550)"
         },
         {
             "label": "版元名",
-            "value": "福太梓"
+            "value": "石井六之助"
         },
         {
             "label": "版元住所",
-            "value": "赤坂"
+            "value": "日本橋区馬喰町２丁目１１"
+        },
+        {
+            "label": "彫師",
+            "value": "ホリ銀"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,35 +57,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "卯十一改"
-        },
-        {
-            "label": "地名",
-            "value": "稲川町"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "坂東三津五郎/村柑子/寝覚のお吉"
+            "value": "平将門/岩井松之助（瀧夜叉姫）/市川団十郎（将軍太郎良門）/坂東家橘（渡辺綱）/市川新蔵（満仲三男美女丸）"
         },
         {
             "label": "主題",
-            "value": "娯楽／富くじ・ばくち"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "侠客/けんどん箱/出前持"
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "「稲川町のあだおき」とのあだなあり、もと女髪結、のちに蕎麦屋の出前持、詞書あり"
+            "value": "明治23年3月25日より歌舞伎座にて「相馬平氏二代譚」"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0986/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優見立給金競",
+    "label": "東京府下名所尽新橋ステンーション",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優見立給金競"
+            "value": "東京府下名所尽新橋ステンーション"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(36)"
+            "value": "K915-108-22-(43)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "広重画（三代目）"
         },
         {
             "label": "和暦年月日",
-            "value": "明治９年９月４日届(18760090040)"
+            "value": "明治７年１０月(18740100550)"
         },
         {
             "label": "版元名",
-            "value": "山村鉱次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "浅草諏訪丁１６"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀"
+            "value": "辻岡屋亀吉板"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,23 +49,27 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "中村福助（孔雀太郎）/尾上菊五郎（捨若丸）/市川団十郎（犬山道節）/助高屋高助（白縫姫）/市川左団次（暁星五郎）"
+            "label": "検印",
+            "value": "戌十"
+        },
+        {
+            "label": "地名",
+            "value": "新橋"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "文明開化／土木／鉄道／建築／ステーション／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
-            "label": "その他書誌事項",
-            "value": "給金附あり"
+            "label": "その他固有件名",
+            "value": "ステーション"
         }
     ],
     "sequences": [

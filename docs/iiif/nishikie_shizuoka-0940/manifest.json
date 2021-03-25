@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0940/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "本朝二十四孝狐火の段",
+    "label": "しん板新工風役者名尽はんじ物",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "本朝二十四孝狐火の段"
+            "value": "しん板新工風役者名尽はんじ物"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(20)"
+            "value": "K915-108-22-(01)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼筆印"
+            "value": "重宣戯画（二代目広重）"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２６年１２月(18930120550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋文助"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区横山町３丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "間世彫徳"
+            "value": "辻屋安兵衛（辻安）"
         },
         {
             "label": "判",
@@ -57,27 +49,19 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "尾上菊五郎（八重垣姫）/尾上菊五郎（八重垣姫）/中村福助（武田勝頼）/坂東秀調（侍元濡衣）/尾上菊四郎（上杉の近臣）"
+            "label": "検印",
+            "value": "米良/村田"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "演劇／歌舞伎／戯び"
         },
         {
             "label": "その他固有件名",
-            "value": "二十四孝"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治27年1月12日より歌舞伎座にて「本朝二十四孝」"
+            "value": "飴細工/謎々/火消/三助/質屋"
         }
     ],
     "sequences": [

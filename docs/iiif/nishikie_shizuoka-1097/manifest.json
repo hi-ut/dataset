@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1097/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "梅幸百種之内斎藤実盛",
+    "label": "明治座春狂言伊達模様好織分",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "梅幸百種之内斎藤実盛"
+            "value": "明治座春狂言伊達模様好織分"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(26)"
+            "value": "K915-108-24-(16)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２６年(18930550550)"
+            "value": "明治２７年１月(18940010550)"
         },
         {
             "label": "版元名",
-            "value": "福田熊次郎"
+            "value": "森本順三郎"
         },
         {
             "label": "版元住所",
-            "value": "東京日本橋区長谷川町１９"
+            "value": "浅草瓦丁２"
+        },
+        {
+            "label": "彫師",
+            "value": "間世彫徳"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,7 +61,7 @@
         },
         {
             "label": "人名",
-            "value": "尾上梅幸/市川佐団次（瀬尾十郎）"
+            "value": "沢村紀の丸（鶴千代君）/坂東しう鯛（乳人浅岡）/市川権十郎（片倉小十郎）/市川左団次（玄妙院怪典）"
         },
         {
             "label": "主題",
@@ -68,8 +72,12 @@
             "value": "役者絵"
         },
         {
+            "label": "その他固有件名",
+            "value": "伊達模様好織分"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "「廿八」とあり"
+            "value": "明治27年1月9日より明治座にて「伊達模様好織分」"
         }
     ],
     "sequences": [

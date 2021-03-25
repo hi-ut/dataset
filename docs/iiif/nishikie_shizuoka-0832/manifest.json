@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0832/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名勝図会金龍山歳の市",
+    "label": "大日本六十余州之内周防大内義隆",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名勝図会金龍山歳の市"
+            "value": "大日本六十余州之内周防大内義隆"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(50)"
+            "value": "K915-108-18-(53)"
         },
         {
             "label": "画工名",
-            "value": "広重筆"
+            "value": "一勇斎国芳画/芳政"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２年１２月(18690120550)"
+            "value": "天保１３〜弘化４年(18330550550)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎（丸鉄板）"
+            "value": "古賀屋脇五郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "本二"
         },
         {
             "label": "判",
@@ -53,19 +57,27 @@
         },
         {
             "label": "検印",
-            "value": "巳十二改"
+            "value": "渡"
+        },
+        {
+            "label": "国名",
+            "value": "周防"
+        },
+        {
+            "label": "人名",
+            "value": "松亭金水/大内義隆/一天斎芳政/陶晴賢"
         },
         {
             "label": "主題",
-            "value": "風俗／風景画／名所図絵"
+            "value": "歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
-            "label": "その他固有件名",
-            "value": "浅草寺/歳の市"
+            "label": "その他書誌事項",
+            "value": "一天斎芳政が駒絵、松亭金水が詞書"
         }
     ],
     "sequences": [

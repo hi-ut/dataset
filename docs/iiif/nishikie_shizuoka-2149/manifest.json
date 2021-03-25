@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2149/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "関白秀吉公於御前三十六番角觝之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "関白秀吉公於御前三十六番角觝之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-43-(63)"
+        },
+        {
+            "label": "画工名",
+            "value": "香蝶楼豊宣印：歌川金太郎"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１７年３月届(18840030550)"
+        },
+        {
+            "label": "版元名",
+            "value": "森本順三郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草瓦町２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "豊臣秀吉/塙団右衛門/貴田孫兵衛/樋口内蔵之助/木邨又蔵/十時伝右衛門/山崎庄兵衛/片桐半右衛門/渡辺勘兵衛/中内源兵衛/稲富三郎兵衛/天野源右衛門/杉原伯耆守/可児才蔵/亀田大隅/母里太兵衛/稲葉助之丞"
+        },
+        {
+            "label": "主題",
+            "value": "スポーツ／相撲／歴史画"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2149/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

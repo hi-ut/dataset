@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0879/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（三人飛脚酒宴の場）",
+    "label": "名所江戸百景神田明神曙之景",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（三人飛脚酒宴の場）"
+            "value": "名所江戸百景神田明神曙之景"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(10)"
+            "value": "K915-108-21-(03)"
         },
         {
             "label": "画工名",
-            "value": "国貞画印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応２年１月(18660010550)"
+            "value": "安政３〜５年(18580550550)"
         },
         {
             "label": "版元名",
-            "value": "伊勢屋兼吉"
+            "value": "魚屋栄吉（魚栄）"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷"
         },
         {
             "label": "判",
@@ -41,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -49,31 +53,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "寅正改"
-        },
-        {
-            "label": "人名",
-            "value": "河原崎権十郎（飛脚咲平）/坂東彦三郎（飛脚音平）/市村家橘（飛脚陽平）"
+            "label": "地名",
+            "value": "神田"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "建築／神社／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／風俗"
         },
         {
             "label": "その他固有件名",
-            "value": "飛脚屋"
+            "value": "神田明神"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応2年2月14日より市村座にて「櫓太鼓鳴吉原」、これと関連するものか？"
+            "value": "名所江戸百景118枚は安政3〜5年の刊"
         }
     ],
     "sequences": [

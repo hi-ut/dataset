@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1238/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "雪月花山城伏見雪常磐御前",
+    "label": "（加賀屋又三郎）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "雪月花山城伏見雪常磐御前"
+            "value": "（加賀屋又三郎）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(48)"
+            "value": "K915-108-28-(06)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆：橋本直義"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "（明治１７年８月２日）(18840080020)"
+            "value": "明治９年９月２０日届(18760090200)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎"
+            "value": "小山半五郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋通３丁目１３"
+            "value": "堀江町２丁目７"
         },
         {
             "label": "彫師",
-            "value": "宗岡刀"
+            "value": "彫工平"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,28 +60,24 @@
             "value": "なし"
         },
         {
-            "label": "国名",
-            "value": "山城"
-        },
-        {
-            "label": "地名",
-            "value": "伏見"
-        },
-        {
             "label": "人名",
-            "value": "今若丸/常磐御前/牛若丸/乙若丸"
+            "value": "市川左団次（芝田町清元延勝）/坂東彦三郎（加賀屋又三郎）/沢村訥升（橋場町清元秀吉）"
         },
         {
             "label": "主題",
-            "value": "歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "出世娘瓢簪"
         },
         {
             "label": "その他書誌事項",
-            "value": "(三)とあり"
+            "value": "定価6銭、明治9年9月15日より新富座にて「出世娘瓢簪」"
         }
     ],
     "sequences": [

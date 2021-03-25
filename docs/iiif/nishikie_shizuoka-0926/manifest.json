@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0926/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "市村座春狂言中幕曽我",
+    "label": "名所江戸百景駒形堂吾嬬橋",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "市村座春狂言中幕曽我"
+            "value": "名所江戸百景駒形堂吾嬬橋"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(06)"
+            "value": "K915-108-21-(50)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼豊斎筆印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３１年１２月(18980120550)"
-        },
-        {
-            "label": "版元名",
-            "value": "長谷川美寿"
-        },
-        {
-            "label": "版元住所",
-            "value": "東京市京橋区南伝馬町１７"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,24 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "沢村源之助（大磯の虎）/中村種太郎（曽我十郎）/三枡稲丸（仁田四郎）/片岡市蔵（工藤祐経）/片岡亀蔵（曽我五郎）/中村芝鶴（朝比奈三郎）"
-        },
-        {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "建築／寺院／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "曽我物語"
+            "value": "駒形堂/吾妻橋"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治32年1月1日より市村座にて中幕「曽我だんまり」"
+            "value": "複製"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0822/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所両ごく回向院元柳橋",
+    "label": "太平記英勇伝四王連左司馬頭政高",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所両ごく回向院元柳橋"
+            "value": "太平記英勇伝四王連左司馬頭政高"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(40)"
+            "value": "K915-108-18-(43)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "（安政４年５月）(18570050550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
         },
         {
             "label": "版元名",
-            "value": "魚栄"
-        },
-        {
-            "label": "版元住所",
-            "value": "下谷"
+            "value": "山本久兵衛"
         },
         {
             "label": "判",
@@ -53,27 +49,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "地名",
-            "value": "両国/元柳橋"
+            "label": "検印",
+            "value": "米良/村田"
+        },
+        {
+            "label": "人名",
+            "value": "一家略伝史柳下亭種員/四王連政高"
         },
         {
             "label": "主題",
-            "value": "風景画／名所図絵"
+            "value": "歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "肖像画"
         },
         {
             "label": "その他固有件名",
-            "value": "回向院"
+            "value": "太平記"
         },
         {
             "label": "その他書誌事項",
-            "value": "広重の「名所江戸百景」のタイトルを「東京名所」とかえて明治初年に摺り出したもの、他は全く同一"
+            "value": "種員の詞書あり、「二十九」とあり"
         }
     ],
     "sequences": [

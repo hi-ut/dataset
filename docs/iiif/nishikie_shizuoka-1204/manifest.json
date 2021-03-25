@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1204/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "真美人",
+    "label": "（白縫譚）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "真美人"
+            "value": "（白縫譚）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(14)"
+            "value": "K915-108-27-(12)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３０年１０月１０日(18970100100)"
+            "value": "明治１９年２月届(18860020550)"
         },
         {
             "label": "版元名",
-            "value": "秋山武右衛門"
+            "value": "山村鑛次郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区室町３丁目９"
+            "value": "浅草諏訪町１２"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,16 +56,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "片岡我童（鳥山豊後之助）/中村芝翫（乳母秋しの）/中村福助（秋作照忠）/中村鶴五郎（瀧川小文次）"
+        },
+        {
             "label": "主題",
-            "value": "女性"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "白縫譚"
         },
         {
             "label": "その他書誌事項",
-            "value": "手すりより下を見る美人、「十六」とあり"
+            "value": "明治19年2月28日より市村座にて「白縫」、三十郎(大友刑部)、福助(若菜姫)、我童(豊後之助)、芝翫(乳母秋篠)"
         }
     ],
     "sequences": [

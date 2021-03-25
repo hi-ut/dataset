@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0982/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（田之助の清姫）",
+    "label": "東京名所王子音無川堰タイ世俗大瀧ト唱",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（田之助の清姫）"
+            "value": "東京名所王子音無川堰タイ世俗大瀧ト唱"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(32)"
+            "value": "K915-108-22-(39)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２年２月(18690020550)"
+            "value": "安政年間(18590550550)"
         },
         {
             "label": "版元名",
-            "value": "津国屋伊三郎"
+            "value": "魚栄"
         },
         {
-            "label": "彫師",
-            "value": "彫辰"
+            "label": "版元住所",
+            "value": "下谷"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,31 +53,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "巳三改"
-        },
-        {
-            "label": "人名",
-            "value": "市川左団次（剛寂僧都）/沢村田之助（庄司娘清姫）/沢村訥升（安珍）/尾上多賀之丞（小田巻姫）"
+            "label": "地名",
+            "value": "王子/音無川"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "恋紀の路日高曙"
+            "value": "大瀧"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治2年1月28日より守田座にて「恋紀の路日高曙」"
+            "value": "広重の「名所江戸百景」のタイトルを「東京名所」とかえて明治初年に摺り出したもの、他は全く同一"
         }
     ],
     "sequences": [

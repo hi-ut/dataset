@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0805/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（松に鷹）",
+    "label": "阪田金時",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（松に鷹）"
+            "value": "阪田金時"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(27)"
+            "value": "K915-108-18-(26)"
         },
         {
             "label": "画工名",
-            "value": "立祥筆"
+            "value": "国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１１月(18650110550)"
+            "value": "天保１３年以前(18420550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "加藤屋岩吉"
         },
         {
             "label": "判",
-            "value": "短冊"
+            "value": "大判"
         },
         {
             "label": "形態",
@@ -49,23 +53,19 @@
         },
         {
             "label": "検印",
-            "value": "丑十一改"
+            "value": "極"
         },
         {
             "label": "人名",
-            "value": "是外"
+            "value": "坂田金時/金太郎"
         },
         {
             "label": "主題",
-            "value": "動植物画／鳥"
+            "value": "怪異／怪談／歴史画"
         },
         {
-            "label": "その他固有件名",
-            "value": "鷹"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「木がらしや明ても凄き峯の月」(是外)との句あり"
+            "label": "細目",
+            "value": "肖像画"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1085/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "近世東侠客太刀売朝五郎",
+    "label": "皐月晴上野朝風",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "近世東侠客太刀売朝五郎"
+            "value": "皐月晴上野朝風"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(14)"
+            "value": "K915-108-24-(04)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "応需香朝楼筆"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年１２月(18670120550)"
+            "value": "明治２３年５月(18900050550)"
         },
         {
             "label": "版元名",
-            "value": "福太梓"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "赤坂"
+            "value": "日本橋区長谷川丁１９"
+        },
+        {
+            "label": "彫師",
+            "value": "小三"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,35 +57,31 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "卯十二改"
+            "value": "なし"
         },
         {
             "label": "地名",
-            "value": "青物市場"
+            "value": "上野"
         },
         {
             "label": "人名",
-            "value": "市村家橘/村柑子/太刀売朝五郎"
+            "value": "尾上菊五郎（篠原国幹）/市川左団次（池田大隈守）"
         },
         {
             "label": "主題",
-            "value": "娯楽／富くじ・ばくち"
+            "value": "戊辰戦争／演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "侠客/太刀売"
+            "value": "彰義隊/上野戦争"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書あり"
+            "value": "明治23年5月23日より新富座にて「皐月晴上野の朝風」、新工夫の火事がきき大入なりし、此時の中まく「大和文庫」に「だん特山」の画面あれども、おくらに成る"
         }
     ],
     "sequences": [

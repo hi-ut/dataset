@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1226/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま月琴",
+    "label": "（黒田騒動）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま月琴"
+            "value": "（黒田騒動）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(36)"
+            "value": "K915-108-27-(34)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年９月(18960090550)"
+            "value": "明治８年８月(18750080550)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区長谷川町１９"
+            "value": "大黒屋平吉"
         },
         {
             "label": "彫師",
-            "value": "柘植刀"
+            "value": "彫工銀"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,19 +53,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥八"
+        },
+        {
+            "label": "人名",
+            "value": "尾上菊五郎（毛谷主水）/沢村訥升（愛妾お秀）/市川左団次（黒田右衛門）/坂東彦三郎（栗山大膳）/中村芝翫（倉橋重太夫）"
         },
         {
             "label": "主題",
-            "value": "女性／娯楽／音楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "月琴"
+            "value": "黒田騒動"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "この前後上演記録なし、但し明治8年10月1日より新富座にて「筑紫巷談浪白縫」"
         }
     ],
     "sequences": [

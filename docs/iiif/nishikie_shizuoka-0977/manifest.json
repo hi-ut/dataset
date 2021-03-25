@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0977/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（水尾十郎左衛門と幡随長兵衛）",
+    "label": "江戸名所浅草奥山花やしき",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（水尾十郎左衛門と幡随長兵衛）"
+            "value": "江戸名所浅草奥山花やしき"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(27)"
+            "value": "K915-108-22-(34)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１７年？(18840550552)"
+            "value": "安政５年３月(18580030550)"
         },
         {
             "label": "版元名",
-            "value": "山村鉱次郎"
+            "value": "山田屋"
         },
         {
             "label": "版元住所",
-            "value": "浅草諏訪丁１２"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀"
+            "value": "中橋"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,23 +53,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "市川左団次（水尾十郎左衛門）/市川団十郎（幡随長兵衛）"
+            "label": "検印",
+            "value": "午三"
+        },
+        {
+            "label": "地名",
+            "value": "浅草/花屋敷"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治17年6月1日より新富座にて「極附幡随長兵衛」、これに当るか？、あるいは明治20年8月18日より千歳座にて「極附幡随長兵衛」"
+            "value": "風景画"
         }
     ],
     "sequences": [

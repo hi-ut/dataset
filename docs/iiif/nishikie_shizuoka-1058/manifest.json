@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1058/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "流行三組三人勝負",
+    "label": "（芝翫の狐忠信）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "流行三組三人勝負"
+            "value": "（芝翫の狐忠信）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(27)"
+            "value": "K915-108-23-(28)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "国貞筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年４月(18640040550)"
+            "value": "慶応３年７月(18670070550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋"
+            "value": "相模屋藤吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷"
         },
         {
             "label": "彫師",
-            "value": "片田彫長"
+            "value": "深川銀"
         },
         {
             "label": "判",
@@ -57,11 +61,11 @@
         },
         {
             "label": "検印",
-            "value": "子四改"
+            "value": "卯七改"
         },
         {
             "label": "人名",
-            "value": "河原崎権十郎（冬杜丹の辺）/市村羽左衛門（橘の市）/沢村田之助（月夜の菊）"
+            "value": "源義経（沢村訥升）/静御前（岩井紫若）/中村芝翫（狐忠信）/大谷友右衛門（覚範）"
         },
         {
             "label": "主題",
@@ -73,7 +77,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "魚河岸"
+            "value": "千本桜"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応3年7月13日より守田座にて「千本桜」"
         }
     ],
     "sequences": [

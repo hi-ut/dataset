@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2273/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（山内頼貞光を犬坂けのの母に当てるの図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（山内頼貞光を犬坂けのの母に当てるの図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-45-(62)"
+        },
+        {
+            "label": "画工名",
+            "value": "国員"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "不明(00000000000)"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "尾上多目蔵（犬山道節）/嵐瑠カク（山内頼貞）/嵐瑠寛（犬山毛乃）/中村政六（犬山毛乃の母）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "里見八犬伝"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "25.5×18.5cmが3枚、天保9年1月、大阪大西芝居にて「八犬伝」、道節(多見蔵)、嘉永2年5月、堺南、中村富右衛門座にて「八犬伝」、道節(多見蔵)、信乃(りかく)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2273/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0888/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（筑紫権六と狂言師左近）",
+    "label": "富士三十六景東都佃沖",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（筑紫権六と狂言師左近）"
+            "value": "富士三十六景東都佃沖"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(19)"
+            "value": "K915-108-21-(12)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年８月(18670080550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "伊勢屋利兵衛"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "卯八改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "嵐吉三郎（筑紫権六）/中村芝翫（三浦長門助）/河原崎権十郎（狂言師左近）/坂東三津五郎（女非人おみつ）"
+            "label": "地名",
+            "value": "佃島"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "狂言師"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "慶応3年8月4日より中村座にて「魁音々々七字旗色」、これと関係あるか？"
+            "value": "富士山/帆船"
         }
     ],
     "sequences": [

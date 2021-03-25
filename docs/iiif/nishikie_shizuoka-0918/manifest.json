@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0918/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "新吉原角町二丁目稲本楼美人名女揃",
+    "label": "（張交ぜ絵）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "新吉原角町二丁目稲本楼美人名女揃"
+            "value": "（張交ぜ絵）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(49)"
+            "value": "K915-108-21-(42)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞画印"
+            "value": "広重/立斎/一立"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年４月(18650040550)"
-        },
-        {
-            "label": "版元名",
-            "value": "小川半助"
-        },
-        {
-            "label": "彫師",
-            "value": "朝倉彫万"
+            "value": "弘化４〜嘉永５年(18520550550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "その他 ６枚"
         },
         {
             "label": "彩色",
@@ -57,27 +49,15 @@
         },
         {
             "label": "検印",
-            "value": "丑四改"
-        },
-        {
-            "label": "地名",
-            "value": "新吉原"
-        },
-        {
-            "label": "人名",
-            "value": "小稲/在原/鳰鳥/相生/花鳥/井筒/久方/薄衣/濃糸/若柳"
+            "value": "浜/渡辺"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "風景画"
         },
         {
-            "label": "細目",
-            "value": "美人画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "稲本楼"
+            "label": "その他書誌事項",
+            "value": "鷺、梅、徳利、おこそ頭巾の女、花、船がかかれてあり"
         }
     ],
     "sequences": [

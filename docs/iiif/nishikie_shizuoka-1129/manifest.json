@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1129/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "しののめ大谷友右衛門",
+    "label": "（直実と敦盛）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "しののめ大谷友右衛門"
+            "value": "（直実と敦盛）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(58)"
+            "value": "K915-108-25-(18)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年９月(18670090550)"
+            "value": "明治２０年３月７日届(18870030070)"
+        },
+        {
+            "label": "版元名",
+            "value": "小林鉄次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区通３丁目１３"
         },
         {
             "label": "彫師",
-            "value": "彫工升"
+            "value": "彫勇"
         },
         {
             "label": "判",
@@ -41,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -49,15 +57,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "卯九改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "大谷友右衛門（しののめ）"
+            "value": "中村福助（敦盛）/市川団十郎（熊谷直実）/市川左団次（平治）/市川金太郎（かつら子）"
         },
         {
             "label": "主題",
@@ -69,11 +73,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "喜九字当機成台/古寺"
+            "value": "魁源平つつじ"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応3年10月6日より守田座にて「喜九字当機成台」"
+            "value": "明治20年3月9日より新富座にて「魁源平つつじ」"
         }
     ],
     "sequences": [

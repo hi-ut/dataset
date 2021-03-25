@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1125/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "見立人形花揃浦里時次郎",
+    "label": "岩永中村芝翫畠山重忠片岡我童あこや中村福助",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "見立人形花揃浦里時次郎"
+            "value": "岩永中村芝翫畠山重忠片岡我童あこや中村福助"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(54)"
+            "value": "K915-108-25-(14)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "栄川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治８年４月(18750040550)"
+            "value": "明治１７年１月届(18840010550)"
         },
         {
-            "label": "彫師",
-            "value": "彫多"
+            "label": "版元名",
+            "value": "宮沢政太郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "北槙町１５"
         },
         {
             "label": "判",
@@ -41,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -49,15 +53,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "亥四"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "尾上菊五郎（浦里）/坂東彦三郎（時次郎）"
+            "value": "中村福助（阿古屋）/片岡我童（畠山重忠）/中村芝翫（岩永）"
         },
         {
             "label": "主題",
@@ -69,7 +69,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "明烏"
+            "value": "兜軍記"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治17年1月4日より市村座にて「兜軍記」"
         }
     ],
     "sequences": [

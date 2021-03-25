@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2786/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京名所尽（高輪大木戸他三図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京名所尽（高輪大木戸他三図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集東京名所（巻子）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-109-01-(03)"
+        },
+        {
+            "label": "画工名",
+            "value": "広重筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治初年(18680550550)"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "品川/高輪/御台場"
+        },
+        {
+            "label": "主題",
+            "value": "土木／港湾／建築／劇場／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画／建物"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "品川遊廓/御台場灯台/二十六夜待/大木戸"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "4図あり、高輪の大木戸、高輪の二十六夜待、品川沖御台場、品川の遊興、御台場灯台は明治3年3月の建造"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2786/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

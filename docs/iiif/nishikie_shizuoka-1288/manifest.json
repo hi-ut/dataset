@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1288/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "徳川時代貴婦人之図（花車）",
+    "label": "（芝居小判絵尼ヶ崎他三図）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "徳川時代貴婦人之図（花車）"
+            "value": "（芝居小判絵尼ヶ崎他三図）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３１）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-31-(27)"
+            "value": "K915-108-28-(56)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "（国周）：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２８年１０月１日(18950100010)"
+            "value": "明治１２年１２月５日届(18790120050)"
         },
         {
             "label": "版元名",
-            "value": "長谷川常治郎"
+            "value": "林吉蔵"
         },
         {
             "label": "版元住所",
-            "value": "神田鍛冶町５"
+            "value": "南伝馬町１丁目２"
         },
         {
             "label": "彫師",
-            "value": "永山刀"
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,12 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "高助（久吉）/九蔵（光秀）/多賀之丞（みさほ）/左団次（七蔵）/菊五郎（お伝）/宗十郎（義教）/赤松満祐（団十郎）/我童（重忠）/権十郎（景清）/高橋お伝"
+        },
+        {
             "label": "主題",
-            "value": "歴史画／動植物画／草木・花・果実"
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "花車"
+            "value": "尼ヶ崎/お伝夢の場/赤松諫言/大仏供養"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "(55)(56)(57)は1枚の双六の4分の1づつのもの"
         }
     ],
     "sequences": [

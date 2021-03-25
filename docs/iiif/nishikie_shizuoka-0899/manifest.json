@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0899/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（犬塚信乃の蟇六娘浜治）",
+    "label": "富士三十六景東都お茶の水",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（犬塚信乃の蟇六娘浜治）"
+            "value": "富士三十六景東都お茶の水"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(30)"
+            "value": "K915-108-21-(23)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "安政４年閏５月(18570055550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "大黒屋金次郎"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "改/巳閏五"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "犬塚信乃/蟇六娘浜治"
+            "label": "地名",
+            "value": "お茶の水"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／橋梁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "煙草盆/若樹梅里見八総/書見台"
+            "value": "富士山/水道橋"
         },
         {
             "label": "その他書誌事項",
-            "value": "安政4年5月7日より中村座にて「若樹梅里見八総」"
+            "value": "酒を運ぶ小舟が描かれてあり"
         }
     ],
     "sequences": [

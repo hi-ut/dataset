@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0904/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "紫式部げんじかるた三十六柏木",
+    "label": "東都名所隅田堤雨中之桜",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "紫式部げんじかるた三十六柏木"
+            "value": "東都名所隅田堤雨中之桜"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(35)"
+            "value": "K915-108-21-(28)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞画"
+            "value": "（広重）"
         },
         {
             "label": "和暦年月日",
-            "value": "安政４年１０月(18570100550)"
+            "value": "天保１３年以前(18420550550)"
         },
         {
             "label": "版元名",
-            "value": "蔦屋吉蔵"
+            "value": "和泉屋市兵衛"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,19 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "巳十/改"
+            "value": "極"
         },
         {
-            "label": "人名",
-            "value": "紫式部"
+            "label": "地名",
+            "value": "隅田川"
         },
         {
             "label": "主題",
-            "value": "歴史画／源氏絵"
+            "value": "風景画"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "源氏物語/柏木"
+            "value": "桜/隅田川"
         }
     ],
     "sequences": [

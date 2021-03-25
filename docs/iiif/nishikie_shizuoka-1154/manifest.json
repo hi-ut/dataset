@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1154/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "葵艸松の裏苑第四帙",
+    "label": "錣引摩耶山の場",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "葵艸松の裏苑第四帙"
+            "value": "錣引摩耶山の場"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(09)"
+            "value": "K915-108-26-(07)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "豊原國周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１２年届(18790550550)"
+            "value": "明治２８年１０月(18950100550)"
         },
         {
             "label": "版元名",
-            "value": "武川清吉"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "須田丁４"
+            "value": "日本橋区長谷川町１９"
         },
         {
             "label": "彫師",
-            "value": "彫銀"
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,16 +60,28 @@
             "value": "なし"
         },
         {
+            "label": "地名",
+            "value": "摩耶山"
+        },
+        {
             "label": "人名",
-            "value": "九皐堂真容（鶴田）/徳川家綱御台所/浅の宮/厳院殿"
+            "value": "市川団十郎（悪七兵衛景清）/市川左団次（三保谷四郎国俊）"
         },
         {
             "label": "主題",
-            "value": "幕府／将軍／歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "一谷嫩軍記"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治28年10月20日より明治座にて「一谷嫩軍記」、二幕目摩耶山錣引の場"
         }
     ],
     "sequences": [

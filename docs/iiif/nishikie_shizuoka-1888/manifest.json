@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1888/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "鹿児島戦争の図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "鹿児島戦争の図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４０）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-40-(12)"
+        },
+        {
+            "label": "画工名",
+            "value": "房種筆：村井静馬"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年９月２６日届(18770090260)"
+        },
+        {
+            "label": "版元名",
+            "value": "小森宗次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町４丁目１８"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "花野村/二重峠/須口村/日奈良/小田野"
+        },
+        {
+            "label": "主題",
+            "value": "士族反乱／西南戦争"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "定価1金5銭、8コマの図あり、(1)戦地送綿撤糸をとき玉ふ図、(2)二重峠、(3)花野村、(4)御酒頂戴、(5)須の口村、(6)日奈久、(7)小田野、(8)鹿児島私学校"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1888/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

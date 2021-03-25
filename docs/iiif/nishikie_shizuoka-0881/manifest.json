@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0881/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "げんじ今様絵巻あふひ",
+    "label": "富士三十六景甲斐御坂越",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "げんじ今様絵巻あふひ"
+            "value": "富士三十六景甲斐御坂越"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(12)"
+            "value": "K915-108-21-(05)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "安政５年１１月(18580110550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
@@ -53,15 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "午十一"
+            "value": "午四"
+        },
+        {
+            "label": "国名",
+            "value": "甲斐"
+        },
+        {
+            "label": "地名",
+            "value": "御坂峠"
         },
         {
             "label": "主題",
-            "value": "歴史画／源氏絵"
+            "value": "風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "源氏物語/葵"
+            "value": "富士山/富士五湖"
         }
     ],
     "sequences": [

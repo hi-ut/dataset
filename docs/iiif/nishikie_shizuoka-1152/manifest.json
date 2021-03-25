@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1152/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "鬼ハ外福ハ内",
+    "label": "高名揃狩屋夜嵐",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "鬼ハ外福ハ内"
+            "value": "高名揃狩屋夜嵐"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(07)"
+            "value": "K915-108-26-(05)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "豊原国周筆：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "元治元年１２月(18640120550)"
+            "value": "明治１６年６月１１日届(18830060110)"
         },
         {
             "label": "版元名",
-            "value": "平野屋"
+            "value": "山本与市"
         },
         {
             "label": "版元住所",
-            "value": "万丁"
+            "value": "芝区三島町１０"
         },
         {
             "label": "判",
@@ -53,15 +53,15 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "子十二改"
+            "label": "人名",
+            "value": "助高屋高助（虎御前）/市川団十郎（五郎時宗）/市川左団次（御所五郎丸）/中村芝翫（仁田四郎）/市川右団次（十郎祐成）"
         },
         {
             "label": "主題",
-            "value": "風俗／演劇／歌舞伎"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
@@ -69,11 +69,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "節分/豆撒/鏡餅"
+            "value": "曽我物語/高名揃獵屋夜嵐"
         },
         {
             "label": "その他書誌事項",
-            "value": "女性は田之助、男性は河原崎権十郎と市村家橘か"
+            "value": "但し上演記録なし"
         }
     ],
     "sequences": [

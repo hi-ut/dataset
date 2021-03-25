@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1257/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "野州佐野画西明寺佐野源左衛門妻白妙",
+    "label": "梅幸百種之内袴垂",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "野州佐野画西明寺佐野源左衛門妻白妙"
+            "value": "梅幸百種之内袴垂"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(67)"
+            "value": "K915-108-28-(25)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆：橋本直義"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１８年３月１１日届(18850030110)"
+            "value": "（明治２６年）(18930550550)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "通３丁目１３"
+            "value": "東京日本橋区長谷川町１９"
         },
         {
             "label": "彫師",
-            "value": "彫勇"
+            "value": "二世彫栄"
         },
         {
             "label": "判",
@@ -60,28 +60,20 @@
             "value": "なし"
         },
         {
-            "label": "国名",
-            "value": "下野"
-        },
-        {
-            "label": "地名",
-            "value": "佐野"
-        },
-        {
             "label": "人名",
-            "value": "白妙/佐野源左衛門/西明寺入道"
+            "value": "袴垂/中村芝翫（平井保昌）/尾上梅幸"
         },
         {
             "label": "主題",
-            "value": "講談／謡曲・狂言／歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
-            "label": "その他固有件名",
-            "value": "鉢の木"
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "(三十一)とあり"
+            "value": "年月日切れてよめず"
         }
     ],
     "sequences": [

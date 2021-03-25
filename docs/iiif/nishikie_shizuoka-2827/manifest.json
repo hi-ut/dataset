@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2827/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "平壌玄武門乗越之場",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "平壌玄武門乗越之場"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集日清戦争（巻子）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-109-04-(09)"
+        },
+        {
+            "label": "画工名",
+            "value": "なし"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２７年１０月(18940100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "福田熊次郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区長谷川丁１９"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "朝鮮"
+        },
+        {
+            "label": "地名",
+            "value": "平壌"
+        },
+        {
+            "label": "人名",
+            "value": "尾上菊五郎/沢田重七"
+        },
+        {
+            "label": "主題",
+            "value": "日清戦争"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "玄武門"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "柱絵、「陸軍歩兵一等卒沢田重七、尾上菊五郎」とあり、明治27年10月28日より歌舞伎座にて「海陸連勝日章旗」、菊五郎(沢田重七)"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2827/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

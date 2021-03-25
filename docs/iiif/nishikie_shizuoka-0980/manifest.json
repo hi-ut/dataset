@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0980/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（団十郎の上杉謙信）",
+    "label": "東京名所小梅堤",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（団十郎の上杉謙信）"
+            "value": "東京名所小梅堤"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(30)"
+            "value": "K915-108-22-(37)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆印：橋本通義"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１５年５月届(18820050550)"
+            "value": "安政年間(18590550550)"
         },
         {
             "label": "版元名",
-            "value": "井上茂兵衛"
+            "value": "魚栄"
         },
         {
             "label": "版元住所",
-            "value": "馬喰丁１９"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀次郎"
+            "value": "下谷"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川団十郎（上杉謙信）/市川左団次（鬼児島弥太郎）/中村芝翫（和田正行）/市川海老蔵（村上義清）"
+            "label": "地名",
+            "value": "小梅"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "川中島東都錦画"
+            "value": "風景画"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治15年6月11日より猿若座にて「川中嶋東都錦絵」、不評にて高値との噂"
+            "value": "広重の「名所江戸百景」のタイトルを「東京名所」とかえて明治初年に摺り出したもの、他は全く同一"
         }
     ],
     "sequences": [

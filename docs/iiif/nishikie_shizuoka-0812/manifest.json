@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0812/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "近江八景唐崎夜雨",
+    "label": "見立忠臣蔵二段目",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "近江八景唐崎夜雨"
+            "value": "見立忠臣蔵二段目"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,11 +21,11 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(31)-1"
+            "value": "K915-108-18-(33)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
@@ -33,11 +33,11 @@
         },
         {
             "label": "版元名",
-            "value": "和泉屋市兵衛（泉市）"
+            "value": "総州屋与兵衛"
         },
         {
             "label": "判",
-            "value": "中判"
+            "value": "大判"
         },
         {
             "label": "形態",
@@ -56,28 +56,20 @@
             "value": "極"
         },
         {
-            "label": "国名",
-            "value": "近江"
-        },
-        {
-            "label": "地名",
-            "value": "唐崎"
+            "label": "人名",
+            "value": "桃井若狭之助/加古川本蔵"
         },
         {
             "label": "主題",
-            "value": "風景画／名所図絵"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "近江八景"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「夜の雨に音をゆつりて夕風をよそに名たつからさきのまつ」の歌あり"
+            "value": "忠臣蔵"
         }
     ],
     "sequences": [

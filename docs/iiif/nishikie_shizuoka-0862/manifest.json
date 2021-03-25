@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0862/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東海道五十三次水口きせん泊",
+    "label": "（訥升の山三と三津五郎の伴左衛門）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道五十三次水口きせん泊"
+            "value": "（訥升の山三と三津五郎の伴左衛門）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（２０）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(78)-2"
+            "value": "K915-108-20-(04)"
         },
         {
             "label": "画工名",
-            "value": "広重筆"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治４年７月(18710070550)"
+            "value": "天保１３年以前(18420550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "近江屋平八"
         },
         {
             "label": "判",
-            "value": "その他"
+            "value": "大判"
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -49,27 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "未七改"
+            "value": "極"
         },
         {
-            "label": "地名",
-            "value": "水口"
+            "label": "人名",
+            "value": "坂東三津五郎（不破伴左衛門）/沢村訥升（名古屋山三）/秀調"
         },
         {
             "label": "主題",
-            "value": "風景画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "木銭宿"
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "「二十二」とあり"
+            "value": "「買論の始り見よや稲妻のひたひへ出しかん癪の筋」(しう調)、「降る雨にけしきを深つむら乙鳥(つばめ)」(訥升)、秀朝は三津五郎の俳名"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1001/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "富山城雪解清水",
+    "label": "東京諸官省名所集（近衛兵営華族会館山下町博物館）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "富山城雪解清水"
+            "value": "東京諸官省名所集（近衛兵営華族会館山下町博物館）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(15)"
+            "value": "K915-108-22-(58)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "応需広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２３年２月１　日(18900020550)"
-        },
-        {
-            "label": "版元名",
-            "value": "石井六之助"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区馬喰町２丁目１１"
-        },
-        {
-            "label": "彫師",
-            "value": "ホリ銀"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -49,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +48,24 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "尾上菊五郎（羽柴久吉）/中村福助（早百合姫霊）/中村芝翫（建部兵庫守）/市川左団次（佐々成政）"
+            "label": "地名",
+            "value": "竹橋/永田町/山下町"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "軍事／建築／建物／建築／洋館／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／建物"
         },
         {
             "label": "その他固有件名",
-            "value": "富山城雪解清水"
+            "value": "馬車/人力車/近衛兵営/華族会館/博物館"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治23年3月2日より新富座にて「富山城雪解清水」"
+            "value": "兵営は明治7年4月竣工"
         }
     ],
     "sequences": [

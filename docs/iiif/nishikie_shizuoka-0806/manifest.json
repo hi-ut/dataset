@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0806/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（柳にこうもり）",
+    "label": "美盾八競高殿落雁",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（柳にこうもり）"
+            "value": "美盾八競高殿落雁"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１８）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(28)-1"
+            "value": "K915-108-18-(27)"
         },
         {
             "label": "画工名",
-            "value": "重宣筆"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
             "value": "天保１４〜弘化４年(18330550550)"
         },
         {
+            "label": "版元名",
+            "value": "遠州屋又兵衛"
+        },
+        {
             "label": "判",
-            "value": "その他"
+            "value": "大判"
         },
         {
             "label": "形態",
@@ -49,19 +53,19 @@
         },
         {
             "label": "検印",
-            "value": "福"
+            "value": "村"
+        },
+        {
+            "label": "人名",
+            "value": "御厩三郎時頼/大葦原四郎将平/武蔵五郎貞世/六郎将武"
         },
         {
             "label": "主題",
-            "value": "動植物画／動植物画(含花鳥）"
+            "value": "文芸／歴史画"
         },
         {
-            "label": "その他固有件名",
-            "value": "こうもり"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "小判絵"
+            "label": "細目",
+            "value": "風景画"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1177/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所六ヶ撰の内洲崎",
+    "label": "（芝翫の夜叉五郎と福助の早織之助）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所六ヶ撰の内洲崎"
+            "value": "（芝翫の夜叉五郎と福助の早織之助）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(32)"
+            "value": "K915-108-26-(30)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２３年７月(18900070550)"
+            "value": "明治２０年１月届(18870010550)"
         },
         {
             "label": "版元名",
-            "value": "佐々木豊吉"
+            "value": "三宅半四郎"
         },
         {
             "label": "版元住所",
-            "value": "京橋区尾張町２丁目１"
+            "value": "日本橋区大伝馬町２丁目１４"
         },
         {
             "label": "彫師",
-            "value": "彫銀"
+            "value": "彫弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,20 +60,24 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "洲崎"
-        },
-        {
             "label": "人名",
-            "value": "中村鶴次郎（弁天のお梅）"
+            "value": "中村芝翫（夜叉五郎）/岩井松之助（忘見）/中村福助（早織之助）/坂東家橘（切平）/尾上菊五郎（名古平）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎／風景画／名所図絵"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画／役者絵"
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "天狗杉/梅春侠客御所染"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治20年2月11日より千歳座にて「梅春侠客御所染」"
         }
     ],
     "sequences": [

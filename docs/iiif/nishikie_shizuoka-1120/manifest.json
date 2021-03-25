@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1120/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "当鏡芝居正本三保ノ谷四郎坂東彦三郎",
+    "label": "仮名手本忠臣蔵四段目",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "当鏡芝居正本三保ノ谷四郎坂東彦三郎"
+            "value": "仮名手本忠臣蔵四段目"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(49)"
+            "value": "K915-108-25-(09)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "国周画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治６年１０月(18730100550)"
+            "value": "文久３年１１月(18630110550)"
         },
         {
             "label": "版元名",
-            "value": "山村金三郎"
+            "value": "太田屋多吉"
         },
         {
             "label": "判",
@@ -41,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -53,11 +53,11 @@
         },
         {
             "label": "検印",
-            "value": "酉十"
+            "value": "亥十一改"
         },
         {
             "label": "人名",
-            "value": "坂東彦三郎（三保谷四郎）"
+            "value": "坂東彦三郎（大星由良之助）/河原崎権十郎（大星力弥）"
         },
         {
             "label": "主題",
@@ -66,6 +66,10 @@
         {
             "label": "細目",
             "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "仮名手本忠臣蔵"
         }
     ],
     "sequences": [

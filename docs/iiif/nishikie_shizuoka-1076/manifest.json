@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1076/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "寺子屋首実見之場",
+    "label": "東海道五十三次之内保土ヶ谷図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "寺子屋首実見之場"
+            "value": "東海道五十三次之内保土ヶ谷図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(05)"
+            "value": "K915-108-23-(46)"
         },
         {
             "label": "画工名",
-            "value": "応需豊原国周筆印"
+            "value": "応需国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年２月１５日(18960020150)"
-        },
-        {
-            "label": "版元名",
-            "value": "水野浅次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区蛎殻町３丁目８"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "中判"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -56,24 +48,16 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "尾上菊五郎（松王）/市川団十郎（源蔵）"
+            "label": "地名",
+            "value": "保土ヶ谷"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／道路／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "菅原伝授手習鑑"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治29年3月6日より明治座にて「菅原伝授手習鑑」"
+            "value": "美人画"
         }
     ],
     "sequences": [

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2331/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（清玄尼の田之助と松若丸の権十郎）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（清玄尼の田之助と松若丸の権十郎）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-46-(49)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳幾画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "文久３年２月(18630020550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋文助（金松堂）"
+        },
+        {
+            "label": "彫師",
+            "value": "上邑彫安"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ２枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "亥二改"
+        },
+        {
+            "label": "人名",
+            "value": "沢村田之助（清玄尼）/河原崎権十郎（吉田松若丸）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "源平盛桜柳営染"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "2枚続だが3枚か、文久3年3月4日より中村座にて「源平盛桜柳営染」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2331/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

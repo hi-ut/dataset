@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0864/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東海道五十三次大尾西京三条大はし",
+    "label": "今世婦七変人",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道五十三次大尾西京三条大はし"
+            "value": "今世婦七変人"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（２０）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,31 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(79)-2"
+            "value": "K915-108-20-(06)"
         },
         {
             "label": "画工名",
-            "value": "広重筆"
+            "value": "一勇斎国芳戯画印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治４年７月(18710070550)"
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "林屋庄五郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国広小路"
         },
         {
             "label": "判",
-            "value": "その他"
+            "value": "大判"
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -49,27 +57,19 @@
         },
         {
             "label": "検印",
-            "value": "未七改"
-        },
-        {
-            "label": "地名",
-            "value": "京都"
+            "value": "米良/村田"
         },
         {
             "label": "主題",
-            "value": "土木／橋梁／風景画"
-        },
-        {
-            "label": "細目",
-            "value": "風景画"
+            "value": "女性／悪女・悪妻・美人画／風刺画"
         },
         {
             "label": "その他固有件名",
-            "value": "三条大橋"
+            "value": "軍書/料理屋/剣術"
         },
         {
             "label": "その他書誌事項",
-            "value": "「五十六」とあり"
+            "value": "剣術ずきの後家、芝居嫌いな娘、釣好きの御屋敷、おどり好きの姑、料理屋の陰気女房、宗旨に凝る下女、軍書好きな娵"
         }
     ],
     "sequences": [

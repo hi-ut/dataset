@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1220/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま愛猫",
+    "label": "（西南戦争）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま愛猫"
+            "value": "（西南戦争）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(30)"
+            "value": "K915-108-27-(28)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年１２月(18960120550)"
+            "value": "明治１１年２月２６日届(18780020260)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
+            "value": "長谷川其吉"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区長谷川丁１９"
+            "value": "蛎殻町２丁目８"
+        },
+        {
+            "label": "彫師",
+            "value": "片田彫長"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -56,16 +60,24 @@
             "value": "なし"
         },
         {
+            "label": "人名",
+            "value": "市川団十郎（西条高盛）（西郷隆盛）/中村宗十郎（武上四郎）（池上四郎）/尾上菊五郎（蓑原国元）（篠原国幹）/市川左団次（岸野年明）（桐野利秋）/市川子団次（摂府辛助）（別府晋助）"
+        },
+        {
             "label": "主題",
-            "value": "女性／動植物画／家畜"
+            "value": "士族反乱／西南戦争／演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "猫"
+            "value": "新政厚徳/西南雲晴朝東風"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "定価6銭、明治11年3月21日より新富座にて「西南雲晴朝東風」"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1213/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつまきん魚",
+    "label": "（義経と直実）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつまきん魚"
+            "value": "（義経と直実）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(23)"
+            "value": "K915-108-27-(21)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年１０月(18960100550)"
+            "value": "慶応３年４月(18670040550)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区長谷川町１９"
-        },
-        {
-            "label": "彫師",
-            "value": "柘植刀"
+            "value": "万屋善太郎（万善）"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,23 +49,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "卯四改"
+        },
+        {
+            "label": "人名",
+            "value": "沢村訥升（源義経）/中村芝翫（熊谷直実）/大谷友右衛門（妻相模）"
         },
         {
             "label": "主題",
-            "value": "女性／動植物画／魚"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "金魚/金魚鉢"
+            "value": "天下茶屋/九字成帯錦新形/一の谷"
         },
         {
             "label": "その他書誌事項",
-            "value": "子供をあやしている図"
+            "value": "慶応3年4月19日より守田座にて「九字成帯錦新形」、天下茶屋に一の谷の世界"
         }
     ],
     "sequences": [

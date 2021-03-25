@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0906/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "悌源氏五十四帖四夕顔",
+    "label": "太鼓はし",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "悌源氏五十四帖四夕顔"
+            "value": "太鼓はし"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,11 +21,11 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(37)"
+            "value": "K915-108-21-(30)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞筆"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
@@ -48,20 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "立斎"
+            "label": "地名",
+            "value": "亀戸"
         },
         {
             "label": "主題",
-            "value": "歴史画／源氏絵"
+            "value": "土木／橋梁／建築／神社／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "源氏物語/月見/夕顔"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "夕顔の和歌あり"
+            "value": "藤棚/太鼓橋/亀戸天神"
         }
     ],
     "sequences": [

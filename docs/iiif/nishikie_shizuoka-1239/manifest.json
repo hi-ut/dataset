@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1239/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "雪月花山城伏見雪常磐御前乙若牛若今若",
+    "label": "西国紀聞出陣問答",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "雪月花山城伏見雪常磐御前乙若牛若今若"
+            "value": "西国紀聞出陣問答"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(49)"
+            "value": "K915-108-28-(07)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆：橋本直義"
+            "value": "応需豊原国周筆印（豊原国周）：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１７年８月２日届(18840080020)"
+            "value": "明治１０年届(18770550550)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎"
+            "value": "福田熊次郎板"
         },
         {
             "label": "版元住所",
-            "value": "日本橋通３丁目１３"
+            "value": "長谷川町２０"
         },
         {
             "label": "彫師",
-            "value": "宗岡刀"
+            "value": "彫工弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -60,24 +60,20 @@
             "value": "なし"
         },
         {
-            "label": "国名",
-            "value": "山城"
-        },
-        {
-            "label": "地名",
-            "value": "伏見"
-        },
-        {
             "label": "人名",
-            "value": "常磐御前/乙若/牛若/今若"
+            "value": "尾上菊五郎/市川団十郎/桐野利秋/戦々堂主人/西郷小平"
         },
         {
             "label": "主題",
-            "value": "歴史画"
+            "value": "士族反乱／西南戦争／演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "「三」とあり"
+            "value": "西郷小平(菊五郎)と桐野利秋(市川団十郎)の軍略問答あり"
         }
     ],
     "sequences": [

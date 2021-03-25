@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1098/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "梅幸百種之内局岩藤",
+    "label": "政党余聞書生之犯罪",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "梅幸百種之内局岩藤"
+            "value": "政党余聞書生之犯罪"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(27)"
+            "value": "K915-108-24-(17)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "応需香朝楼筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２６年(18930550550)"
+            "value": "明治２５年１２月(18920120550)"
         },
         {
             "label": "版元名",
@@ -37,11 +37,11 @@
         },
         {
             "label": "版元住所",
-            "value": "東京日本橋区長谷川町１９"
+            "value": "日本橋区長谷川町１９"
         },
         {
             "label": "彫師",
-            "value": "二世渡辺彫栄"
+            "value": "渡辺彫栄"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -61,19 +61,23 @@
         },
         {
             "label": "人名",
-            "value": "岩藤/尾上梅幸"
+            "value": "矢野勘次郎（矢尾佩二）/谷口喜作（自田由之助）/寺島倉次郎（銀田倉三）/小織桂一郎（西田巷一）/木村周平（女房お君）/福井茂兵衛（駒沢剛一）/静間小二郎（千田桂一）/川上音二郎（工藤猛夫）"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "自由民権運動／演劇"
         },
         {
             "label": "細目",
             "value": "役者絵"
         },
         {
+            "label": "その他固有件名",
+            "value": "壮士芝居"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "「六」とあり"
+            "value": "明治25年11月22日より鳥越座にて「書生の犯罪」"
         }
     ],
     "sequences": [

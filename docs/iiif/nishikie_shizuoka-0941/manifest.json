@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0941/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "上野大合戦中堂之場",
+    "label": "東都三十六景深川八まん",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "上野大合戦中堂之場"
+            "value": "東都三十六景深川八まん"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(21)"
+            "value": "K915-108-22-(02)"
         },
         {
             "label": "画工名",
-            "value": "応需香朝楼筆印"
+            "value": "広重画（二代目広重）"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２２年５月(18890050550)"
+            "value": "文久２年(18620550550)"
         },
         {
             "label": "版元名",
-            "value": "林吉蔵"
-        },
-        {
-            "label": "版元住所",
-            "value": "京橋区南伝馬丁２丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "ホリ銀"
+            "value": "相模屋藤吉"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -61,27 +53,19 @@
         },
         {
             "label": "地名",
-            "value": "上野"
-        },
-        {
-            "label": "人名",
-            "value": "尾上菊五郎（篠原国幹）/中村芝翫（榊原謙吉）/市川左伊次（生田義晴）/市川左団次（酒井宰輔）"
+            "value": "深川"
         },
         {
             "label": "主題",
-            "value": "戊辰戦争／演劇／歌舞伎"
+            "value": "建築／神社／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "彰義隊/上野戦争/皐月晴上野の朝風"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治23年5月23日より新富座にて「皐月晴上野の朝風」"
+            "value": "深川八幡"
         }
     ],
     "sequences": [

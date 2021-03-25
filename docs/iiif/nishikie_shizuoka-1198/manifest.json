@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1198/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "隅田堤の雪景",
+    "label": "（川中島東都錦絵）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "隅田堤の雪景"
+            "value": "（川中島東都錦絵）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(08)"
+            "value": "K915-108-27-(06)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２１〜２６年(18930550550)"
+            "value": "明治９年４月届(18760040550)"
         },
         {
             "label": "版元名",
-            "value": "武川"
+            "value": "武川清吉板"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区本銀丁２丁目１２"
+            "value": "須田町４"
+        },
+        {
+            "label": "彫師",
+            "value": "彫銀"
         },
         {
             "label": "判",
@@ -56,20 +60,28 @@
             "value": "なし"
         },
         {
+            "label": "地名",
+            "value": "川中島"
+        },
+        {
+            "label": "人名",
+            "value": "市川左団次（鬼児島弥太郎）/坂東彦三郎（上杉謙信）/中村芝翫（和田寿兵衛）"
+        },
+        {
             "label": "主題",
-            "value": "女性／船舶／娯楽／娯楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画／美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "雪見/隅田川/屋形船"
+            "value": "川中島東都錦絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "年月日記入なし"
+            "value": "明治9年3月25日より新富座にて「川中島東都錦絵」"
         }
     ],
     "sequences": [

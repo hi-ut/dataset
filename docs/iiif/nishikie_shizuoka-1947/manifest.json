@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1947/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "見立通俗三国志",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "見立通俗三国志"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-41-(24)"
+        },
+        {
+            "label": "画工名",
+            "value": "一曜斎国輝筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２年４月(18690040550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大黒屋平吉（大平板）"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "巳四改"
+        },
+        {
+            "label": "人名",
+            "value": "綾瀬川山左衛門（関羽）/境川浪右衛門（玄徳）/雷電震右衛門（張飛）"
+        },
+        {
+            "label": "主題",
+            "value": "スポーツ／相撲"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "三国志"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1947/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

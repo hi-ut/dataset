@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1455/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "見立吉例黄金の堀端",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "見立吉例黄金の堀端"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３２）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-32-(04)"
+        },
+        {
+            "label": "画工名",
+            "value": "周延筆：橋本直義"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１１年１月１７日届(18780010170)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本利兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "上野元黒門丁１２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "中村宗十郎（松井辰三）/市川左団次（竹村清一朗）/市川団十郎（稲蔵右太之進）/中村芝翫（鶴山清野）/尾上菊五郎（梅日太市）/沢村訥升（亀沢吉次郎）/岩倉具視"
+        },
+        {
+            "label": "主題",
+            "value": "征韓論と日朝関係／征韓論／演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "喰違坂事件"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1455/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

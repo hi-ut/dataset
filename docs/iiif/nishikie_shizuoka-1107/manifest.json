@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1107/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "鮫ざや四郎三河原崎権十郎",
+    "label": "有難惠景清",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "鮫ざや四郎三河原崎権十郎"
+            "value": "有難惠景清"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２４）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(36)"
+            "value": "K915-108-24-(26)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "応需香朝楼画印"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年４月(18650040550)"
+            "value": "明治２４年(18910550550)"
         },
         {
             "label": "版元名",
-            "value": "井筒屋"
+            "value": "横山良八"
         },
         {
-            "label": "彫師",
-            "value": "彫栄"
+            "label": "版元住所",
+            "value": "下谷区数寄屋町１２"
         },
         {
             "label": "判",
@@ -45,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,15 +53,11 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "丑四改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "河原崎権十郎（鮫鞘の四郎三）"
+            "value": "坂東しう調（阿古屋）/市川団十郎（景清）/市川女寅（人丸）/市川新蔵（三保谷四郎）/市川権十郎（重忠）"
         },
         {
             "label": "主題",
@@ -72,8 +68,12 @@
             "value": "役者絵"
         },
         {
+            "label": "その他固有件名",
+            "value": "出世景清"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "「四」、慶応元年4月15日より中村座上演の「義高嶋手摂網手」にかかるものか？ここでは小猿七之助を権十郎が演じている"
+            "value": "明治24年3月14日より歌舞伎座にて「出世景清」"
         }
     ],
     "sequences": [

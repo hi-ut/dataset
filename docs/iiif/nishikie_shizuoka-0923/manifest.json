@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0923/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "相馬平氏二代譚",
+    "label": "俳諧日本名所すこ六",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "相馬平氏二代譚"
+            "value": "俳諧日本名所すこ六"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(03)"
+            "value": "K915-108-21-(47)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼筆"
+            "value": "一立斎広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２３年３月(18900030550)"
-        },
-        {
-            "label": "版元名",
-            "value": "石井六之助"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区馬喰町２丁目１１"
-        },
-        {
-            "label": "彫師",
-            "value": "ホリ銀"
+            "value": "不明(00000000000)"
         },
         {
             "label": "判",
@@ -49,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,20 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "平将門/岩井松之助（瀧夜叉姫）/市川団十郎（将軍太郎良門）/坂東家橘（渡辺綱）/市川新蔵（満仲三男美女丸）"
-        },
-        {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "和歌・狂歌／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "双六"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "双六"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治23年3月25日より歌舞伎座にて「相馬平氏二代譚」"
+            "value": "狂坡子鳥吟選、筑紫一社校合、京都加茂川をふり出しに、諸国をめぐって隅田川に上り"
         }
     ],
     "sequences": [

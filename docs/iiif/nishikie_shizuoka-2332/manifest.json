@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2332/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（声色団子の芝翫と田之助）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（声色団子の芝翫と田之助）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-46-(50)"
+        },
+        {
+            "label": "画工名",
+            "value": "芳幾画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "慶応２年３月(18660030550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山本久兵衛"
+        },
+        {
+            "label": "彫師",
+            "value": "彫長"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "寅三改"
+        },
+        {
+            "label": "人名",
+            "value": "沢村田之助（女房おたの）/中村芝翫（声色団子福松）/市川八百蔵（奴花平）/松本錦升（奴島羽平）/中村仲蔵（猿廻しつも平）"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "声色団子"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応2年3月23日より中村座にて「声色団子」"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2332/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

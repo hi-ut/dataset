@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1200/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま美人東台のさくら",
+    "label": "（太閤記十段目）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま美人東台のさくら"
+            "value": "（太閤記十段目）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(10)"
+            "value": "K915-108-27-(08)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "豊原国周筆：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治36年4月15日(19030040150)"
+            "value": "明治１６年９月届(18830090550)"
         },
         {
             "label": "版元名",
-            "value": "並川善六（伏見屋）"
+            "value": "秋山武右衛門"
         },
         {
             "label": "版元住所",
-            "value": "東京市下谷区元黒門町６"
+            "value": "室町３丁目９"
+        },
+        {
+            "label": "彫師",
+            "value": "宗岡"
         },
         {
             "label": "判",
@@ -56,20 +60,24 @@
             "value": "なし"
         },
         {
-            "label": "地名",
-            "value": "上野"
+            "label": "人名",
+            "value": "市川団十郎（妻みさほ）/助高屋高助（重次郎光義）/岩井松之助（初菊）/中村芝翫（武智光秀）"
         },
         {
             "label": "主題",
-            "value": "女性／建築／寺院／娯楽／娯楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "風景画／美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "花見"
+            "value": "太功記"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治16年9月16日より市村座にて「太功記十段目」"
         }
     ],
     "sequences": [

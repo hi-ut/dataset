@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1066/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "なそ合三十六句（鏡山）",
+    "label": "紫しきぶげんじかるた四十六椎がもと",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "なそ合三十六句（鏡山）"
+            "value": "紫しきぶげんじかるた四十六椎がもと"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(35)"
+            "value": "K915-108-23-(36)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "梅蝶楼国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年１月(18670010550)"
+            "value": "安政４年１１月(18570110550)"
         },
         {
             "label": "版元名",
-            "value": "具足屋"
-        },
-        {
-            "label": "版元住所",
-            "value": "人形町"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工多七"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -61,27 +53,19 @@
         },
         {
             "label": "検印",
-            "value": "卯正改"
+            "value": "改/巳十一"
         },
         {
             "label": "人名",
-            "value": "岩藤/尾上/立斎/仙友/鹿泉"
+            "value": "紫式部"
         },
         {
             "label": "主題",
-            "value": "講談／落語・一口噺／演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "歴史画／源氏絵"
         },
         {
             "label": "その他固有件名",
-            "value": "鏡山/謎々/契情曽我廓亀鑑/天王祭"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「尾上とかけて両国一の見世物ととく、こころは象利をもつてうたれたか」(長谷川丁猿)、「岩藤とかけて印板屋の女房の働きととく、こころは内方もにくてに見へ」(大門通仙友)、「お初とかけて天王祭のまね事ととく、こころは四神獅子で気をもんだ」(泉丁鹿泉)、この錦絵は慶"
+            "value": "手燭/源氏物語/椎本"
         }
     ],
     "sequences": [

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1500/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "新皇居御祝宴之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "新皇居御祝宴之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（３３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-33-(19)"
+        },
+        {
+            "label": "画工名",
+            "value": "楊洲周延筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２１年１０月(18880100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "横山良八"
+        },
+        {
+            "label": "版元住所",
+            "value": "下谷区数寄屋町１２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工円活"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "明治天皇/昭憲皇后"
+        },
+        {
+            "label": "主題",
+            "value": "皇室／天皇／皇室／皇后（含女官）／建築／宮城"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "洋装/宮城"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治21年12月18日新造の皇居を宮城と称す、明治22年1月11日赤坂仮皇居より宮城に還幸啓"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1500/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

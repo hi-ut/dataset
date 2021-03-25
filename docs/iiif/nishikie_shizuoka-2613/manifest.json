@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2613/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "給金附見立太功記",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "給金附見立太功記"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-51-(11)"
+        },
+        {
+            "label": "画工名",
+            "value": "守川周重筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２２年１２月(18890120550)"
+        },
+        {
+            "label": "版元名",
+            "value": "石井六之助"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区馬喰町２丁目１１"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工銀次郎"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "沢村田之助/中村芝翫/市川九蔵/尾上菊五郎/市川団十郎/市川左団次/尾上松助/坂東家橘/市川権十郎/高砂屋福助/中村寿三郎/沢村孫平/岩井松之助/中村時蔵/片岡我童/中村福助"
+        },
+        {
+            "label": "主題",
+            "value": "演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "市川団十郎が3000円、中村芝翫と尾上菊五郎が1500円、市川九蔵が1400円となっている"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2613/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

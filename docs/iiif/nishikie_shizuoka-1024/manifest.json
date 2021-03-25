@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1024/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "三芝居花の姿見五娘形坂東三津五郎立役市村家橘",
+    "label": "東海道五十三次大津名物源五郎鮒",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "三芝居花の姿見五娘形坂東三津五郎立役市村家橘"
+            "value": "東海道五十三次大津名物源五郎鮒"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,35 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(38)"
+            "value": "K915-108-22-(79)-1"
         },
         {
             "label": "画工名",
-            "value": "国周筆"
+            "value": "広重筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治元年３月(18680030550)"
-        },
-        {
-            "label": "版元名",
-            "value": "増田屋"
-        },
-        {
-            "label": "版元住所",
-            "value": "ナ"
-        },
-        {
-            "label": "彫師",
-            "value": "彫萩政"
+            "value": "明治４年７月(18710070550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -61,19 +49,27 @@
         },
         {
             "label": "検印",
-            "value": "辰三改"
+            "value": "未七改"
         },
         {
-            "label": "人名",
-            "value": "坂東三津五郎（お若）/市村家橘（伊之助）"
+            "label": "地名",
+            "value": "大津"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "人力車/源五郎鮒"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「五十五」とあり"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0950/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "洛中構外戦争之場",
+    "label": "北海道新道切開",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "洛中構外戦争之場"
+            "value": "北海道新道切開"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(30)"
+            "value": "K915-108-22-(11)"
         },
         {
             "label": "画工名",
-            "value": "応需香朝楼筆"
+            "value": "立斎広重筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２４年(18910550550)"
+            "value": "明治４年２月(18710020550)"
         },
         {
             "label": "版元名",
-            "value": "沢久治郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋亀井町２５"
+            "value": "甘泉堂版（和泉屋市兵衛）"
         },
         {
             "label": "判",
@@ -45,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +49,35 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "未二改"
+        },
+        {
+            "label": "地名",
+            "value": "北海道"
         },
         {
             "label": "人名",
-            "value": "尾上菊五郎（加倉小五郎）/市川米蔵（真木信濃）/市川左伊次（桜木東馬）/市川左団次（木嶋亦兵衛）/桂小五郎/真木和泉/来島又兵衛"
+            "value": "北海道人"
         },
         {
             "label": "主題",
-            "value": "尊皇攘夷／演劇／歌舞伎"
+            "value": "明治新政／文明開化／仏教／土木／道路"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "禁門の変"
+            "value": "東本願寺/アイヌ人"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治24年5月5日より新富座上演の「御所模様萩葵葉」の一場面か"
+            "value": "詞書あり"
         }
     ],
     "sequences": [

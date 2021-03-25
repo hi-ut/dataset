@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0845/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京名所図会筋違万代橋",
+    "label": "（金峰山にて義経主従別に臨で静御前名残を惜む図）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京名所図会筋違万代橋"
+            "value": "（金峰山にて義経主従別に臨で静御前名残を惜む図）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２２）"
+            "value": "上村翁旧蔵浮世絵集（１９）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-22-(63)"
+            "value": "K915-108-19-(10)"
         },
         {
             "label": "画工名",
-            "value": "広重画"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治７年３月(18740030550)"
-        },
-        {
-            "label": "版元名",
-            "value": "伊勢屋喜三郎（いせき）"
+            "value": "天保１４〜弘化４年(18330550550)"
         },
         {
             "label": "判",
@@ -41,7 +37,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -53,23 +49,23 @@
         },
         {
             "label": "検印",
-            "value": "戌三"
+            "value": "米良"
         },
         {
             "label": "地名",
-            "value": "筋違門"
+            "value": "金峰山"
+        },
+        {
+            "label": "人名",
+            "value": "静御前/武蔵坊弁慶/九郎判官源義経"
         },
         {
             "label": "主題",
-            "value": "土木／橋梁／風景画／名所図絵"
+            "value": "文芸／歴史画"
         },
         {
             "label": "細目",
-            "value": "風景画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "万代橋"
+            "value": "肖像画"
         }
     ],
     "sequences": [

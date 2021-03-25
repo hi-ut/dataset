@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0945/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "助高屋小伝次",
+    "label": "江戸名所道戯尽三浅草反甫の奇怪",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "助高屋小伝次"
+            "value": "江戸名所道戯尽三浅草反甫の奇怪"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(25)"
+            "value": "K915-108-22-(06)"
         },
         {
             "label": "画工名",
-            "value": "梅堂豊斎筆印"
+            "value": "広景画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３２年９月１日(18990090010)"
+            "value": "安政６年１月(18590010550)"
         },
         {
             "label": "版元名",
-            "value": "井上吉次郎"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区本町２丁目１０"
+            "value": "辻岡屋"
         },
         {
             "label": "判",
@@ -53,23 +49,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "助高屋小伝次"
+            "label": "検印",
+            "value": "未正改"
+        },
+        {
+            "label": "地名",
+            "value": "浅草"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "怪異／戯び／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "死絵"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「助高屋小伝次、享年十六年八ヶ月、当八月二十五日病重リテ死ス、法名高照院伝誉政明居士、菩提所本所千歳町西光寺」とあり"
+            "value": "風景画"
         }
     ],
     "sequences": [

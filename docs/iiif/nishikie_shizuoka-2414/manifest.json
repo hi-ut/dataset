@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2414/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（糠袋戯画）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（糠袋戯画）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４７）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-47-(62)-2"
+        },
+        {
+            "label": "画工名",
+            "value": "芳員画"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "不明(00000000000)"
+        },
+        {
+            "label": "判",
+            "value": "その他"
+        },
+        {
+            "label": "形態",
+            "value": "横絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "主題",
+            "value": "女性／家事・生活／戯び"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "行水/糠袋"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "「遣ひはたして身をすてるぬかぶくろ」の川柳あり、(50)-1と(62)-2は同一図"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2414/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

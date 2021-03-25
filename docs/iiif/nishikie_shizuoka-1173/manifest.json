@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1173/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京三十六会席植木たなその",
+    "label": "（曽我十郎と御所の五郎丸）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京三十六会席植木たなその"
+            "value": "（曽我十郎と御所の五郎丸）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(28)"
+            "value": "K915-108-26-(26)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治３年１１月(18700110550)"
+            "value": "明治２２年２月１０日(18890020100)"
         },
         {
             "label": "版元名",
-            "value": "万屋"
+            "value": "浅野金之助"
         },
         {
             "label": "版元住所",
-            "value": "日本橋通一丁目"
+            "value": "浅草山宿町４２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工円活/彫篤"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -53,27 +57,23 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "午十一改"
-        },
-        {
-            "label": "地名",
-            "value": "植木店"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "その"
+            "value": "市川左団次（御所五郎丸）/尾上菊五郎（曽我十郎）/乙田/野坡"
         },
         {
             "label": "主題",
-            "value": "商業／商店"
+            "value": "憲法発布／大日本帝国憲法発布／演劇／歌舞伎"
         },
         {
-            "label": "その他固有件名",
-            "value": "錦語楼/席料理/凧"
+            "label": "細目",
+            "value": "役者絵"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "明治22年2月11日より3日間新富座にて祝意をかねて演芸会を開催、これと関連あるか"
         }
     ],
     "sequences": [

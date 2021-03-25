@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1165/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "当世美人揃宝槌ろうまゆすみ",
+    "label": "（彦三郎の羽柴秀吉と訥升の清元秀吉）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "当世美人揃宝槌ろうまゆすみ"
+            "value": "（彦三郎の羽柴秀吉と訥升の清元秀吉）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(20)"
+            "value": "K915-108-26-(18)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１月(18650010550)"
+            "value": "明治９年９月２０日届(18760090200)"
         },
         {
             "label": "版元名",
-            "value": "平野屋"
+            "value": "植木林之助板"
         },
         {
             "label": "版元住所",
-            "value": "万丁"
+            "value": "堀江町２丁目２"
         },
         {
             "label": "彫師",
-            "value": "彫太田多七"
+            "value": "渡辺彫弥太"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,31 +57,27 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "丑正改"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "黛"
+            "value": "市川幸作（三坊子丸）/坂東彦三郎（羽柴秀吉）/市川団十郎（柴田勝家）/市川左団次（清元延勝）/沢村訥升（清元秀吉）"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "宝槌楼"
+            "value": "音響千成瓢/出世娘瓢簪"
         },
         {
             "label": "その他書誌事項",
-            "value": "「三」とあり"
+            "value": "定価6銭、明治9年9月15日より新富座にて「音響千成瓢」、2番目「出世娘瓢簪」"
         }
     ],
     "sequences": [

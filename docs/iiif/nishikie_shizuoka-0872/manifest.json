@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0872/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（山三伴作切合の場）",
+    "label": "（自来也実は鬼神お松）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（山三伴作切合の場）"
+            "value": "（自来也実は鬼神お松）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２０）"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(03)"
+            "value": "K915-108-20-(14)"
         },
         {
             "label": "画工名",
-            "value": "国貞画印"
+            "value": "一勇斎国芳画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年１月(18650010550)"
+            "value": "嘉永４年９月(18510090550)"
         },
         {
             "label": "版元名",
-            "value": "蔦屋吉蔵"
+            "value": "伊勢屋忠介"
         },
         {
             "label": "判",
@@ -53,11 +53,11 @@
         },
         {
             "label": "検印",
-            "value": "丑正改"
+            "value": "村田/衣笠"
         },
         {
             "label": "人名",
-            "value": "沢村訥升（名古屋山三）/市村家橘（不破伴作）/坂東三津五郎（腰元岩橋）"
+            "value": "団十郎（夏目四郎三郎）/しうか（自来也実は鬼神お松）/奴磯平"
         },
         {
             "label": "主題",
@@ -69,11 +69,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "名古屋山三/鶴千歳曽我門松"
+            "value": "新板越白浪"
         },
         {
             "label": "その他書誌事項",
-            "value": "慶応元年1月29日より市村座にて「鶴千歳曽我門松」"
+            "value": "「シタ売」とあり、嘉永4年9月7日より市村座にて「新板越白浪」"
         }
     ],
     "sequences": [

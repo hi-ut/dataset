@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0883/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "げんじ今様絵巻若紫",
+    "label": "富士三十六景武蔵多摩川",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "げんじ今様絵巻若紫"
+            "value": "富士三十六景武蔵多摩川"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(14)"
+            "value": "K915-108-21-(07)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "安政５年１１月(18580110550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
@@ -53,15 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "午十一"
+            "value": "午四"
+        },
+        {
+            "label": "国名",
+            "value": "武蔵"
+        },
+        {
+            "label": "地名",
+            "value": "多摩川"
         },
         {
             "label": "主題",
-            "value": "娯楽／娯楽／歴史画／源氏絵"
+            "value": "風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "火鉢/源氏物語/若紫"
+            "value": "富士山"
         }
     ],
     "sequences": [

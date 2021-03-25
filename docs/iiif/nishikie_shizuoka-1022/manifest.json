@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1022/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優落語當りくらべ",
+    "label": "東海道五十三次土山朝霧図",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優落語當りくらべ"
+            "value": "東海道五十三次土山朝霧図"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(36)"
+            "value": "K915-108-22-(78)-1"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "広重筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治６年(18730550550)"
-        },
-        {
-            "label": "版元名",
-            "value": "具足屋"
-        },
-        {
-            "label": "版元住所",
-            "value": "人形町"
-        },
-        {
-            "label": "彫師",
-            "value": "渡辺彫栄"
+            "value": "（明治４年）(18710550550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
@@ -60,20 +48,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "市川左団次（丸橋忠弥）/中村荒次郎（捕手叶平）/沢村田之助（お竹）/笑亭芝楽"
+            "label": "地名",
+            "value": "土山"
         },
         {
             "label": "主題",
-            "value": "講談／落語・一口噺／演劇／歌舞伎"
+            "value": "風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
-            "label": "その他固有件名",
-            "value": "落語/お竹ころし"
+            "label": "その他書誌事項",
+            "value": "「二十一」とあり"
         }
     ],
     "sequences": [

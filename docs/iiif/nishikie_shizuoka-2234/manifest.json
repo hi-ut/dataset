@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2234/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "教導立志基（片桐且元大阪城を去るを木村重成とどめるの図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "教導立志基（片桐且元大阪城を去るを木村重成とどめるの図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-45-(33)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需年方印（年方）"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２１年１０月(18880100550)"
+        },
+        {
+            "label": "版元名",
+            "value": "松木平吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国吉川町２"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "片桐且元/木村重成/幸脩"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "シリーズ番号36、且元が重成に九度山の真田幸村をよべと秘策を授けた云々、詞書、幸脩述"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2234/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

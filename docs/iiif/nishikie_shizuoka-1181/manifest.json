@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1181/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "東京開化名勝ノ内金龍山",
+    "label": "俳優落語當りくらべ",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "東京開化名勝ノ内金龍山"
+            "value": "俳優落語當りくらべ"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(36)"
+            "value": "K915-108-26-(34)"
         },
         {
             "label": "画工名",
-            "value": "惺々暁斎/豊原国周筆印"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治８年９月(18750090550)"
+            "value": "明治６年(18730550550)"
         },
         {
             "label": "版元名",
-            "value": "沢村板"
+            "value": "具足屋"
+        },
+        {
+            "label": "版元住所",
+            "value": "人形町"
         },
         {
             "label": "彫師",
-            "value": "彫銀"
+            "value": "渡辺彫栄"
         },
         {
             "label": "判",
@@ -57,23 +61,27 @@
         },
         {
             "label": "検印",
-            "value": "亥九"
+            "value": "酉/その次よめず"
         },
         {
             "label": "人名",
-            "value": "尾上栄五郎（天人）"
+            "value": "土橋亭龍馬/中村宗十郎（喜三太）/河原崎三升（鬼市）/坂東家橘（虎蔵）/尾上菊五郎（綱打七五郎）"
         },
         {
             "label": "主題",
-            "value": "文明開化／建築／寺院／風刺画"
+            "value": "講談／落語・一口噺／演劇／歌舞伎"
+        },
+        {
+            "label": "細目",
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "浅草寺/金龍山/鵺"
+            "value": "落語"
         },
         {
             "label": "その他書誌事項",
-            "value": "上段(天女図)が国周、下段(洋装男子に鵺放逐さるるの図)が暁斎"
+            "value": "中村宗十郎は明治6年9月東上、明治8年帰阪"
         }
     ],
     "sequences": [

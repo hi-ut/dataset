@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1172/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "新吉原大文字楼繁栄図",
+    "label": "見立三国若手揃",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "新吉原大文字楼繁栄図"
+            "value": "見立三国若手揃"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(27)"
+            "value": "K915-108-26-(25)"
         },
         {
             "label": "画工名",
-            "value": "国周筆印"
+            "value": "豊原国周筆印：荒川八十八"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２年１２月(18690120550)"
+            "value": "明治９年？(18760550552)"
+        },
+        {
+            "label": "版元名",
+            "value": "堤吉兵衛板"
+        },
+        {
+            "label": "版元住所",
+            "value": "米沢町１丁目７"
+        },
+        {
+            "label": "彫師",
+            "value": "彫巳の"
         },
         {
             "label": "判",
@@ -45,31 +57,19 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "巳十二改"
-        },
-        {
-            "label": "地名",
-            "value": "新吉原"
+            "value": "なし"
         },
         {
             "label": "人名",
-            "value": "雛鶴/松嶋/梅/葛木/花町/かねじ/大和/文之助/政浪/美佐尾/菊之助/其浦/桜木/てつ/若緑"
+            "value": "沢村訥升（九尾の紀之）/尾上菊五郎（蛇の目の菊）/市川左団次（九紋龍の米）"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "大文字楼"
+            "value": "役者絵"
         }
     ],
     "sequences": [

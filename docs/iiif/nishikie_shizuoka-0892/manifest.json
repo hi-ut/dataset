@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0892/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優蒔絵盃坂東亀蔵",
+    "label": "富士三十六景雑司かや不二見茶や",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優蒔絵盃坂東亀蔵"
+            "value": "富士三十六景雑司かや不二見茶や"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(23)"
+            "value": "K915-108-21-(16)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞画印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年１０月(18630100550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
@@ -53,19 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "亥十改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "坂東亀蔵（いがみの権太）"
+            "label": "地名",
+            "value": "雑司谷"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "富士山/茶屋"
         }
     ],
     "sequences": [

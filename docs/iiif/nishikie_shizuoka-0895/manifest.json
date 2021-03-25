@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0895/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "青柳楼梅吉",
+    "label": "富士三十六景武蔵越かや在",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "青柳楼梅吉"
+            "value": "富士三十六景武蔵越かや在"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(26)"
+            "value": "K915-108-21-(19)"
         },
         {
             "label": "画工名",
-            "value": "香蝶楼国貞筆印/国政筆"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応３年４月(18670040550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "遠州屋彦兵衛"
-        },
-        {
-            "label": "彫師",
-            "value": "片田彫長"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -57,27 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "卯四改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "梅吉/国政"
+            "label": "国名",
+            "value": "武蔵"
+        },
+        {
+            "label": "地名",
+            "value": "越谷"
         },
         {
             "label": "主題",
-            "value": "娯楽／娼・妓(含売春）"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "青柳楼"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "「たうせいこのみすかたのあつらへ」とあり、背景は国政画"
+            "value": "富士山"
         }
     ],
     "sequences": [

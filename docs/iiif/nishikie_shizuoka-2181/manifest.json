@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2181/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "当世装五彩色紋",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当世装五彩色紋"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(20)"
+        },
+        {
+            "label": "画工名",
+            "value": "梅堂国政筆印：画工竹内栄久"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１２年６月届(18790060550)"
+        },
+        {
+            "label": "版元名",
+            "value": "大倉孫兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "日本橋区通１丁目１９"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "高橋お伝/原田お絹/青樹おたつ/鳥追お松/塩田おれん"
+        },
+        {
+            "label": "主題",
+            "value": "女性／悪女・悪妻・美人画"
+        },
+        {
+            "label": "細目",
+            "value": "美人画"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2181/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1927/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "伝聞民之喜",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "伝聞民之喜"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４１）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-41-(04)"
+        },
+        {
+            "label": "画工名",
+            "value": "応需国明印：蜂須賀国明"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１０年４月２３日届(18770040230)"
+        },
+        {
+            "label": "版元名",
+            "value": "松木平吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "両国吉川町２"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工銀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "昭憲皇后"
+        },
+        {
+            "label": "主題",
+            "value": "士族反乱／西南戦争／皇室／皇后（含女官）／医療・衛生／赤十字"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "生花/皇后"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "西南戦争に皇室の医療品慰問品作成の図、鹿児島士族不平を起し朝意に背、其昔加藤清正の遺言を聞知らて、熊本の要所を頼みす、官軍と抗戦数日に至り、官兵も傷者不少依之各所に病院を設置し、医員数十名看病卒数百人にして厚く治療を施さるること譬にものなし、爰に掛巻も賢"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1927/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

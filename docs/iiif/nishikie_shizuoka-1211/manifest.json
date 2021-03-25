@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1211/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "あつま花見",
+    "label": "（狐忠信）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "あつま花見"
+            "value": "（狐忠信）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２７）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(21)"
+            "value": "K915-108-27-(19)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延印"
+            "value": "国貞筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年１１月(18960110550)"
+            "value": "慶応３年７月(18670070550)"
         },
         {
             "label": "版元名",
-            "value": "福田初次郎"
+            "value": "相模屋藤吉"
         },
         {
             "label": "版元住所",
-            "value": "日本橋区長谷川丁１９"
+            "value": "下谷"
+        },
+        {
+            "label": "彫師",
+            "value": "彫須川銀"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -53,19 +57,31 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "卯七改"
+        },
+        {
+            "label": "人名",
+            "value": "中村芝翫（狐忠信）/沢村訥升（源義経）/岩井紫若（静御前）"
         },
         {
             "label": "主題",
-            "value": "女性／娯楽／娯楽"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "美人画"
+            "value": "役者絵"
         },
         {
             "label": "その他固有件名",
-            "value": "花見"
+            "value": "千本桜/一守九字成大漁"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "慶応3年7月13日より守田座にて「一守九字成大漁」、3枚続きの内、左側の1枚なし"
         }
     ],
     "sequences": [

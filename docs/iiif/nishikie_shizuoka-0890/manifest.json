@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0890/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "俳優まき絵の杯市村羽左衛門",
+    "label": "富士三十六景東都目黒夕日景",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "俳優まき絵の杯市村羽左衛門"
+            "value": "富士三十六景東都目黒夕日景"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +21,15 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(21)"
+            "value": "K915-108-21-(14)"
         },
         {
             "label": "画工名",
-            "value": "梅蝶楼国貞筆"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年６月(18630060550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
@@ -53,19 +53,23 @@
         },
         {
             "label": "検印",
-            "value": "亥六改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "市村羽左衛門（天笠徳兵衛）"
+            "label": "地名",
+            "value": "目黒"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "富士山"
         }
     ],
     "sequences": [

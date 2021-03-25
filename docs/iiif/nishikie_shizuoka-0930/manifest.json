@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0930/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "歌舞伎座新狂言明烏春淡雪",
+    "label": "中村芝翫坂東三津五郎",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "歌舞伎座新狂言明烏春淡雪"
+            "value": "中村芝翫坂東三津五郎"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２４）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-24-(10)"
+            "value": "K915-108-21-(54)"
         },
         {
             "label": "画工名",
-            "value": "香朝楼筆"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２７年１月(18940010550)"
+            "value": "天保１３年以前(18420550550)"
         },
         {
             "label": "版元名",
-            "value": "堤吉兵衛"
-        },
-        {
-            "label": "版元住所",
-            "value": "日本橋区吉川町５"
-        },
-        {
-            "label": "彫師",
-            "value": "荒木刀"
+            "value": "山口屋藤兵衛"
         },
         {
             "label": "判",
@@ -49,7 +41,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,11 +49,15 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "極"
         },
         {
             "label": "人名",
-            "value": "片岡市蔵（山名屋四郎兵衛）/尾上菊五郎（やりておかや）/中村福助（遊女浦里）/中村福六（禿ゆかり）/尾上丑之助（禿みどり）/尾上菊五郎（春日屋時次郎）"
+            "value": "坂東三津五郎/中村芝翫"
         },
         {
             "label": "主題",
@@ -70,14 +66,6 @@
         {
             "label": "細目",
             "value": "役者絵"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "明烏"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治27年1月12日より歌舞伎座にて「明烏春泡雪」"
         }
     ],
     "sequences": [

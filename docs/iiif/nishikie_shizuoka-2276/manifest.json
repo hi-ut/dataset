@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2276/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "栗津原大合戦図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "栗津原大合戦図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４５）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-45-(65)"
+        },
+        {
+            "label": "画工名",
+            "value": "一隣斎芳廉画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "弘化４〜嘉永５年(18520550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "森屋治兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町二丁目"
+        },
+        {
+            "label": "彫師",
+            "value": "彫工瀧治郎刀"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "福/村松"
+        },
+        {
+            "label": "地名",
+            "value": "栗津原"
+        },
+        {
+            "label": "人名",
+            "value": "巴御前/武蔵坊弁慶/根ノ井大弥太時広/今井ノ四郎"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "芳兼と同一人物か"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2276/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

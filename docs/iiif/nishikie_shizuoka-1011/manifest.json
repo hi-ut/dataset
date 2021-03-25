@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1011/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "見立三国若手揃",
+    "label": "東京開化三十六景（九だん燈台と目鏡橋）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "見立三国若手揃"
+            "value": "東京開化三十六景（九だん燈台と目鏡橋）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(25)"
+            "value": "K915-108-22-(68)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治９年？(18760550552)"
+            "value": "（明治７年）(18740550550)"
         },
         {
             "label": "版元名",
-            "value": "堤吉兵衛板"
+            "value": "（万屋）"
         },
         {
             "label": "版元住所",
-            "value": "米沢町１丁目７"
-        },
-        {
-            "label": "彫師",
-            "value": "彫巳の"
+            "value": "（日本橋）"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,16 +56,24 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "沢村訥升（九尾の紀之）/尾上菊五郎（蛇の目の菊）/市川左団次（九紋龍の米）"
+            "label": "地名",
+            "value": "九段/駿河台"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "文明開化／土木／港湾／土木／橋梁／風景画"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画／建物"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "目鏡橋/九段橋燈台"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "2図が上下に描かれている"
         }
     ],
     "sequences": [

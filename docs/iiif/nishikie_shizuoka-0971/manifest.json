@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0971/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "明治坐新狂言不動霊験之場",
+    "label": "（すすきに雁）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "明治坐新狂言不動霊験之場"
+            "value": "（すすきに雁）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２５）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,31 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-25-(21)"
+            "value": "K915-108-22-(29)-2"
         },
         {
             "label": "画工名",
-            "value": "応需豊原国周筆印"
+            "value": "重宣筆"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２６年１１月(18930110550)"
-        },
-        {
-            "label": "版元名",
-            "value": "秋山武右衛門"
-        },
-        {
-            "label": "版元住所",
-            "value": "室町３丁目９"
+            "value": "嘉永５年閏２月(18520025550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "その他"
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,27 +45,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
         },
         {
-            "label": "人名",
-            "value": "市川小団次（祐天）/市川団十郎（不動明王）/市川左団次（生田角太夫）/遠山金三郎"
+            "label": "検印",
+            "value": "子閏"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "動植物画／動植物画(含花鳥）"
         },
         {
             "label": "その他固有件名",
-            "value": "明治座/不動明王/遠山桜天保日記"
+            "value": "すすき"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治26年11月1日より明治座にて新築落成記念「遠山桜天保日記」"
+            "value": "小判絵"
         }
     ],
     "sequences": [

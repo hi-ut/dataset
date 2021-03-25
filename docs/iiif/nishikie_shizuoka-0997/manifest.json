@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0997/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "明治座新狂言歌徳雨乞小町",
+    "label": "東京名所図絵日本橋より富岳の遠景",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "明治座新狂言歌徳雨乞小町"
+            "value": "東京名所図絵日本橋より富岳の遠景"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(11)"
+            "value": "K915-108-22-(54)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印"
+            "value": "広重画：安藤徳兵衛"
         },
         {
             "label": "和暦年月日",
-            "value": "明治２９年４月９日(18960040090)"
+            "value": "明治１１年８月届(18780080550)"
         },
         {
             "label": "版元名",
-            "value": "片田長次郎"
+            "value": "浅野栄蔵"
         },
         {
             "label": "版元住所",
-            "value": "東京浅草区茅丁１丁目２"
-        },
-        {
-            "label": "彫師",
-            "value": "松甚刀"
+            "value": "上野広小路丁３番地"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -60,24 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "人名",
-            "value": "中村福助（小野小町）/市川小団次（近衛左衛門尉貞連）"
-        },
-        {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／橋梁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "雨乞小町/和歌徳雨乞小町"
+            "value": "馬車/日本橋/街灯"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治29年4月15日より明治座にて「和歌徳雨乞小町」"
+            "value": "(48)(54)は同一図"
         }
     ],
     "sequences": [

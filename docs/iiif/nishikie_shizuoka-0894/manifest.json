@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0894/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "釈迦八相記今様写絵十五",
+    "label": "富士三十六景相州三浦之海上",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "釈迦八相記今様写絵十五"
+            "value": "富士三十六景相州三浦之海上"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,19 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(25)"
+            "value": "K915-108-21-(18)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "万延元年４月(18600040550)"
+            "value": "安政５年４月(18580040550)"
         },
         {
             "label": "版元名",
-            "value": "辻岡屋文助"
-        },
-        {
-            "label": "版元住所",
-            "value": "横山町三丁目"
+            "value": "蔦屋吉蔵"
         },
         {
             "label": "判",
@@ -57,19 +53,27 @@
         },
         {
             "label": "検印",
-            "value": "申四改"
+            "value": "午四"
         },
         {
-            "label": "人名",
-            "value": "鶴亭"
+            "label": "国名",
+            "value": "相模"
+        },
+        {
+            "label": "地名",
+            "value": "三浦"
+        },
+        {
+            "label": "主題",
+            "value": "風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
         },
         {
             "label": "その他固有件名",
-            "value": "生花/釈迦八相記"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "詞書あり(鶴亭)"
+            "value": "富士山"
         }
     ],
     "sequences": [

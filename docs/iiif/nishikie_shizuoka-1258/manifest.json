@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1258/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "雪月花山城あらし山の花熊野御前",
+    "label": "梅幸百種之内斎藤実盛",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "雪月花山城あらし山の花熊野御前"
+            "value": "梅幸百種之内斎藤実盛"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（３０）"
+            "value": "上村翁旧蔵浮世絵集（２８）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-30-(68)"
+            "value": "K915-108-28-(26)"
         },
         {
             "label": "画工名",
-            "value": "楊洲周延筆印：橋本直義"
+            "value": "豊原国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１８年３月１１日届(18850030110)"
+            "value": "明治２６年(18930550550)"
         },
         {
             "label": "版元名",
-            "value": "小林鉄次郎"
+            "value": "福田熊次郎"
         },
         {
             "label": "版元住所",
-            "value": "日本橋通３丁目１３"
-        },
-        {
-            "label": "彫師",
-            "value": "宗岡刀"
+            "value": "東京日本橋区長谷川町１９"
         },
         {
             "label": "判",
@@ -60,28 +56,20 @@
             "value": "なし"
         },
         {
-            "label": "国名",
-            "value": "山城"
-        },
-        {
-            "label": "地名",
-            "value": "嵐山"
-        },
-        {
             "label": "人名",
-            "value": "熊野御前"
+            "value": "尾上梅幸/市川佐団次（瀬尾十郎）"
         },
         {
             "label": "主題",
-            "value": "歴史画"
+            "value": "演劇／歌舞伎"
         },
         {
             "label": "細目",
-            "value": "肖像画"
+            "value": "役者絵"
         },
         {
             "label": "その他書誌事項",
-            "value": "(三十五)とあり"
+            "value": "「廿八」とあり"
         }
     ],
     "sequences": [

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0913/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（岩井粂三郎の大和屋おくめ）",
+    "label": "小倉擬百人一首藤原敏行朝臣",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（岩井粂三郎の大和屋おくめ）"
+            "value": "小倉擬百人一首藤原敏行朝臣"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２３）"
+            "value": "上村翁旧蔵浮世絵集（２１）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-23-(44)"
+            "value": "K915-108-21-(37)"
         },
         {
             "label": "画工名",
-            "value": "国貞画"
+            "value": "広重画印"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年７月(18630070550)"
+            "value": "弘化３年(18460550550)"
         },
         {
             "label": "版元名",
-            "value": "伊勢屋兼吉"
+            "value": "伊場屋仙三郎"
         },
         {
             "label": "彫師",
-            "value": "松嶋彫大"
+            "value": "彫工辰次郎"
         },
         {
             "label": "判",
@@ -57,19 +57,19 @@
         },
         {
             "label": "検印",
-            "value": "亥七改"
+            "value": "衣笠"
         },
         {
             "label": "人名",
-            "value": "岩井粂三郎（大和屋おくめ）"
+            "value": "柳下亭種員/阿古屋/景清/藤原敏行"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "和歌・狂歌／演劇／歌舞伎"
         },
         {
-            "label": "細目",
-            "value": "役者絵"
+            "label": "その他書誌事項",
+            "value": "詞書は柳下亭種員、「十八」とあり"
         }
     ],
     "sequences": [

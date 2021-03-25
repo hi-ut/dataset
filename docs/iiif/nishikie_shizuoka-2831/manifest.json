@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2831/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "（楠公諸將図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "（楠公諸將図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（掛軸仕立）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-110-(05)"
+        },
+        {
+            "label": "画工名",
+            "value": "喜多川歌麿"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "天保１３年以前(18420550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "山口屋藤兵衛"
+        },
+        {
+            "label": "版元住所",
+            "value": "馬喰町二丁目"
+        },
+        {
+            "label": "判",
+            "value": "その他"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "あり"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "極"
+        },
+        {
+            "label": "人名",
+            "value": "勝田左衛門直行/和田五郎/田原次郎正忠/湯浅孫六入道/高畠方三郎/安間了願/和田新五宗景/和田和泉守正遠/竹童丸（１６才）/楠河内判官正成/楠摂津守正氏/恩地左近太郎/八尾僧正顕幸（６７才）/生地左近衛/長谷平九郎/多聞丸正行（１３才）/向井小藤太/木沢"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "45.7×30.9cm"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2831/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

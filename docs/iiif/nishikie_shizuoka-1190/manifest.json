@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1190/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "博覧会拝見之図",
+    "label": "三芝居花の姿見十三武道大谷友右衛門立役河原崎権十郎",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "博覧会拝見之図"
+            "value": "三芝居花の姿見十三武道大谷友右衛門立役河原崎権十郎"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２９）"
+            "value": "上村翁旧蔵浮世絵集（２６）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-29-(45)"
+            "value": "K915-108-26-(43)"
         },
         {
             "label": "画工名",
-            "value": "応需国周筆印"
+            "value": "国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治５年３月(18720030550)"
+            "value": "明治元年４月(18680040550)"
         },
         {
             "label": "版元名",
-            "value": "具足屋"
+            "value": "増田屋"
         },
         {
             "label": "版元住所",
-            "value": "人形町"
+            "value": "芝神明前"
         },
         {
             "label": "彫師",
-            "value": "彫卯多"
+            "value": "彫善治"
         },
         {
             "label": "判",
@@ -49,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -61,19 +61,19 @@
         },
         {
             "label": "検印",
-            "value": "壬申三"
+            "value": "辰四改"
         },
         {
             "label": "人名",
-            "value": "麗々亭柳橋"
+            "value": "大谷友右衛門（熊谷直実）/河原崎権十郎（小萩実は教盛）"
         },
         {
             "label": "主題",
-            "value": "博覧会"
+            "value": "演劇／歌舞伎"
         },
         {
-            "label": "その他書誌事項",
-            "value": "一口話あり、明治5年3月10日より4月30日まで神田昌平坂の聖堂で開催された博覧会"
+            "label": "細目",
+            "value": "役者絵"
         }
     ],
     "sequences": [

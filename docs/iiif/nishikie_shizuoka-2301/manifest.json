@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2301/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "よし原十二ヶ月の内花見月平和泉若緑",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "よし原十二ヶ月の内花見月平和泉若緑"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４６）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-46-(19)"
+        },
+        {
+            "label": "画工名",
+            "value": "一恵斎芳幾筆印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２年８月(18690080550)"
+        },
+        {
+            "label": "版元名",
+            "value": "辻岡屋亀吉（辻亀）"
+        },
+        {
+            "label": "版元住所",
+            "value": "須賀丁"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "巳八改"
+        },
+        {
+            "label": "地名",
+            "value": "新吉原"
+        },
+        {
+            "label": "人名",
+            "value": "若緑"
+        },
+        {
+            "label": "主題",
+            "value": "娯楽／娼・妓(含売春）／娯楽／娼・妓(含売春）"
+        },
+        {
+            "label": "細目",
+            "value": "遊廓／美人画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "平和泉/花見月（三月）"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2301/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

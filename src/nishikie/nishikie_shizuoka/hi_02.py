@@ -35,7 +35,7 @@ driver.find_element_by_class_name("btn85").click()
 
 #########
 
-pages = [9, 17, 25, 33, 41, 49, 57, 65, 73]
+pages = [9, 17, 25, 33, 40]
 for page in pages:
     driver.find_element_by_link_text(str(page)).click()
 

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2196/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "第壱号大日本大勝利一分捕品縦覧之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "第壱号大日本大勝利一分捕品縦覧之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（４４）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-44-(35)"
+        },
+        {
+            "label": "画工名",
+            "value": "小国政印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治２７年９月１８日(18940090180)"
+        },
+        {
+            "label": "版元名",
+            "value": "高橋友三郎"
+        },
+        {
+            "label": "版元住所",
+            "value": "東京市本郷区真砂町３０"
+        },
+        {
+            "label": "彫師",
+            "value": "松本彫甚"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "国名",
+            "value": "朝鮮/清"
+        },
+        {
+            "label": "地名",
+            "value": "成歓"
+        },
+        {
+            "label": "主題",
+            "value": "日清戦争"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "成歓占領の戦利品を陳列"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2196/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

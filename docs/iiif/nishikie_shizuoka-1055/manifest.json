@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1055/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（一条大蔵譚）",
+    "label": "釈迦八相記今様写絵十五",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（一条大蔵譚）"
+            "value": "釈迦八相記今様写絵十五"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２７）"
+            "value": "上村翁旧蔵浮世絵集（２３）"
         },
         {
             "label": "所蔵機関",
@@ -21,27 +21,23 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-27-(24)"
+            "value": "K915-108-23-(25)"
         },
         {
             "label": "画工名",
-            "value": "豊原国周筆印：荒川八十八"
+            "value": "国貞画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治１５年７月届(18820070550)"
+            "value": "万延元年４月(18600040550)"
         },
         {
             "label": "版元名",
-            "value": "武川清吉"
+            "value": "辻岡屋文助"
         },
         {
             "label": "版元住所",
-            "value": "本銀町２丁目１２"
-        },
-        {
-            "label": "彫師",
-            "value": "彫工銀次郎"
+            "value": "横山町三丁目"
         },
         {
             "label": "判",
@@ -49,7 +45,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,27 +53,23 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "申四改"
         },
         {
             "label": "人名",
-            "value": "尾上多賀之丞（常磐御前）/市川寿美蔵（八剣勘解由）/市川団十郎（一条大蔵長成）/嵐璃寛（吉岡鬼治郎）/河原崎国太郎（鬼次郎妻お京）"
-        },
-        {
-            "label": "主題",
-            "value": "演劇／歌舞伎"
-        },
-        {
-            "label": "細目",
-            "value": "役者絵"
+            "value": "鶴亭"
         },
         {
             "label": "その他固有件名",
-            "value": "一条大蔵譚"
+            "value": "生花/釈迦八相記"
         },
         {
             "label": "その他書誌事項",
-            "value": "明治15年6月29日より市村座にて「一条大蔵譚」"
+            "value": "詞書あり(鶴亭)"
         }
     ],
     "sequences": [

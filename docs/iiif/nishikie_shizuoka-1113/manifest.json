@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-1113/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "清玄沢村田之助",
+    "label": "（左団次の頼光）",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "清玄沢村田之助"
+            "value": "（左団次の頼光）"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２８）"
+            "value": "上村翁旧蔵浮世絵集（２５）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-28-(42)"
+            "value": "K915-108-25-(02)"
         },
         {
             "label": "画工名",
-            "value": "一桃国周画"
+            "value": "国周筆印"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年３月(18630030550)"
+            "value": "明治３年６月(18700060550)"
         },
         {
             "label": "版元名",
-            "value": "清水屋直次郎"
+            "value": "小川半助"
+        },
+        {
+            "label": "版元住所",
+            "value": "猿若町三丁目"
         },
         {
             "label": "彫師",
-            "value": "駒改彫多七"
+            "value": "彫卯多"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ３枚続"
         },
         {
             "label": "彩色",
@@ -57,11 +61,11 @@
         },
         {
             "label": "検印",
-            "value": "亥三改"
+            "value": "午六改"
         },
         {
             "label": "人名",
-            "value": "沢村田之助（清玄尼）"
+            "value": "中村芝翫（袴垂保輔）/市川左団次（源頼光）/岩井紫若（美切丸）"
         },
         {
             "label": "主題",
@@ -73,11 +77,11 @@
         },
         {
             "label": "その他固有件名",
-            "value": "源平盛桜柳営染"
+            "value": "好音魁紫紀花咄"
         },
         {
             "label": "その他書誌事項",
-            "value": "文久3年3月4日より中村座にて「源平盛桜柳営染」"
+            "value": "明治3年6月25日より守田座にて「好音魁紫紀花咄」"
         }
     ],
     "sequences": [

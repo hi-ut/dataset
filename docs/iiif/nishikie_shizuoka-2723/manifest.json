@@ -1,0 +1,79 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2723/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "勧進大相撲繁盛之図",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "勧進大相撲繁盛之図"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集（５３）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-108-53-(23)"
+        },
+        {
+            "label": "画工名",
+            "value": "需応旭堂国利摸"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治１５年１月１３日届(18820010130)"
+        },
+        {
+            "label": "版元名",
+            "value": "長谷川其吉"
+        },
+        {
+            "label": "版元住所",
+            "value": "小伝馬町３丁目１６"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 ３枚続"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "若島久三郎（大関）/手柄山勝司（関脇）/武蔵潟伊之助（小結）/梅ヶ谷藤太郎（大関）/司天龍芳五郎（関脇）/高見山宗五郎（小結）/伊勢ノ海五太夫（年寄）/大嶽門左衛門（年寄）/佐渡嶽兵右衛門（願人）/二十山重五郎（願人）"
+        },
+        {
+            "label": "主題",
+            "value": "スポーツ／相撲"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "前頭迄の番附あり"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2723/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

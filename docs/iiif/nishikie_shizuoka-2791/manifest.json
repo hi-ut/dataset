@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2791/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京大学史料編纂所",
+    "label": "東京名勝尽（よし原仲の町他三図）",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "東京名勝尽（よし原仲の町他三図）"
+        },
+        {
+            "label": "書名",
+            "value": "上村翁旧蔵浮世絵集東京名所（巻子）"
+        },
+        {
+            "label": "所蔵機関",
+            "value": "静岡県立中央図書館"
+        },
+        {
+            "label": "請求記号",
+            "value": "K915-109-01-(08)"
+        },
+        {
+            "label": "画工名",
+            "value": "広重筆"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "明治初年(18680550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "政田屋"
+        },
+        {
+            "label": "判",
+            "value": "大判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "地名",
+            "value": "新吉原/向島/両国/柳橋"
+        },
+        {
+            "label": "主題",
+            "value": "土木／橋梁／建築／劇場／娯楽／娯楽／風景画／名所図絵"
+        },
+        {
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "花火/花見/首尾の松"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "4図あり、吉原仲の町、向島花盛、元柳橋改メ難波橋、首尾の松より両国の景、元柳橋の改名の年不詳、おそらく明治2年か"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-2791/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": []
+        }
+    ],
+    "viewingDirection": "right-to-left"
+}

@@ -3,17 +3,17 @@
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_shizuoka-0995/manifest.json",
     "@type": "sc:Manifest",
     "attribution": "東京大学史料編纂所",
-    "label": "（田之助のかけ皿）",
+    "label": "東京名所図会筋違万代ばし俗めがね橋",
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
-            "value": "（田之助のかけ皿）"
+            "value": "東京名所図会筋違万代ばし俗めがね橋"
         },
         {
             "label": "書名",
-            "value": "上村翁旧蔵浮世絵集（２６）"
+            "value": "上村翁旧蔵浮世絵集（２２）"
         },
         {
             "label": "所蔵機関",
@@ -21,23 +21,27 @@
         },
         {
             "label": "請求記号",
-            "value": "K915-108-26-(09)"
+            "value": "K915-108-22-(52)"
         },
         {
             "label": "画工名",
-            "value": "国周画印"
+            "value": "広重画"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応元年３月(18650030550)"
+            "value": "明治７年(18740550550)"
         },
         {
             "label": "版元名",
-            "value": "井筒屋"
+            "value": "山崎屋清七（山清板）"
+        },
+        {
+            "label": "版元住所",
+            "value": "浅草並木"
         },
         {
             "label": "彫師",
-            "value": "彫栄"
+            "value": "彫定"
         },
         {
             "label": "判",
@@ -45,7 +49,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ３枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,23 +61,27 @@
         },
         {
             "label": "検印",
-            "value": "丑三改"
+            "value": "月よめず"
         },
         {
-            "label": "人名",
-            "value": "市川小文次（下部郷平）/沢村田之助（かけ皿）/関三十郎（片もひ）"
+            "label": "地名",
+            "value": "筋違門"
         },
         {
             "label": "主題",
-            "value": "演劇／歌舞伎"
+            "value": "土木／橋梁／風景画／名所図絵"
         },
         {
             "label": "細目",
-            "value": "役者絵"
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "眼鏡橋/万代橋"
         },
         {
             "label": "その他書誌事項",
-            "value": "歌舞伎年表に見えず"
+            "value": "万代橋は明治6年11月竣工"
         }
     ],
     "sequences": [
