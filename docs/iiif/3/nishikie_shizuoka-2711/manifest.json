@@ -1,0 +1,225 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_shizuoka-2711/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "三浦上総両介那須野九尾狐討取"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "三浦上総両介那須野九尾狐討取"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "上村翁旧蔵浮世絵集（５３）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "静岡県立中央図書館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "K915-108-53-(11)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "国久画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "安政５年９月(18580090550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "山田屋"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 ３枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "午九"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "三浦義明/上総介忠常/平忠常"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "歴史画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "九尾狐"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

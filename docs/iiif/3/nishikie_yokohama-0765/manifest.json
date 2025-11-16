@@ -1,0 +1,237 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_yokohama-0765/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "積恋雪之開之扉"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "積恋雪之開之扉"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "横浜開港資料館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "Ab1-30-005-00"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "応需香朝楼筆"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "明治２４年１１月１日(18910110010)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "森本"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "浅草区瓦町２"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 ３枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "なし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "中村福助（墨染之精）/市川団十郎（大伴之黒主）/中村芝翫（小町姫）/市川団十郎（関兵衛）/坂東家橘（宗貞）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "演劇／歌舞伎"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "役者絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "積恋雪関戸"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "U-760。明治24年11月5日より浅草済美館にて余興「積恋雪の関扉」上演"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

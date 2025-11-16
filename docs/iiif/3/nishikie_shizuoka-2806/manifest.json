@@ -1,0 +1,249 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_shizuoka-2806/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "征韓論之図"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "征韓論之図"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "上村翁旧蔵浮世絵集西南之役（巻子）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "静岡県立中央図書館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "K915-109-03-(01)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "楊洲斎周延拝写：松本直義"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "明治１０年７月５日届(18770070050)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "松下平兵衛"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "本郷元富士丁１"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彫師"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "彫秀勝"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 ３枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "なし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "国名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "朝鮮"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "江藤新平/西郷隆盛/桐野利秋/岩倉具視/柳々子仙果/三条実美/大久保利通/大隈重信/大木喬任/前原一誠/板垣退介/有栖川宮熾仁親王"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "征韓論と日朝関係／征韓論"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "定価6銭、詞書あり(柳々子仙果)"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

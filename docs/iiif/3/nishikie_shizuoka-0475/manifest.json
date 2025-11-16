@@ -1,0 +1,249 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_shizuoka-0475/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "家伝秘伝金生丹売弘め口上"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "家伝秘伝金生丹売弘め口上"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "上村翁旧蔵浮世絵集（１１）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "静岡県立中央図書館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "K915-108-11-(40)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "応需豊国画印"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "嘉永５年９月(18520090550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "蔦屋吉蔵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 １枚"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "村田/衣笠/子九"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "上西潤益（金生丹本家）/越前屋亀三郎（金生丹江戸出店）/市川海老蔵（白猿）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "医療・衛生／演劇／歌舞伎"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "役者絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "白石噺/金生丹"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "嘉永3年7月河原崎座にて「白石」、海老蔵(惣六)は、その時白石の金生丹本家の上西潤益と文通、今回出店が横山町3丁目の越前屋亀三郎のところに出来た旨白猿口上"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

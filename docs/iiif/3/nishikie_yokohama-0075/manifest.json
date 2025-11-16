@@ -1,0 +1,225 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_yokohama-0075/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "東海道名所之内横浜風景"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "東海道名所之内横浜風景"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "横浜開港資料館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "Ab1-03-027-00"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "五雲亭貞秀画印"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "万延元年３月(18600030550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "横絵 ８枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "申三改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "地名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "本牧/天間村/北方村/横浜村/石川坂/横浜新田/太田屋新田/弁天町/海岸町/野毛浦/吉田新田/大岡川/宮が崎/天神山/戸部村/今井川"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風景画／名所図絵／開港／横浜"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風景画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "十二天社/杉山弁才天/増徳院/龍燈楠/阿弥陀堂/子供松/商人会所/町会所/岩亀楼/五十鈴楼/大門口/弁天社/吉田橋/野毛橋/姥が岩/林光寺/第六天神/大聖寺/御林山/杉山明神/本沼橋/水天宮"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "U-86。"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

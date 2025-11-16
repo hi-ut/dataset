@@ -1,0 +1,249 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_yokohama-0357/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "新板異人双六"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "新板異人双六"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "横浜開港資料館"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "Ab1-05-008-00"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "一川芳員画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "万延元年１０月(18600100550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "有田屋清右衛門"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "横絵 ４枚"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "申十改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "国名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "オランダ/フランス/イギリス/ロシア/アメリカ"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "地名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "南京/野毛/港崎町/横浜"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "開港／横浜／娯楽／踊／娯楽／音楽／建築／劇場"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "双六"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "黒人/写真鏡（カメラ）/江戸見物/画師/遠眼鏡/乗馬/巨燵（ストーブ）/ランプ/ベッド/鏡/時計/太鼓/笛/ミシン/洗濯/火のし（アイロン）/買物/ヴァイオリン/クッキングストーブ"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "U-181。「横浜異人双六」と題する袋付"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": []
+}

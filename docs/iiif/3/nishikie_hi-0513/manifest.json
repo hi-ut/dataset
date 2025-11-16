@@ -1,0 +1,370 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0513/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "源義家朝臣奥州征罰之図"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "源義家朝臣奥州征罰之図"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "京都下加茂糺の森勝景外二十一種"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "0380-16-(5)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "一光斎芳盛画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "文久３年１月(18630010550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "相模屋藤吉（相ト）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "下谷"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 ３枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "亥正改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "徳川家茂/八幡太郎義家"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "将軍上洛"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "紫宸殿/綸旨"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000013.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 861,
+            "height": 1341
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[1]"
+                ]
+            },
+            "height": 1341,
+            "width": 861,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p1/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/p1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000013.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1341,
+                                "width": 861
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000013.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 861,
+                    "height": 1341
+                }
+            ]
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[2]"
+                ]
+            },
+            "height": 1335,
+            "width": 862,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p2/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/p2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000014.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1335,
+                                "width": 862
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000014.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 862,
+                    "height": 1335
+                }
+            ]
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p3",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[3]"
+                ]
+            },
+            "height": 1334,
+            "width": 863,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p3/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/p3-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000015.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1334,
+                                "width": 863
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0513/canvas/p3"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000015.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 863,
+                    "height": 1334
+                }
+            ]
+        }
+    ]
+}

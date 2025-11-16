@@ -1,0 +1,32 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/collection/3/top.json",
+    "type": "Collection",
+    "label": {
+        "ja": [
+            "東京大学史料編纂所・IIIFコレクション"
+        ]
+    },
+    "summary": {
+        "ja": [
+            "東京大学史料編纂所が公開するIIIFコレクション（の一部）です。"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/collection/3/nishikie.json",
+            "type": "Collection",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所・錦絵データベース"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "http://www.hi.u-tokyo.ac.jp/collection/images/collect_nishikie.jpg",
+                    "type": "Image"
+                }
+            ]
+        }
+    ]
+}

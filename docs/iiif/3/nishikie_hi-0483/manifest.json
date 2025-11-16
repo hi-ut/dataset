@@ -1,0 +1,300 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0483/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "東海道　佐屋"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "東海道　佐屋"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "将軍上洛東海道行列図"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "0380-15-(56)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "芳盛画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "文久３年４月(18630040550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "魚屋栄吉（魚栄版）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "下谷"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 １枚"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "亥四改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "地名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "佐屋"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "将軍上洛"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風景画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "牛頭天王"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000056.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 869,
+            "height": 1288
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0483/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[1]"
+                ]
+            },
+            "height": 1288,
+            "width": 869,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0483/canvas/p1/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0483/p1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000056.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1288,
+                                "width": 869
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0483/canvas/p1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000056.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 869,
+                    "height": 1288
+                }
+            ]
+        }
+    ]
+}

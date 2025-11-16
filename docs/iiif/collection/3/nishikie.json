@@ -1,0 +1,50 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/collection/3/nishikie.json",
+    "type": "Collection",
+    "label": {
+        "ja": [
+            "東京大学史料編纂所・錦絵データベース"
+        ]
+    },
+    "summary": {
+        "ja": [
+            "史料編纂所所蔵、静岡県立中央図書館（書誌情報）、横浜開港資料館（書誌情報）が所蔵する錦絵の目録データベースです。<br/>題名・書名・所蔵機関・画工名・製作時期・版元名・主題・件名などでの検索が可能です。史料編纂所所蔵分についてはイメージ表示されます。"
+        ]
+    },
+    "partOf": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/collection/3/top.json",
+            "type": "Collection"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/collection/3/nishikie_hi.json",
+            "type": "Collection",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            }
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/collection/3/nishikie_shizuoka.json",
+            "type": "Collection",
+            "label": {
+                "ja": [
+                    "静岡県立中央図書館"
+                ]
+            }
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/collection/3/nishikie_yokohama.json",
+            "type": "Collection",
+            "label": {
+                "ja": [
+                    "横浜開港資料館"
+                ]
+            }
+        }
+    ]
+}

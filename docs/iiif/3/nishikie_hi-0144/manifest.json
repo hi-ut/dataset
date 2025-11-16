@@ -1,0 +1,305 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0144/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "ja": [
+            "子供遊勇当独楽"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "ja": [
+                    "題名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "子供遊勇当独楽"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "書名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "維新前後諷刺画　二"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "所蔵機関"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "請求記号"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "0380-17-2-(71)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "画工名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "なし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "和暦年月日"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "（明治元年）(18680550550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "判"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大判"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "形態"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "竪絵 ２枚続"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彩色"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "錦絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "なし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "主題"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "戊辰戦争"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "子供絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "こままわし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "「こどもあそびいさむあてごま」、西、長州、薩摩、土佐、尾張、大村、肥後、東、庄内、会津、仙台、加賀、米沢、佐竹、そとに徳川慶喜"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "ja": [
+                "提供"
+            ]
+        },
+        "value": {
+            "ja": [
+                "東京大学史料編纂所"
+            ]
+        }
+    },
+    "rights": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "provider": [
+        {
+            "id": "https://www.hi.u-tokyo.ac.jp/",
+            "type": "Agent",
+            "label": {
+                "ja": [
+                    "東京大学史料編纂所"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+                    "type": "Image",
+                    "format": "image/x-icon"
+                }
+            ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000136.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 859,
+            "height": 1352
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "items": [
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[1]"
+                ]
+            },
+            "height": 1352,
+            "width": 859,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p1/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/p1-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000136.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1352,
+                                "width": 859
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p1"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000136.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 859,
+                    "height": 1352
+                }
+            ]
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[2]"
+                ]
+            },
+            "height": 1359,
+            "width": 869,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p2/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/p2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000137.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1359,
+                                "width": 869
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0144/canvas/p2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000137.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 869,
+                    "height": 1359
+                }
+            ]
+        }
+    ]
+}
