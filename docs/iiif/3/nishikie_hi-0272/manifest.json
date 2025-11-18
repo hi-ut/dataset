@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "末広五十三次　神奈川"
+            "末広五十三次　大磯"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "末広五十三次　神奈川"
+                    "末広五十三次　大磯"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-8-(4)"
+                    "0380-8-(9)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "梅蝶楼国貞画"
+                    "芳年筆"
                 ]
             }
         },
@@ -136,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "神奈川"
+                    "大磯"
                 ]
             }
         },
@@ -196,57 +196,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000004.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 850,
-            "height": 1286
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0272/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0272/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1286,
-            "width": 850,
+            "height": 1293,
+            "width": 849,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0272/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0272/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0272/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0272/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000004.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000009.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1286,
-                                "width": 850
+                                "height": 1293,
+                                "width": 849
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0272/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0272/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000004.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000009.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 850,
-                    "height": 1286
+                    "width": 849,
+                    "height": 1293
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000009.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 849,
+            "height": 1293
         }
     ]
 }

@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "丙午歳五月十六日土水性の人うけニ入",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "うとふ物語鷺沼太郎越中立山にて地獄を見る図",
     "metadata": [
         {
             "label": "題名",
-            "value": "丙午歳五月十六日土水性の人うけニ入"
+            "value": "うとふ物語鷺沼太郎越中立山にて地獄を見る図"
         },
         {
             "label": "書名",
@@ -21,19 +18,15 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-4-(38)"
+            "value": "0380-17-4-(43)"
         },
         {
             "label": "画工名",
-            "value": "豊国門人一寿斎国政画"
+            "value": "なし"
         },
         {
             "label": "和暦年月日",
-            "value": "（弘化３年）(18460550550)"
-        },
-        {
-            "label": "版元名",
-            "value": "高野屋友右衛門（高友）"
+            "value": "幕末期(00000000000)"
         },
         {
             "label": "判",
@@ -41,7 +34,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 １枚、但し３枚続きの右"
         },
         {
             "label": "彩色",
@@ -49,25 +42,40 @@
         },
         {
             "label": "検印状況",
-            "value": "あり"
+            "value": "なし"
         },
         {
-            "label": "検印",
-            "value": "渡"
+            "label": "地名",
+            "value": "立山"
         },
         {
             "label": "人名",
-            "value": "華月堂北雅"
+            "value": "鷺沼太郎"
         },
         {
             "label": "主題",
-            "value": "暦／有卦絵"
+            "value": "講談／草子類"
         },
         {
-            "label": "その他書誌事項",
-            "value": "「土水の恵みをうけて藤の花」華月堂北雅印、丙午は弘化３年"
+            "label": "細目",
+            "value": "風景画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "うとふ物語"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000078.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 864,
+        "height": 1272
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/sequence/normal",
@@ -76,42 +84,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 887,
+                    "label": "[1]",
+                    "height": 1272,
+                    "width": 864,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0215/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000078.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 887,
-                                "width": 1277
+                                "height": 1272,
+                                "width": 864
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000078.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 887,
-                        "width": 1277
-                    },
-                    "width": 1277
+                        "width": 864,
+                        "height": 1272
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000069.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 887,
-        "width": 1277
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

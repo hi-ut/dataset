@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（諸人なまづを打つの図）"
+            "二日はなし地震亭念魚町々庵炎上"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（諸人なまづを打つの図）"
+                    "二日はなし地震亭念魚町々庵炎上"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(26)"
+                    "0380-12-(35)"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/読売"
+                    "寄席/安政大地震"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "太平の御恩沢に高きまくらのふし戸をやぶりし地震ハいつしかしづまりてまたやごとなき御恵につきせぬ御代のかづかづをさされいしのみうたにならひて君が代は千代に八千代にかなめいしのいはほハぬけじよしゆるぐとも"
+                    "将棊ずき、吉原焼、太神宮神馬につき小話"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000031.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1316,
-            "height": 866
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0557/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0557/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 866,
-            "width": 1316,
+            "height": 881,
+            "width": 1321,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0557/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0557/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0557/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0557/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000031.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000040.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 866,
-                                "width": 1316
+                                "height": 881,
+                                "width": 1321
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0557/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0557/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000031.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000040.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1316,
-                    "height": 866
+                    "width": 1321,
+                    "height": 881
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000040.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1321,
+            "height": 881
         }
     ]
 }

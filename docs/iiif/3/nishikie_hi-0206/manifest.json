@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（笑ひ上戸おこりなき三人問答）"
+            "（奪衣婆三味線太鼓に合せ舞うの図）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（笑ひ上戸おこりなき三人問答）"
+                    "（奪衣婆三味線太鼓に合せ舞うの図）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(29)"
+                    "0380-17-4-(34)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "梅の家梅英"
+                    "一勇斎国芳戯画印"
                 ]
             }
         },
@@ -76,7 +76,19 @@
             },
             "value": {
                 "ja": [
-                    "（明治元年）(18680550550)"
+                    "嘉永２年(18490550550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "不明版元山形卜字印"
                 ]
             }
         },
@@ -124,19 +136,19 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "紙が貼られており、みえず"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "人名"
+                    "検印"
                 ]
             },
             "value": {
                 "ja": [
-                    "正情堂遊人/梅英/芳梅"
+                    "米良/？"
                 ]
             }
         },
@@ -148,31 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "戊辰戦争"
+                    "文明開化／仏教"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "その他固有件名"
                 ]
             },
             "value": {
                 "ja": [
-                    "風刺画"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "応需正情堂遊人誌として三人問答あり、笑ひ上戸、長州、おこり、徳川慶喜、なき、一般人、これは大阪のもの、梅英（うめひで）は芳梅の弟子"
+                    "奪衣婆"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000060.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 863,
-            "height": 1276
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0206/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0206/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1276,
-            "width": 863,
+            "height": 1285,
+            "width": 867,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0206/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0206/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0206/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0206/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000060.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000065.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1276,
-                                "width": 863
+                                "height": 1285,
+                                "width": 867
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0206/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0206/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000060.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000065.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 863,
-                    "height": 1276
+                    "width": 867,
+                    "height": 1285
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000065.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 867,
+            "height": 1285
         }
     ]
 }

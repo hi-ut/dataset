@@ -2,18 +2,15 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0073/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "倶足円満菩薩の法へん",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "当時流好諸喰商人尽",
     "metadata": [
         {
             "label": "題名",
-            "value": "倶足円満菩薩の法へん"
+            "value": "当時流好諸喰商人尽"
         },
         {
             "label": "書名",
-            "value": "維新前後諷刺画　一"
+            "value": "維新前後諷刺画　二"
         },
         {
             "label": "所蔵機関",
@@ -21,15 +18,15 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-1-(68)"
+            "value": "0380-17-2-(5)"
         },
         {
             "label": "画工名",
-            "value": "土地面画"
+            "value": "なし"
         },
         {
             "label": "和暦年月日",
-            "value": "慶応期カ(55550550551)"
+            "value": "明治元年４月頃(18680040770)"
         },
         {
             "label": "判",
@@ -49,11 +46,11 @@
         },
         {
             "label": "人名",
-            "value": "土地面"
+            "value": "徳川慶喜"
         },
         {
             "label": "主題",
-            "value": "ええじゃないか／世直し"
+            "value": "戊辰戦争"
         },
         {
             "label": "細目",
@@ -61,9 +58,20 @@
         },
         {
             "label": "その他書誌事項",
-            "value": "塔を積む賽の河原の石よりも地獄の沙汰は是次第なり、仏は百両を手に置いている"
+            "value": "猪が「あんまりでてあるくとみんな子どもがいやがるからよそう」、商人「どうせやけだふだでもしめろへ一ばいやらかせ」、官軍「イヤどこを見てもにもつをはこぶてナア」、天秤棒かつぎ「なんでも本所のしんるいへあづけるがよかろう」、 ぶたは慶喜のアダナ、官軍の江戸開城は４月１１日、子供は菊紋"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 867,
+        "height": 1339
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0073/sequence/normal",
@@ -72,42 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0073/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1341,
+                    "label": "[1]",
+                    "height": 1339,
+                    "width": 867,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0073/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0073/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000130.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1341,
-                                "width": 872
+                                "height": 1339,
+                                "width": 867
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000130.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000007.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1341,
-                        "width": 872
-                    },
-                    "width": 872
+                        "width": 867,
+                        "height": 1339
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000130.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1341,
-        "width": 872
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

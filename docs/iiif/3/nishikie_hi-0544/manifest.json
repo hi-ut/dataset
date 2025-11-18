@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "鯰のけんくわ"
+            "（なまづ小話）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "鯰のけんくわ"
+                    "（なまづ小話）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(13)"
+                    "0380-12-(22)"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/辻君"
+                    "安政大地震"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "持丸、辻君、鯰、職人のことばあり、０３８０－１３－（１３）と同一"
+                    "４コミの地震鯰小話"
                 ]
             }
         }
@@ -208,19 +208,10 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000016.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 879,
-            "height": 1322
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0544/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0544/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
@@ -228,37 +219,46 @@
                 ]
             },
             "height": 1322,
-            "width": 879,
+            "width": 910,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0544/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0544/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0544/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0544/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000016.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000027.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1322,
-                                "width": 879
+                                "width": 910
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0544/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0544/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000016.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000027.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 879,
+                    "width": 910,
                     "height": 1322
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000027.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 910,
+            "height": 1322
         }
     ]
 }

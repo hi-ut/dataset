@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "末広五十三次　三島"
+            "末広五十三次　由井"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "末広五十三次　三島"
+                    "末広五十三次　由井"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-8-(12)"
+                    "0380-8-(17)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "応需広重（二代目）画"
+                    "五雲亭貞秀画"
                 ]
             }
         },
@@ -136,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "三島"
+                    "由井"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "幕府陸軍"
+                    "薩陀峠"
                 ]
             }
         }
@@ -208,19 +208,10 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000012.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 855,
-            "height": 1291
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0280/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0280/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
@@ -228,37 +219,46 @@
                 ]
             },
             "height": 1291,
-            "width": 855,
+            "width": 850,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0280/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0280/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0280/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0280/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000012.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1291,
-                                "width": 855
+                                "width": 850
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0280/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0280/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000012.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 855,
+                    "width": 850,
                     "height": 1291
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 850,
+            "height": 1291
         }
     ]
 }

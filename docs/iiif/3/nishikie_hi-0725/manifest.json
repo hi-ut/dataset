@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "当世武勇伝柴津少将源義久卿"
+            "当世武勇伝西山平馬"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "当世武勇伝柴津少将源義久卿"
+                    "当世武勇伝西山平馬"
                 ]
             }
         },
@@ -29,30 +29,6 @@
             "value": {
                 "ja": [
                     "当世武勇伝"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "所蔵機関"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "東京大学史料編纂所"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "請求記号"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "0180-4-(1)"
                 ]
             }
         },
@@ -160,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "島津忠義"
+                    "西山平馬"
                 ]
             }
         },
@@ -191,12 +167,24 @@
         {
             "label": {
                 "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "下野戦争"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "その他書誌事項"
                 ]
             },
             "value": {
                 "ja": [
-                    "詞書あり、薩摩藩主、「壹」とあり"
+                    "詞書あり、土佐藩士、「十」とあり"
                 ]
             }
         }
@@ -232,57 +220,6 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0180/4/00000001.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 7360,
-            "height": 4912
-        }
-    ],
     "viewingDirection": "right-to-left",
-    "items": [
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0725/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[1]"
-                ]
-            },
-            "height": 4912,
-            "width": 7360,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0725/canvas/p1/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0725/p1-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0180/4/00000001.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 4912,
-                                "width": 7360
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0725/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/IMG/000/0180/4/00000001.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 7360,
-                    "height": 4912
-                }
-            ]
-        }
-    ]
+    "items": []
 }

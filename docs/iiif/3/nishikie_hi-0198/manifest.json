@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "異国船帰帆之図并ニ魚之図"
+            "はしかのまじなひたらやうの葉"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "異国船帰帆之図并ニ魚之図"
+                    "はしかのまじなひたらやうの葉"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(21)"
+                    "0380-17-4-(26)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "一英斎芳艶画印"
                 ]
             }
         },
@@ -76,7 +76,19 @@
             },
             "value": {
                 "ja": [
-                    "（元治元年）(18640550550)"
+                    "文久２年４月(18620040550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "不明版元角形大字印"
                 ]
             }
         },
@@ -100,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "横絵 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -124,7 +136,19 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "戌四改"
                 ]
             }
         },
@@ -136,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "尊皇攘夷"
+                    "疾病（衛生）／麻疹"
                 ]
             }
         },
@@ -148,7 +172,31 @@
             },
             "value": {
                 "ja": [
-                    "風刺画"
+                    "子供絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "まじない/たらようの葉"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "此絵をはりおきてたへずなかむる時ハ、たとひはしかをやむとも、おもきハかろく、かろきはのがれ、万人に一人もけがあることなし、うたがふべからず、麦殿は生れぬ先にはしかして、かせたる後ハ我身なりけり"
                 ]
             }
         }
@@ -184,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000052.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1275,
-            "height": 874
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0198/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0198/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 874,
-            "width": 1275,
+            "height": 1281,
+            "width": 858,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0198/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0198/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0198/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0198/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000052.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000057.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 874,
-                                "width": 1275
+                                "height": 1281,
+                                "width": 858
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0198/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0198/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000052.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000057.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1275,
-                    "height": 874
+                    "width": 858,
+                    "height": 1281
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000057.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 858,
+            "height": 1281
         }
     ]
 }

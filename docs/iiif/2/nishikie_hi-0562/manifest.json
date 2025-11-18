@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0562/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "大都会不尽",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "地震のすちやらか",
     "metadata": [
         {
             "label": "題名",
-            "value": "大都会不尽"
+            "value": "地震のすちやらか"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(31)"
+            "value": "0380-12-(41)"
         },
         {
             "label": "画工名",
@@ -37,7 +34,7 @@
         },
         {
             "label": "形態",
-            "value": "横絵 １枚"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,13 +54,24 @@
         },
         {
             "label": "その他固有件名",
-            "value": "安政大地震/大津絵節/えんまの子/地蔵の子/閻魔"
+            "value": "安政大地震/すちやらか"
         },
         {
             "label": "その他書誌事項",
-            "value": "「おほつゑふし」、地震の子・ゑんまの子・地蔵の子がかかれている"
+            "value": "すちやらかあり、０３８０－１３－（１１）と同一"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000047.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 876,
+        "height": 1329
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0562/sequence/normal",
@@ -72,42 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0562/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 880,
+                    "label": "[1]",
+                    "height": 1329,
+                    "width": 876,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0562/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0562/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000036.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000047.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 880,
-                                "width": 1320
+                                "height": 1329,
+                                "width": 876
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000036.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000047.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 880,
-                        "width": 1320
-                    },
-                    "width": 1320
+                        "width": 876,
+                        "height": 1329
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000036.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 880,
-        "width": 1320
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

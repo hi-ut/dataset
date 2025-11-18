@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "流行麻疹けん"
+            "はしかの養生"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "流行麻疹けん"
+                    "はしかの養生"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(2)"
+                    "0380-14-(7)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "芳艶画"
+                    "一松斎芳宗"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久２年７月(18620070550)"
+                    "文久２年４月(18620040550)"
                 ]
             }
         },
@@ -88,7 +88,19 @@
             },
             "value": {
                 "ja": [
-                    "亀屋岩吉"
+                    "よめず"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "通三"
                 ]
             }
         },
@@ -148,19 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "戌七改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "人名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "春亭"
+                    "戌四改"
                 ]
             }
         },
@@ -196,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "拳"
+                    "ほうそう神/はしか神"
                 ]
             }
         },
@@ -208,7 +208,7 @@
             },
             "value": {
                 "ja": [
-                    "春亭戯述、食物あり、拳の言葉あり"
+                    "詞書あり"
                 ]
             }
         }
@@ -244,57 +244,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 854,
-            "height": 1308
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0366/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0366/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1308,
-            "width": 854,
+            "height": 1299,
+            "width": 853,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0366/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0366/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0366/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0366/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1308,
-                                "width": 854
+                                "height": 1299,
+                                "width": 853
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0366/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0366/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 854,
-                    "height": 1308
+                    "width": 853,
+                    "height": 1299
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 853,
+            "height": 1299
         }
     ]
 }

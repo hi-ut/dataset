@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "道化狂画"
+            "木性の人酉年八月五日酉の刻有卦に入"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "道化狂画"
+                    "木性の人酉年八月五日酉の刻有卦に入"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(33)"
+                    "0380-13-(38)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一寿斎芳員狂画印"
+                    "一鵬斎芳藤画"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "安政５年４月(18580040550)"
+                    "文久元年７月(18610070550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "角本屋金次郎（角金）"
+                    "辻岡屋"
                 ]
             }
         },
@@ -148,19 +148,7 @@
             },
             "value": {
                 "ja": [
-                    "子四"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "人名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "井伊直弼"
+                    "酉七改"
                 ]
             }
         },
@@ -172,19 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "安政大獄／当物"
+                    "暦／有卦絵"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "その他書誌事項"
                 ]
             },
             "value": {
                 "ja": [
-                    "風刺画"
+                    "「不老不死の薬はふじにありときけばふぶきふみわけ登るふる事」とあり"
                 ]
             }
         }
@@ -220,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000041.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 889,
-            "height": 1320
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0355/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0355/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1320,
-            "width": 889,
+            "height": 1315,
+            "width": 900,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0355/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0355/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0355/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0355/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000041.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1320,
-                                "width": 889
+                                "height": 1315,
+                                "width": 900
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0355/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0355/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000041.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 889,
-                    "height": 1320
+                    "width": 900,
+                    "height": 1315
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 900,
+            "height": 1315
         }
     ]
 }

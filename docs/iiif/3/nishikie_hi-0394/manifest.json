@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "新板おもちや尽"
+            "（疱瘡守護神妙正大明神護符）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "新板おもちや尽"
+                    "（疱瘡守護神妙正大明神護符）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(30)"
+                    "0380-14-(35)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "貞房"
+                    "なし"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "江崎屋辰蔵（江辰板）"
+                    "下総国千足村（この名の村なし）"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "大判"
+                    "その他"
                 ]
             }
         },
@@ -124,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり、赤色のみ"
+                    "単色摺物"
                 ]
             }
         },
@@ -136,19 +136,19 @@
             },
             "value": {
                 "ja": [
-                    "あれどもよめず"
+                    "なし"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "主題"
                 ]
             },
             "value": {
                 "ja": [
-                    "おもちゃ絵"
+                    "疾病（衛生）／麻疹"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "鍾馗/ダルマ/おもちゃ/みみづく/犬張子"
+                    "護符/妙正大明神"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "２５コマにそれぞれおもちゃの絵あり"
+                    "35.5×14.9㎝"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 867,
-            "height": 1306
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0394/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1306,
-            "width": 867,
+            "height": 1256,
+            "width": 548,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0394/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0394/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000038.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1306,
-                                "width": 867
+                                "height": 1256,
+                                "width": 548
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0394/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0394/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000033.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000038.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 867,
-                    "height": 1306
+                    "width": 548,
+                    "height": 1256
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000038.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 548,
+            "height": 1256
         }
     ]
 }

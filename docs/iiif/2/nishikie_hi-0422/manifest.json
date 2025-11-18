@@ -2,18 +2,15 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "近世義勇伝　佐和村軍六",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "東海道名所　大森",
     "metadata": [
         {
             "label": "題名",
-            "value": "近世義勇伝　佐和村軍六"
+            "value": "東海道名所　大森"
         },
         {
             "label": "書名",
-            "value": "近世義勇伝"
+            "value": "将軍上洛東海道行列図"
         },
         {
             "label": "所蔵機関",
@@ -21,19 +18,23 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-10-(22)"
+            "value": "0380-15-(4)"
         },
         {
             "label": "画工名",
-            "value": "箕輪其村画"
+            "value": "広重（二代）画"
         },
         {
             "label": "和暦年月日",
-            "value": "明治７年９月(18740090550)"
+            "value": "文久３年４月(18630040550)"
         },
         {
             "label": "版元名",
-            "value": "加藤寧蔭蔵板"
+            "value": "大金"
+        },
+        {
+            "label": "版元住所",
+            "value": "築地"
         },
         {
             "label": "判",
@@ -53,25 +54,36 @@
         },
         {
             "label": "検印",
-            "value": "戌九"
+            "value": "亥四改"
+        },
+        {
+            "label": "地名",
+            "value": "大森"
         },
         {
             "label": "人名",
-            "value": "伊藤燕国/佐和村軍六"
+            "value": "和中散（大森で三軒和中散を売っていたのが、江戸では有名なこと）"
         },
         {
             "label": "主題",
-            "value": "桜田門外の変"
+            "value": "将軍上洛"
         },
         {
             "label": "細目",
-            "value": "肖像画"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "詞書あり、「伊藤円国述」とあり、佐和村は彦根藩士"
+            "value": "風景画"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 868,
+        "height": 1292
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/sequence/normal",
@@ -80,42 +92,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1281,
+                    "label": "[1]",
+                    "height": 1292,
+                    "width": 868,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1281,
-                                "width": 858
+                                "height": 1292,
+                                "width": 868
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1281,
-                        "width": 858
-                    },
-                    "width": 858
+                        "width": 868,
+                        "height": 1292
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1281,
-        "width": 858
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

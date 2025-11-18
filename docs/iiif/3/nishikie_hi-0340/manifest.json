@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "さやあて"
+            "慶応元年丑１２月１２日の夜浅草雷神門類焼"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "さやあて"
+                    "慶応元年丑１２月１２日の夜浅草雷神門類焼"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(17)"
+                    "0380-13-(23)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "よし藤画（芳藤）"
                 ]
             }
         },
@@ -76,7 +76,43 @@
             },
             "value": {
                 "ja": [
-                    "（安政２年１０月）(18550100550)"
+                    "慶応２年１月(18660010550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "伊藤"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "？"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彫師"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "彫藤"
                 ]
             }
         },
@@ -124,7 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "寅正改"
                 ]
             }
         },
@@ -136,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "災害／地震"
+                    "災害／火事"
                 ]
             }
         },
@@ -148,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震"
+                    "雷神/雷おこし/おたふく弁天"
                 ]
             }
         },
@@ -160,7 +208,7 @@
             },
             "value": {
                 "ja": [
-                    "くわじ伴左衛門となまづ山三の詞あり、「さやあて」は歌舞伎の趣向の一つ"
+                    "雷神と弁天の対話あり"
                 ]
             }
         }
@@ -196,57 +244,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 930,
-            "height": 1308
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0340/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0340/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1308,
-            "width": 930,
+            "height": 1311,
+            "width": 898,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0340/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0340/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0340/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0340/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000024.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1308,
-                                "width": 930
+                                "height": 1311,
+                                "width": 898
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0340/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0340/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000024.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 930,
-                    "height": 1308
+                    "width": 898,
+                    "height": 1311
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000024.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 898,
+            "height": 1311
         }
     ]
 }

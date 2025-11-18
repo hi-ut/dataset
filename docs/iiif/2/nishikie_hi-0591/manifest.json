@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0591/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "ゑんまの子",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "浅草寺大塔解譯（かいしやく）",
     "metadata": [
         {
             "label": "題名",
-            "value": "ゑんまの子"
+            "value": "浅草寺大塔解譯（かいしやく）"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(61)"
+            "value": "0380-12-(70)"
         },
         {
             "label": "画工名",
@@ -53,13 +50,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "安政大地震/閻魔"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "六道の辻番人や辻君もあじなゑんまの子とぞなりけるの歌あり"
+            "value": "安政大地震/浅草寺"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000080.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 878,
+        "height": 1324
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0591/sequence/normal",
@@ -68,42 +72,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0591/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1325,
+                    "label": "[1]",
+                    "height": 1324,
+                    "width": 878,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0591/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0591/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000070.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000080.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1325,
+                                "height": 1324,
                                 "width": 878
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000070.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000080.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1325,
-                        "width": 878
-                    },
-                    "width": 878
+                        "width": 878,
+                        "height": 1324
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000070.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1325,
-        "width": 878
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

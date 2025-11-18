@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0335/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "おいなまづ",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "さやあて",
     "metadata": [
         {
             "label": "題名",
-            "value": "おいなまづ"
+            "value": "さやあて"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-13-(12)"
+            "value": "0380-13-(17)"
         },
         {
             "label": "画工名",
@@ -52,18 +49,25 @@
             "value": "災害／地震"
         },
         {
-            "label": "細目",
-            "value": "鯰絵"
-        },
-        {
             "label": "その他固有件名",
-            "value": "安政大地震/仮宅"
+            "value": "安政大地震"
         },
         {
             "label": "その他書誌事項",
-            "value": "老松のかえうたあり、新吉原の仮宅場所付あり、０３８０－１２－（５３）も同一"
+            "value": "くわじ伴左衛門となまづ山三の詞あり、「さやあて」は歌舞伎の趣向の一つ"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 930,
+        "height": 1308
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0335/sequence/normal",
@@ -72,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0335/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1313,
+                    "label": "[1]",
+                    "height": 1308,
+                    "width": 930,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0335/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0335/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000013.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1313,
-                                "width": 896
+                                "height": 1308,
+                                "width": 930
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000013.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000018.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1313,
-                        "width": 896
-                    },
-                    "width": 896
+                        "width": 930,
+                        "height": 1308
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000013.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1313,
-        "width": 896
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

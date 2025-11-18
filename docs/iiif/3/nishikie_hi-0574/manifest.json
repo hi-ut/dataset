@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "地震よけの歌"
+            "おいなまづ"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "地震よけの歌"
+                    "おいなまづ"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(44)"
+                    "0380-12-(53)"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "まじない/安政大地震/鹿島大明神/大黒"
+                    "安政大地震/仮宅"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "水かみのつげにいのちをたすかりて六分のうちに入るぞうれしき、職人のよろこんでいる姿あり"
+                    "０３８０－１３－（１２）も同一、老松のかえうたあり、新吉原の仮宅場所附あり"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000050.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 878,
-            "height": 1319
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0574/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0574/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1319,
-            "width": 878,
+            "height": 1326,
+            "width": 871,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0574/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0574/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0574/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0574/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000050.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000062.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1319,
-                                "width": 878
+                                "height": 1326,
+                                "width": 871
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0574/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0574/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000050.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000062.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 878,
-                    "height": 1319
+                    "width": 871,
+                    "height": 1326
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000062.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 871,
+            "height": 1326
         }
     ]
 }

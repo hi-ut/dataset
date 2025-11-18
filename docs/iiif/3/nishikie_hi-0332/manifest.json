@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "どうが如来世直しちょぼくれ"
+            "自身除妙法"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "どうが如来世直しちょぼくれ"
+                    "自身除妙法"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(9)"
+                    "0380-13-(14)"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 １枚"
+                    "横絵 １枚"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/鬼/ちょぼくれ"
+                    "安政大地震/鹿島大明神"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "ちょぼくれあり"
+                    "「じしんよけのめうほう」、鹿島大明神の神話あり、０３８０－１２－（１９）と同一"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000010.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 888,
-            "height": 1312
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0332/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0332/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1312,
-            "width": 888,
+            "height": 907,
+            "width": 1305,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0332/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0332/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0332/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0332/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000010.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000015.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1312,
-                                "width": 888
+                                "height": 907,
+                                "width": 1305
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0332/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0332/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000010.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000015.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 888,
-                    "height": 1312
+                    "width": 1305,
+                    "height": 907
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000015.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1305,
+            "height": 907
         }
     ]
 }

@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "沢村田之助全快麻疹養生之事"
+            "（麻疹よけ品包紙か）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "沢村田之助全快麻疹養生之事"
+                    "（麻疹よけ品包紙か）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(24)"
+                    "0380-14-(29)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一松斎芳宗画"
+                    "なし"
                 ]
             }
         },
@@ -76,19 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久２年６月(18620060550)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "清水屋直次郎"
+                    "（文久２年）(18620550550)"
                 ]
             }
         },
@@ -100,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "大判"
+                    "29.7×19.5"
                 ]
             }
         },
@@ -112,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 １枚"
+                    "その他 １枚"
                 ]
             }
         },
@@ -124,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "錦絵"
+                    "あり、赤色のみ"
                 ]
             }
         },
@@ -136,31 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "検印"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "戌六改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "人名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "沢村田之助"
+                    "なし"
                 ]
             }
         },
@@ -179,12 +143,12 @@
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "その他固有件名"
                 ]
             },
             "value": {
                 "ja": [
-                    "役者絵"
+                    "為朝大明神/鍾馗/ダルマ"
                 ]
             }
         },
@@ -196,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "詞書、いい食物、わるい食物あり"
+                    "「疱瘡の身を富士ほどに山をあげ正気てすぐすたるま為とも」とあり"
                 ]
             }
         }
@@ -232,57 +196,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 905,
-            "height": 1306
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0388/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1306,
-            "width": 905,
+            "height": 1308,
+            "width": 861,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0388/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0388/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1306,
-                                "width": 905
+                                "height": 1308,
+                                "width": 861
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0388/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 905,
-                    "height": 1306
+                    "width": 861,
+                    "height": 1308
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 861,
+            "height": 1308
         }
     ]
 }

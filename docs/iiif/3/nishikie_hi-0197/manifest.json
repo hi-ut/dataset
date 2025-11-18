@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（諸品高山にて仕事するの図）"
+            "浮世はゆめだゆめだ"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（諸品高山にて仕事するの図）"
+                    "浮世はゆめだゆめだ"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(20)"
+                    "0380-17-4-(25)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "狂斎"
+                    "なし"
                 ]
             }
         },
@@ -76,31 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "慶応３年３月(18670030550)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "大金"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元住所"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "築地"
+                    "文久３年４月カ(18630040551)"
                 ]
             }
         },
@@ -124,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 ２枚続"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -148,19 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "検印"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "卯三改"
+                    "なし"
                 ]
             }
         },
@@ -172,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "ええじゃないか／世直し／金融／物価"
+                    "尊皇攘夷"
                 ]
             }
         },
@@ -185,6 +149,30 @@
             "value": {
                 "ja": [
                     "風刺画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "日傭取り/生麦事件/舟乗り"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "市中の物持ちが思案顔し、日傭取りと舟乗りが酒宴をひらいている画、０３８０－１７－１－（１２）も同一"
                 ]
             }
         }
@@ -220,98 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000050.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 858,
-            "height": 1278
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0197/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1278,
-            "width": 858,
+            "height": 1274,
+            "width": 874,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0197/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0197/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000050.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000056.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1278,
-                                "width": 858
+                                "height": 1274,
+                                "width": 874
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0197/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000050.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000056.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 858,
-                    "height": 1278
+                    "width": 874,
+                    "height": 1274
                 }
             ]
-        },
+        }
+    ],
+    "thumbnail": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p2",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[2]"
-                ]
-            },
-            "height": 1277,
-            "width": 863,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p2/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/p2-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000051.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1277,
-                                "width": 863
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0197/canvas/p2"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000051.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 863,
-                    "height": 1277
-                }
-            ]
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000056.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 874,
+            "height": 1274
         }
     ]
 }

@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0255/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "魁題百撰相　冷泉判官隆豊",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "魁題百撰相　根来小密茶",
     "metadata": [
         {
             "label": "題名",
-            "value": "魁題百撰相　冷泉判官隆豊"
+            "value": "魁題百撰相　根来小密茶"
         },
         {
             "label": "書名",
@@ -21,11 +18,11 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-9-(35)"
+            "value": "0380-9-(40)"
         },
         {
             "label": "画工名",
-            "value": "一魁斎芳年筆印"
+            "value": "一魁斎芳年筆"
         },
         {
             "label": "和暦年月日",
@@ -57,7 +54,7 @@
         },
         {
             "label": "人名",
-            "value": "雲峰散人/冷泉隆豊"
+            "value": "葛飾畑守/根来小密茶"
         },
         {
             "label": "主題",
@@ -69,9 +66,20 @@
         },
         {
             "label": "その他書誌事項",
-            "value": "雲峰散人筆記、冷泉は大内義隆の氏、陶と討い自刃"
+            "value": "根来寺の炮術名手、秀吉を狙いし人物"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000040.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 858,
+        "height": 1329
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0255/sequence/normal",
@@ -80,42 +88,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0255/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1327,
+                    "label": "[1]",
+                    "height": 1329,
+                    "width": 858,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0255/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0255/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000035.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000040.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1327,
+                                "height": 1329,
                                 "width": 858
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000035.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000040.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1327,
-                        "width": 858
-                    },
-                    "width": 858
+                        "width": 858,
+                        "height": 1329
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000035.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1327,
-        "width": 858
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

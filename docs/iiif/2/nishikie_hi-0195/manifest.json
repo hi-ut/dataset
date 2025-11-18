@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "当御開帳利益の友綱",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "火用心",
     "metadata": [
         {
             "label": "題名",
-            "value": "当御開帳利益の友綱"
+            "value": "火用心"
         },
         {
             "label": "書名",
@@ -21,19 +18,19 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-4-(18)"
+            "value": "0380-17-4-(23)"
         },
         {
             "label": "画工名",
-            "value": "国まさ筆（国政）"
+            "value": "一勇斎国芳画印"
         },
         {
             "label": "和暦年月日",
-            "value": "明治６年３月(18730030550)"
+            "value": "（嘉永５年）(18520550550)"
         },
         {
             "label": "版元名",
-            "value": "伊勢屋兼吉（伊勢兼）"
+            "value": "玉屋惣助（玉惣）"
         },
         {
             "label": "判",
@@ -41,7 +38,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -53,21 +50,28 @@
         },
         {
             "label": "検印",
-            "value": "酉三"
+            "value": "福/村松"
         },
         {
             "label": "主題",
-            "value": "文明開化／仏教"
+            "value": "災害／火消・消防"
         },
         {
-            "label": "その他固有件名",
-            "value": "成田山不動尊"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "明治６年４月５日成田山深川永代寺において１７日より６０日開帳につき、今日到着"
+            "label": "細目",
+            "value": "風景画"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000054.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 876,
+        "height": 1277
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/sequence/normal",
@@ -76,72 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1276,
+                    "label": "[1]",
+                    "height": 1277,
+                    "width": 876,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000047.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000054.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1276,
-                                "width": 861
+                                "height": 1277,
+                                "width": 876
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000047.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000054.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1276,
-                        "width": 861
-                    },
-                    "width": 861
-                },
-                {
-                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/canvas/p2",
-                    "@type": "sc:Canvas",
-                    "height": 1279,
-                    "images": [
-                        {
-                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/p2-image",
-                            "@type": "oa:Annotation",
-                            "format": "image/jpeg",
-                            "motivation": "sc:painting",
-                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0195/canvas/p2",
-                            "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000048.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "height": 1279,
-                                "width": 870
-                            }
-                        }
-                    ],
-                    "label": "[2]",
-                    "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000048.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "height": 1279,
-                        "width": 870
-                    },
-                    "width": 870
+                        "width": 876,
+                        "height": 1277
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000047.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1276,
-        "width": 861
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

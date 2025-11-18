@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "延寿安穏之見酔"
+            "東京開化名勝記雑司ヶ谷道山吹之井戸"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "延寿安穏之見酔"
+                    "東京開化名勝記雑司ヶ谷道山吹之井戸"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(36)"
+                    "0380-17-4-(41)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "惺々暁斎/孟斎"
                 ]
             }
         },
@@ -76,7 +76,31 @@
             },
             "value": {
                 "ja": [
-                    "文久３年４月カ(18630040551)"
+                    "明治６年８月(18730080550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "沢村板"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "彫師"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "彫銀"
                 ]
             }
         },
@@ -124,7 +148,43 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "酉八"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "地名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "雑司谷"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "太田道灌"
                 ]
             }
         },
@@ -136,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "尊皇攘夷"
+                    "歴史画／風景画／名所図絵"
                 ]
             }
         },
@@ -148,7 +208,7 @@
             },
             "value": {
                 "ja": [
-                    "風刺画"
+                    "風景画"
                 ]
             }
         },
@@ -160,19 +220,7 @@
             },
             "value": {
                 "ja": [
-                    "生麦事件"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "「ゑんじゅあんおんのみゑひ」、詞書ありて、見南山安心寺の例像とあり"
+                    "山吹の井戸"
                 ]
             }
         }
@@ -208,57 +256,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000067.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 870,
-            "height": 1280
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0213/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0213/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1280,
-            "width": 870,
+            "height": 1276,
+            "width": 871,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0213/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0213/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0213/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0213/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000067.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000074.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1280,
-                                "width": 870
+                                "height": 1276,
+                                "width": 871
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0213/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0213/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000067.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000074.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 870,
-                    "height": 1280
+                    "width": 871,
+                    "height": 1276
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000074.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 871,
+            "height": 1276
         }
     ]
 }

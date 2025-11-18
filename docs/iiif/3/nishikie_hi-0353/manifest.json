@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "狂画大津絵"
+            "むかしはなしさるかにがっせん"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "狂画大津絵"
+                    "むかしはなしさるかにがっせん"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(31)"
+                    "0380-13-(36)"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久期カ(55550550551)"
+                    "（安政元年）(18540550550)"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 １枚"
+                    "横絵 １枚"
                 ]
             }
         },
@@ -131,12 +131,12 @@
         {
             "label": {
                 "ja": [
-                    "主題"
+                    "人名"
                 ]
             },
             "value": {
                 "ja": [
-                    "尊皇攘夷"
+                    "市川団十郎（八代目）"
                 ]
             }
         },
@@ -160,7 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "大津絵"
+                    "昔話"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "詞書あり、八代目団十郎の自殺への諷刺、「さされたる　はちのいたみもおのれから　慾にころんだ猿の泣面」との歌あり"
                 ]
             }
         }
@@ -196,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000039.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 895,
-            "height": 1316
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0353/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0353/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1316,
-            "width": 895,
+            "height": 906,
+            "width": 1309,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0353/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0353/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0353/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0353/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000039.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1316,
-                                "width": 895
+                                "height": 906,
+                                "width": 1309
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0353/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0353/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000039.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 895,
-                    "height": 1316
+                    "width": 1309,
+                    "height": 906
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1309,
+            "height": 906
         }
     ]
 }

@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "近世義勇伝　佐和村軍六"
+            "東海道名所　大森"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "近世義勇伝　佐和村軍六"
+                    "東海道名所　大森"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "近世義勇伝"
+                    "将軍上洛東海道行列図"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-10-(22)"
+                    "0380-15-(4)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "箕輪其村画"
+                    "広重（二代）画"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "明治７年９月(18740090550)"
+                    "文久３年４月(18630040550)"
                 ]
             }
         },
@@ -88,7 +88,19 @@
             },
             "value": {
                 "ja": [
-                    "加藤寧蔭蔵板"
+                    "大金"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "築地"
                 ]
             }
         },
@@ -148,7 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "戌九"
+                    "亥四改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "地名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大森"
                 ]
             }
         },
@@ -160,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "伊藤燕国/佐和村軍六"
+                    "和中散（大森で三軒和中散を売っていたのが、江戸では有名なこと）"
                 ]
             }
         },
@@ -172,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "桜田門外の変"
+                    "将軍上洛"
                 ]
             }
         },
@@ -184,19 +208,7 @@
             },
             "value": {
                 "ja": [
-                    "肖像画"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "詞書あり、「伊藤円国述」とあり、佐和村は彦根藩士"
+                    "風景画"
                 ]
             }
         }
@@ -232,57 +244,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 858,
-            "height": 1281
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0422/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1281,
-            "width": 858,
+            "height": 1292,
+            "width": 868,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0422/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0422/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1281,
-                                "width": 858
+                                "height": 1292,
+                                "width": 868
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0422/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0422/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000022.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 858,
-                    "height": 1281
+                    "width": 868,
+                    "height": 1292
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000004.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 868,
+            "height": 1292
         }
     ]
 }

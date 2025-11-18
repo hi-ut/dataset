@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "当世武勇伝渋江内膳"
+            "当世武勇伝松本茂太郎"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "当世武勇伝渋江内膳"
+                    "当世武勇伝松本茂太郎"
                 ]
             }
         },
@@ -29,30 +29,6 @@
             "value": {
                 "ja": [
                     "当世武勇伝"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "所蔵機関"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "東京大学史料編纂所"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "請求記号"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "0180-3-2-1-(33)"
                 ]
             }
         },
@@ -160,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "渋江内膳"
+                    "松本茂太郎"
                 ]
             }
         },
@@ -196,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "詞書あり、秋田藩士、「四十四」とあり"
+                    "長州藩士、詞書あり、「十二」とあり"
                 ]
             }
         }
@@ -232,57 +208,6 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 877,
-            "height": 1193
-        }
-    ],
     "viewingDirection": "right-to-left",
-    "items": [
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[1]"
-                ]
-            },
-            "height": 1193,
-            "width": 877,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/canvas/p1/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/p1-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1193,
-                                "width": 877
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0727/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000033.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 877,
-                    "height": 1193
-                }
-            ]
-        }
-    ]
+    "items": []
 }

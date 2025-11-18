@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "魁題百撰相　平手監物"
+            "魁題百撰相　明石儀太夫"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "魁題百撰相　平手監物"
+                    "魁題百撰相　明石儀太夫"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-9-(34)"
+                    "0380-9-(39)"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "明治元年1０月(18680550550)"
+                    "明治元年９月カ(18680090551)"
                 ]
             }
         },
@@ -124,19 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "検印"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "辰十改"
+                    "なし"
                 ]
             }
         },
@@ -148,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "雲峰散人/平手監物"
+                    "雲峰散人/明石儀太夫"
                 ]
             }
         },
@@ -184,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "雲峰散人筆記、織田信長の臣"
+                    "雲峰散人略記"
                 ]
             }
         }
@@ -220,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000034.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 855,
-            "height": 1325
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0254/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0254/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1325,
-            "width": 855,
+            "height": 1331,
+            "width": 862,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0254/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0254/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0254/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0254/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000034.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000039.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1325,
-                                "width": 855
+                                "height": 1331,
+                                "width": 862
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0254/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0254/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000034.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000039.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 855,
-                    "height": 1325
+                    "width": 862,
+                    "height": 1331
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000039.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 862,
+            "height": 1331
         }
     ]
 }

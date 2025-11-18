@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "末広五十三次　石部"
+            "地震鞠うた"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "末広五十三次　石部"
+                    "地震鞠うた"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "末広五十三次"
+                    "地震及世態漫画集"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-8-(52)"
+                    "0380-13-(2)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "芳盛画"
+                    "なし"
                 ]
             }
         },
@@ -76,31 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "慶応元年閏５月(18650055550)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "相模屋藤吉（相ト）"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元住所"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "下谷"
+                    "（安政２年１０月）(18550100550)"
                 ]
             }
         },
@@ -148,31 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "検印"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "閏五改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "地名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "石部"
+                    "なし"
                 ]
             }
         },
@@ -184,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "長州征伐（禁門の変）"
+                    "災害／地震"
                 ]
             }
         },
@@ -196,7 +148,31 @@
             },
             "value": {
                 "ja": [
-                    "風景画"
+                    "鯰絵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "安政大地震"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "かぞえうたあり"
                 ]
             }
         }
@@ -232,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000052.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 854,
-            "height": 1290
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0320/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0320/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1290,
-            "width": 854,
+            "height": 1314,
+            "width": 899,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0320/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0320/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0320/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0320/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000052.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000003.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1290,
-                                "width": 854
+                                "height": 1314,
+                                "width": 899
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0320/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0320/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000052.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000003.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 854,
-                    "height": 1290
+                    "width": 899,
+                    "height": 1314
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000003.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 899,
+            "height": 1314
         }
     ]
 }

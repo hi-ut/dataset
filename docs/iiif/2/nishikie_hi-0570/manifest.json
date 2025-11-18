@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0570/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "（大震出火地震につ木)",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "なんぢうやかぢ仮宅",
     "metadata": [
         {
             "label": "題名",
-            "value": "（大震出火地震につ木)"
+            "value": "なんぢうやかぢ仮宅"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(40)"
+            "value": "0380-12-(49)"
         },
         {
             "label": "画工名",
@@ -37,7 +34,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "横絵 １枚"
         },
         {
             "label": "彩色",
@@ -57,13 +54,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "安政大地震"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "語末に木のつく洒落、作事職人のげん木、死亡あまたに親子のなけ木ｅｔｃ"
+            "value": "安政大地震/仮宅"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000056.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1318,
+        "height": 880
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0570/sequence/normal",
@@ -72,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0570/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1326,
+                    "label": "[1]",
+                    "height": 880,
+                    "width": 1318,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0570/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0570/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000046.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000056.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1326,
-                                "width": 874
+                                "height": 880,
+                                "width": 1318
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000046.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000056.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1326,
-                        "width": 874
-                    },
-                    "width": 874
+                        "width": 1318,
+                        "height": 880
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000046.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1326,
-        "width": 874
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

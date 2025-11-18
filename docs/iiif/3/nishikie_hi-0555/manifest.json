@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（諸人繁昌故なまづに礼をするの図）"
+            "瓢覃"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（諸人繁昌故なまづに礼をするの図）"
+                    "瓢覃"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(24)"
+                    "0380-12-(33)"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震"
+                    "安政大地震/仮宅"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "鳶、あなぐら大工、土方、骨接ぎ、左官、材木屋、四文屋、大工、中間、屋根屋、駕籠屋、医者が礼をいっている図"
+                    "職人が仮宅で景気の話をする、詞書あり、えんまの子が出ている"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1318,
-            "height": 873
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0555/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 873,
-            "width": 1318,
+            "height": 876,
+            "width": 1317,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0555/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0555/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 873,
-                                "width": 1318
+                                "height": 876,
+                                "width": 1317
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0555/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1318,
-                    "height": 873
+                    "width": 1317,
+                    "height": 876
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1317,
+            "height": 876
         }
     ]
 }

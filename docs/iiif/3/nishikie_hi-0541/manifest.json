@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "骨抜どうせうなまづ大家破焼"
+            "自身除妙法（じしんよけのめうほう）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "骨抜どうせうなまづ大家破焼"
+                    "自身除妙法（じしんよけのめうほう）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(10)"
+                    "0380-12-(19)"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/樺焼"
+                    "安政大地震/鹿島大明神"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "芸者、呉服屋、料理屋、貸本屋、おどり、講釈、唐物、三味線、囲者、話家、碁、小道具、茶人、勧化、かみくづひろい、船頭などの会話"
+                    "鹿島大明神の神話あり、０３８０－１３－（１４）と同一"
                 ]
             }
         }
@@ -208,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000013.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1324,
-            "height": 883
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0541/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0541/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 883,
+            "height": 876,
             "width": 1324,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0541/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0541/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0541/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0541/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000013.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 883,
+                                "height": 876,
                                 "width": 1324
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0541/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0541/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000013.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "width": 1324,
-                    "height": 883
+                    "height": 876
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1324,
+            "height": 876
         }
     ]
 }

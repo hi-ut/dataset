@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "正一位為朝大明神の由来"
+            "老まつ"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "正一位為朝大明神の由来"
+                    "老まつ"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(12)"
+                    "0380-17-4-(17)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "玉蘭斎貞秀画"
+                    "広重画印"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "弘化４〜嘉永５年(18520550550)"
+                    "明治元年閏４月(18680045550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "井筒屋"
+                    "丸屋平次郎（丸平）"
                 ]
             }
         },
@@ -148,7 +148,7 @@
             },
             "value": {
                 "ja": [
-                    "浜/馬込"
+                    "辰閏改"
                 ]
             }
         },
@@ -160,7 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "疾病（衛生）／麻疹"
+                    "戊辰戦争"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風刺画"
                 ]
             }
         },
@@ -172,19 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "護符/為朝大明神"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "疱瘡神７人の手判をとったとの詞書あり"
+                    "老松"
                 ]
             }
         }
@@ -220,98 +220,98 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000033.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 862,
-            "height": 1273
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1273,
-            "width": 862,
+            "height": 1277,
+            "width": 869,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000033.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000046.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1273,
-                                "width": 862
+                                "height": 1277,
+                                "width": 869
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000033.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000046.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 862,
-                    "height": 1273
+                    "width": 869,
+                    "height": 1277
                 }
             ]
         },
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p2",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p2",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[2]"
                 ]
             },
-            "height": 1277,
-            "width": 857,
+            "height": 1282,
+            "width": 856,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p2/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p2/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/p2-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/p2-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000034.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000045.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1277,
-                                "width": 857
+                                "height": 1282,
+                                "width": 856
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0189/canvas/p2"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0189/canvas/p2"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000034.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000045.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 857,
-                    "height": 1277
+                    "width": 856,
+                    "height": 1282
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000046.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 869,
+            "height": 1277
         }
     ]
 }

@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "八月八日有卦に入木性の人"
+            "流行麻疹けん"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "八月八日有卦に入木性の人"
+                    "流行麻疹けん"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "地震及世態漫画集"
+                    "文久麻疹流行漫画集"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(39)"
+                    "0380-14-(2)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一秀斎芳勝画印"
+                    "芳艶画"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "（嘉永２年）(18490550550)"
+                    "文久２年７月(18620070550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "柳岡"
+                    "亀屋岩吉"
                 ]
             }
         },
@@ -112,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "横絵 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -148,7 +148,19 @@
             },
             "value": {
                 "ja": [
-                    "福/村松"
+                    "戌七改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "春亭"
                 ]
             }
         },
@@ -160,7 +172,31 @@
             },
             "value": {
                 "ja": [
-                    "暦／有卦絵"
+                    "疾病（衛生）／麻疹"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風刺画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "拳"
                 ]
             }
         },
@@ -172,7 +208,7 @@
             },
             "value": {
                 "ja": [
-                    "「福助とおふくと二世の酒くみて夫婦福々ふえる子たから」の歌あり　嘉永２年の暦に８月８日の件あり"
+                    "春亭戯述、食物あり、拳の言葉あり"
                 ]
             }
         }
@@ -208,57 +244,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000047.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1308,
-            "height": 900
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0361/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0361/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 900,
-            "width": 1308,
+            "height": 1308,
+            "width": 854,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0361/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0361/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0361/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0361/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000047.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 900,
-                                "width": 1308
+                                "height": 1308,
+                                "width": 854
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0361/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0361/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000047.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1308,
-                    "height": 900
+                    "width": 854,
+                    "height": 1308
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000002.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 854,
+            "height": 1308
         }
     ]
 }

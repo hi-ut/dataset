@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（たらようの葉にまじないの図）"
+            "（四谷新宿正受院脱衣婆に諸人祈願の図）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（たらようの葉にまじないの図）"
+                    "（四谷新宿正受院脱衣婆に諸人祈願の図）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(27)"
+                    "0380-17-4-(32)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "芳盛戯画"
+                    "一勇斎国芳戯画印"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久２年４月(18620040550)"
+                    "嘉永２年カ(18490550551)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "古賀屋勝五郎"
+                    "辻岡屋文助"
                 ]
             }
         },
@@ -148,19 +148,7 @@
             },
             "value": {
                 "ja": [
-                    "戌四改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "人名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "山崎文蔵"
+                    "福/村松"
                 ]
             }
         },
@@ -172,7 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "疾病（衛生）／麻疹"
+                    "文明開化／仏教"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "奪衣婆"
                 ]
             }
         },
@@ -184,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "むぎどのハ生れぬさきにはしかしてかせての後はわが子なりけり、此度はしか流行にて、諸人難儀ニ及ぶもの多し、右の人々たらやうといふ木の葉へ、右の歌を書、印の所へ灸を三火つつすへ、川へ流すべし、必あやまちなきことうたがひなし、但、葉のなきときハ此ゑをきりぬき流してよし、本郷金助丁、むしおさへ、山さき文蔵、とあり"
+                    "武江年表に「嘉永２年…今年より四谷新宿後正受院安置の奪衣婆の像へ諸願をかくる事おこなはれ、日毎に参詣群集し百度参等をなす」とあり"
                 ]
             }
         }
@@ -220,57 +220,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000058.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 867,
-            "height": 1279
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0204/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0204/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1279,
-            "width": 867,
+            "height": 1284,
+            "width": 872,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0204/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0204/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0204/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0204/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000058.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000063.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1279,
-                                "width": 867
+                                "height": 1284,
+                                "width": 872
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0204/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0204/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000058.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000063.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 867,
-                    "height": 1279
+                    "width": 872,
+                    "height": 1284
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000063.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 872,
+            "height": 1284
         }
     ]
 }

@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "はしかの養生",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "妙医甲斐徳本痳疹之来記",
     "metadata": [
         {
             "label": "題名",
-            "value": "はしかの養生"
+            "value": "妙医甲斐徳本痳疹之来記"
         },
         {
             "label": "書名",
@@ -21,23 +18,23 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-14-(7)"
+            "value": "0380-14-(12)"
         },
         {
             "label": "画工名",
-            "value": "一松斎芳宗"
+            "value": "芳藤画"
         },
         {
             "label": "和暦年月日",
-            "value": "文久２年４月(18620040550)"
+            "value": "文久２年７月(18620070550)"
         },
         {
             "label": "版元名",
-            "value": "よめず"
+            "value": "相模屋藤吉（相ト）"
         },
         {
             "label": "版元住所",
-            "value": "通三"
+            "value": "下谷"
         },
         {
             "label": "判",
@@ -45,7 +42,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -57,25 +54,36 @@
         },
         {
             "label": "検印",
-            "value": "戌四改"
+            "value": "戌七改"
+        },
+        {
+            "label": "人名",
+            "value": "岳亭春信/甲斐徳本/文の屋仲丸"
         },
         {
             "label": "主題",
             "value": "疾病（衛生）／麻疹"
         },
         {
-            "label": "細目",
-            "value": "風刺画"
-        },
-        {
             "label": "その他固有件名",
-            "value": "ほうそう神/はしか神"
+            "value": "講釈"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書あり"
+            "value": "詞書は岳亭春信、替歌は文の屋仲丸、「薬用と手当をさきにするがなる富士とあげたる山もなにかは」"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000015.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 851,
+        "height": 1302
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/sequence/normal",
@@ -84,42 +92,62 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1299,
+                    "label": "[1]",
+                    "height": 1302,
+                    "width": 851,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000015.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1299,
-                                "width": 853
+                                "height": 1302,
+                                "width": 851
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000015.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1299,
-                        "width": 853
-                    },
-                    "width": 853
+                        "width": 851,
+                        "height": 1302
+                    }
+                },
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "height": 1307,
+                    "width": 851,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0371/canvas/p2",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1307,
+                                "width": 851
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000014.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 851,
+                        "height": 1307
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000009.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1299,
-        "width": 853
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

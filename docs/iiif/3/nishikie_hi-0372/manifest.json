@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（むぎどのは生れぬ先にはしかして云々まじない）"
+            "麻疹禁忌"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（むぎどのは生れぬ先にはしかして云々まじない）"
+                    "麻疹禁忌"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(8)"
+                    "0380-14-(13)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "芳盛戯画"
+                    "芳藤画"
                 ]
             }
         },
@@ -88,7 +88,19 @@
             },
             "value": {
                 "ja": [
-                    "太田屋多吉（多吉）"
+                    "相模屋藤吉（相ト）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "下谷"
                 ]
             }
         },
@@ -155,6 +167,18 @@
         {
             "label": {
                 "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "神農"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "主題"
                 ]
             },
@@ -167,24 +191,12 @@
         {
             "label": {
                 "ja": [
-                    "細目"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "風刺画"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
                     "その他書誌事項"
                 ]
             },
             "value": {
                 "ja": [
-                    "「むぎどのハ生れぬ先にはしかしてかせての後ハわが子なりけり」とのまじないあり、これをたらようの葉にかいている、毒だてやうじやうあり"
+                    "禁忌と宜品あり"
                 ]
             }
         }
@@ -220,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000010.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 845,
-            "height": 1306
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0372/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0372/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1306,
-            "width": 845,
+            "height": 1310,
+            "width": 849,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0372/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0372/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0372/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0372/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000010.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000016.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1306,
-                                "width": 845
+                                "height": 1310,
+                                "width": 849
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0372/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0372/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000010.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000016.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 845,
-                    "height": 1306
+                    "width": 849,
+                    "height": 1310
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000016.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 849,
+            "height": 1310
         }
     ]
 }

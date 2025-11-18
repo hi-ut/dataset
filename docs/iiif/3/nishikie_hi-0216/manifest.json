@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "丙午歳五月十六日土水性の人うけニ入"
+            "魁題百撰相　羽柴太閤豊臣秀吉公"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "丙午歳五月十六日土水性の人うけニ入"
+                    "魁題百撰相　羽柴太閤豊臣秀吉公"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "維新前後諷刺画　四"
+                    "魁題百撰相"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-4-(39)"
+                    "0380-9-(1)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "春斎改一宝斎国盛画"
+                    "一魁斎芳年筆印"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "（弘化３年）(18460550550)"
+                    "明治元年９月(18680090550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "辻屋安兵衛（辻安）"
+                    "大橋"
                 ]
             }
         },
@@ -148,7 +148,19 @@
             },
             "value": {
                 "ja": [
-                    "村松"
+                    "辰九改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "豊臣秀吉/清流子華川"
                 ]
             }
         },
@@ -160,7 +172,19 @@
             },
             "value": {
                 "ja": [
-                    "暦／有卦絵"
+                    "歴史画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "肖像画"
                 ]
             }
         },
@@ -172,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "口上茶番あり"
+                    "詞書　清流子華川述"
                 ]
             }
         }
@@ -208,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000070.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 843,
-            "height": 1282
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0216/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0216/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1282,
-            "width": 843,
+            "height": 1318,
+            "width": 860,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0216/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0216/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0216/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0216/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000070.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000001.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1282,
-                                "width": 843
+                                "height": 1318,
+                                "width": 860
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0216/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0216/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000003/00000070.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000001.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 843,
-                    "height": 1282
+                    "width": 860,
+                    "height": 1318
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000001.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 860,
+            "height": 1318
         }
     ]
 }

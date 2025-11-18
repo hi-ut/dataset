@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "魁題百撰相　鳥井彦右衛門元忠"
+            "魁題百撰相　鬼小島弥太郎"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "魁題百撰相　鳥井彦右衛門元忠"
+                    "魁題百撰相　鬼小島弥太郎"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-9-(17)"
+                    "0380-9-(22)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一魁斎芳年筆"
+                    "一魁斎芳年筆印"
                 ]
             }
         },
@@ -76,7 +76,19 @@
             },
             "value": {
                 "ja": [
-                    "明治元年９月カ(18680090551)"
+                    "明治元年1０月(18680550550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "大橋"
                 ]
             }
         },
@@ -124,7 +136,19 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "辰十改"
                 ]
             }
         },
@@ -136,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "雲峰山人/鳥居元忠"
+                    "雲峰散人/鬼小島弥太郎"
                 ]
             }
         },
@@ -172,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "雲峰散人筆記、鳥居の経歴おかしい"
+                    "雲峰散人筆記、上杉謙信の家来"
                 ]
             }
         }
@@ -208,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000017.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 858,
-            "height": 1330
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0237/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0237/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1330,
-            "width": 858,
+            "height": 1329,
+            "width": 867,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0237/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0237/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0237/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0237/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000017.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000022.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1330,
-                                "width": 858
+                                "height": 1329,
+                                "width": 867
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0237/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0237/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000017.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000022.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 858,
-                    "height": 1330
+                    "width": 867,
+                    "height": 1329
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000022.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 867,
+            "height": 1329
         }
     ]
 }

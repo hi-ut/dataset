@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0550/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "自身除妙法（じしんよけのめうほう）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "金持をゆすりにきたか大地震",
     "metadata": [
         {
             "label": "題名",
-            "value": "自身除妙法（じしんよけのめうほう）"
+            "value": "金持をゆすりにきたか大地震"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(19)"
+            "value": "0380-12-(28)"
         },
         {
             "label": "画工名",
@@ -57,13 +54,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "安政大地震/鹿島大明神"
-        },
-        {
-            "label": "その他書誌事項",
-            "value": "鹿島大明神の神話あり、０３８０－１３－（１４）と同一"
+            "value": "安政大地震"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000033.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1322,
+        "height": 871
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0550/sequence/normal",
@@ -72,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0550/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 876,
+                    "label": "[1]",
+                    "height": 871,
+                    "width": 1322,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0550/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0550/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000033.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 876,
-                                "width": 1324
+                                "height": 871,
+                                "width": 1322
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000033.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 876,
-                        "width": 1324
-                    },
-                    "width": 1324
+                        "width": 1322,
+                        "height": 871
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000023.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 876,
-        "width": 1324
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

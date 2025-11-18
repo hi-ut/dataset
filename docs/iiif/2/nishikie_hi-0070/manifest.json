@@ -2,18 +2,15 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "（なるこもりの図）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "金になる木金にならぬ木",
     "metadata": [
         {
             "label": "題名",
-            "value": "（なるこもりの図）"
+            "value": "金になる木金にならぬ木"
         },
         {
             "label": "書名",
-            "value": "維新前後諷刺画　一"
+            "value": "維新前後諷刺画　二"
         },
         {
             "label": "所蔵機関",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-1-(65)"
+            "value": "0380-17-2-(2)"
         },
         {
             "label": "画工名",
@@ -29,7 +26,7 @@
         },
         {
             "label": "和暦年月日",
-            "value": "慶応期カ(55550550551)"
+            "value": "文久３年４月カ(18630040551)"
         },
         {
             "label": "判",
@@ -37,7 +34,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
@@ -49,17 +46,32 @@
         },
         {
             "label": "主題",
-            "value": "ええじゃないか／世直し／戯び"
+            "value": "尊皇攘夷"
         },
         {
             "label": "細目",
             "value": "風刺画"
         },
         {
+            "label": "その他固有件名",
+            "value": "生麦事件"
+        },
+        {
             "label": "その他書誌事項",
-            "value": "０３８０－１３－（２６）と同一"
+            "value": "あふな木が横浜の商人となっているので、文久３年４月カとする"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 872,
+        "height": 1345
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/sequence/normal",
@@ -68,72 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1342,
+                    "label": "[1]",
+                    "height": 1345,
+                    "width": 872,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000125.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1342,
-                                "width": 880
+                                "height": 1345,
+                                "width": 872
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000125.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1342,
-                        "width": 880
-                    },
-                    "width": 880
-                },
-                {
-                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/canvas/p2",
-                    "@type": "sc:Canvas",
-                    "height": 1339,
-                    "images": [
-                        {
-                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/p2-image",
-                            "@type": "oa:Annotation",
-                            "format": "image/jpeg",
-                            "motivation": "sc:painting",
-                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0070/canvas/p2",
-                            "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000126.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "height": 1339,
-                                "width": 884
-                            }
-                        }
-                    ],
-                    "label": "[2]",
-                    "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000126.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "height": 1339,
-                        "width": 884
-                    },
-                    "width": 884
+                        "width": 872,
+                        "height": 1345
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000125.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1342,
-        "width": 880
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

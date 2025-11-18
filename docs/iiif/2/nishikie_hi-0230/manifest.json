@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0230/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "魁題百撰相　会津黄門景勝",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "魁題百撰相　薄田隼人",
     "metadata": [
         {
             "label": "題名",
-            "value": "魁題百撰相　会津黄門景勝"
+            "value": "魁題百撰相　薄田隼人"
         },
         {
             "label": "書名",
@@ -21,11 +18,11 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-9-(10)"
+            "value": "0380-9-(15)"
         },
         {
             "label": "画工名",
-            "value": "一魁斎芳年筆"
+            "value": "一魁斎芳年筆印"
         },
         {
             "label": "和暦年月日",
@@ -57,7 +54,11 @@
         },
         {
             "label": "人名",
-            "value": "松平容保/雲峰散人/上杉景勝"
+            "value": "雲峰散人/薄田隼人"
+        },
+        {
+            "label": "主題",
+            "value": "歴史画"
         },
         {
             "label": "細目",
@@ -65,9 +66,20 @@
         },
         {
             "label": "その他書誌事項",
-            "value": "雲峰散人筆記、松平容保を寓意"
+            "value": "雲峰散人筆記"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000015.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 864,
+        "height": 939
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0230/sequence/normal",
@@ -76,42 +88,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0230/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1325,
+                    "label": "[1]",
+                    "height": 939,
+                    "width": 864,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0230/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0230/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000010.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000015.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1325,
-                                "width": 851
+                                "height": 939,
+                                "width": 864
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000010.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000015.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1325,
-                        "width": 851
-                    },
-                    "width": 851
+                        "width": 864,
+                        "height": 939
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000010.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1325,
-        "width": 851
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

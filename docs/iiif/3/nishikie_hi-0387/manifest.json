@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "麻疹心得草"
+            "（京丸山御軽焼包紙）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "麻疹心得草"
+                    "（京丸山御軽焼包紙）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(23)"
+                    "0380-14-(28)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "芳藤画"
+                    "なし"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久２年７月(18620070550)"
+                    "（文久２年）(18620550550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "相模屋藤吉（相ト）"
+                    "岩附屋清三郎"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "下谷"
+                    "元大坂町"
                 ]
             }
         },
@@ -112,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "大判"
+                    "その他"
                 ]
             }
         },
@@ -124,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "横絵 １枚"
+                    "その他 １枚"
                 ]
             }
         },
@@ -148,31 +148,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "検印"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "戌七改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "主題"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "女性／育児／疾病（衛生）／麻疹"
+                    "なし"
                 ]
             }
         },
@@ -184,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "食事風景"
+                    "軽焼/ダルマ/桃太郎"
                 ]
             }
         },
@@ -196,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "詞書あり"
+                    "34.6×22.9㎝、「此かる焼は私一家の製法にて…・疱痘はしかに功能あり、元大坂町岩附屋清三郎」とあり"
                 ]
             }
         }
@@ -232,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000026.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1296,
-            "height": 856
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0387/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0387/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 856,
-            "width": 1296,
+            "height": 1301,
+            "width": 857,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0387/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0387/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0387/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0387/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000026.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000031.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 856,
-                                "width": 1296
+                                "height": 1301,
+                                "width": 857
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0387/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0387/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000026.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000031.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1296,
-                    "height": 856
+                    "width": 857,
+                    "height": 1301
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000031.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 857,
+            "height": 1301
         }
     ]
 }

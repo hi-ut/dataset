@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "雷鳴遠近図画",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "おどけはなし",
     "metadata": [
         {
             "label": "題名",
-            "value": "雷鳴遠近図画"
+            "value": "おどけはなし"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(2)"
+            "value": "0380-12-(11)"
         },
         {
             "label": "画工名",
@@ -29,37 +26,52 @@
         },
         {
             "label": "和暦年月日",
-            "value": "（嘉永３年８月）(18500080550)"
+            "value": "（安政２年１０月）(18550100550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "36.2×24.3"
         },
         {
             "label": "形態",
-            "value": "竪絵 ２枚続"
+            "value": "竪絵 １枚"
         },
         {
             "label": "彩色",
-            "value": "錦絵"
+            "value": "単色"
         },
         {
             "label": "検印状況",
+            "value": "あり"
+        },
+        {
+            "label": "検印",
             "value": "なし"
         },
         {
             "label": "主題",
-            "value": "災害／飢饉"
+            "value": "災害／地震"
         },
         {
             "label": "その他固有件名",
-            "value": "雷神"
+            "value": "安政大地震"
         },
         {
             "label": "その他書誌事項",
-            "value": "落雷場所附あり、嘉永３年８月８日大落雷、各鬼のことばあり"
+            "value": "地震・雷・火事・親父にかけた落しばなし"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 882,
+        "height": 1325
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/sequence/normal",
@@ -68,72 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1311,
+                    "label": "[1]",
+                    "height": 1325,
+                    "width": 882,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1311,
-                                "width": 896
+                                "height": 1325,
+                                "width": 882
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1311,
-                        "width": 896
-                    },
-                    "width": 896
-                },
-                {
-                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p2",
-                    "@type": "sc:Canvas",
-                    "height": 1315,
-                    "images": [
-                        {
-                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/p2-image",
-                            "@type": "oa:Annotation",
-                            "format": "image/jpeg",
-                            "motivation": "sc:painting",
-                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p2",
-                            "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000003.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "height": 1315,
-                                "width": 874
-                            }
-                        }
-                    ],
-                    "label": "[2]",
-                    "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000003.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "height": 1315,
-                        "width": 874
-                    },
-                    "width": 874
+                        "width": 882,
+                        "height": 1325
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1311,
-        "width": 896
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

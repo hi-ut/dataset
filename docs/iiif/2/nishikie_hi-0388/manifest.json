@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "沢村田之助全快麻疹養生之事",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "（麻疹よけ品包紙か）",
     "metadata": [
         {
             "label": "題名",
-            "value": "沢村田之助全快麻疹養生之事"
+            "value": "（麻疹よけ品包紙か）"
         },
         {
             "label": "書名",
@@ -21,57 +18,56 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-14-(24)"
+            "value": "0380-14-(29)"
         },
         {
             "label": "画工名",
-            "value": "一松斎芳宗画"
+            "value": "なし"
         },
         {
             "label": "和暦年月日",
-            "value": "文久２年６月(18620060550)"
-        },
-        {
-            "label": "版元名",
-            "value": "清水屋直次郎"
+            "value": "（文久２年）(18620550550)"
         },
         {
             "label": "判",
-            "value": "大判"
+            "value": "29.7×19.5"
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "その他 １枚"
         },
         {
             "label": "彩色",
-            "value": "錦絵"
+            "value": "あり、赤色のみ"
         },
         {
             "label": "検印状況",
-            "value": "あり"
-        },
-        {
-            "label": "検印",
-            "value": "戌六改"
-        },
-        {
-            "label": "人名",
-            "value": "沢村田之助"
+            "value": "なし"
         },
         {
             "label": "主題",
             "value": "疾病（衛生）／麻疹"
         },
         {
-            "label": "細目",
-            "value": "役者絵"
+            "label": "その他固有件名",
+            "value": "為朝大明神/鍾馗/ダルマ"
         },
         {
             "label": "その他書誌事項",
-            "value": "詞書、いい食物、わるい食物あり"
+            "value": "「疱瘡の身を富士ほどに山をあげ正気てすぐすたるま為とも」とあり"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 861,
+        "height": 1308
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/sequence/normal",
@@ -80,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1306,
+                    "label": "[1]",
+                    "height": 1308,
+                    "width": 861,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0388/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1306,
-                                "width": 905
+                                "height": 1308,
+                                "width": 861
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1306,
-                        "width": 905
-                    },
-                    "width": 905
+                        "width": 861,
+                        "height": 1308
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000027.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1306,
-        "width": 905
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

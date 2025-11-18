@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "流行はしかしる粉"
+            "痳疹養生心得"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "流行はしかしる粉"
+                    "痳疹養生心得"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(11)"
+                    "0380-14-(16)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "芳虎画"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "（文久２年）(18620550550)"
+                    "文久２年７月(18620070550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "はし賀屋病蔵"
+                    "大黒屋吉之助"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "うま屋丁繁昌目"
+                    "深川仲町"
                 ]
             }
         },
@@ -112,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "中判"
+                    "大判"
                 ]
             }
         },
@@ -124,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "その他 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -136,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
+                    "錦絵"
                 ]
             }
         },
@@ -148,19 +148,19 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "人名"
+                    "検印"
                 ]
             },
             "value": {
                 "ja": [
-                    "済田"
+                    "戌四改"
                 ]
             }
         },
@@ -179,12 +179,12 @@
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "その他固有件名"
                 ]
             },
             "value": {
                 "ja": [
-                    "外国人"
+                    "為朝大明神"
                 ]
             }
         },
@@ -196,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "17.0×21.8㎝、済田病後記とあり、引札形式のパロディ"
+                    "禁物、よきもの"
                 ]
             }
         }
@@ -232,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 849,
-            "height": 1303
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0375/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0375/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1303,
-            "width": 849,
+            "height": 1306,
+            "width": 853,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0375/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0375/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0375/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0375/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000019.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1303,
-                                "width": 849
+                                "height": 1306,
+                                "width": 853
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0375/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0375/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000019.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 849,
-                    "height": 1303
+                    "width": 853,
+                    "height": 1306
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000019.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 853,
+            "height": 1306
         }
     ]
 }

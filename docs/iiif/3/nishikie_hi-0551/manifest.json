@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "恵比寿天申誤之記"
+            "大黒のつち動かして市中に宝の山を積ぞめでたき"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "恵比寿天申誤之記"
+                    "大黒のつち動かして市中に宝の山を積ぞめでたき"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(20)"
+                    "0380-12-(29)"
                 ]
             }
         },
@@ -131,6 +131,18 @@
         {
             "label": {
                 "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "紀の長丸"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "主題"
                 ]
             },
@@ -160,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/鹿島大明神/恵比寿"
+                    "安政大地震/大黒"
                 ]
             }
         },
@@ -172,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "詞書あり"
+                    "歌のあとに紀の長丸とあり"
                 ]
             }
         }
@@ -208,57 +220,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000024.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1322,
-            "height": 868
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0551/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0551/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 868,
-            "width": 1322,
+            "height": 870,
+            "width": 1326,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0551/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0551/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0551/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0551/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000024.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000034.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 868,
-                                "width": 1322
+                                "height": 870,
+                                "width": 1326
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0551/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0551/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000024.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000034.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1322,
-                    "height": 868
+                    "width": 1326,
+                    "height": 870
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000034.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1326,
+            "height": 870
         }
     ]
 }

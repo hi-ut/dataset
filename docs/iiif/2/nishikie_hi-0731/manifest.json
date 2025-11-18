@@ -2,26 +2,15 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0731/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "当世武勇伝高田五次兵衛",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "当世武勇伝根木源五左衛門",
     "metadata": [
         {
             "label": "題名",
-            "value": "当世武勇伝高田五次兵衛"
+            "value": "当世武勇伝根木源五左衛門"
         },
         {
             "label": "書名",
             "value": "当世武勇伝"
-        },
-        {
-            "label": "所蔵機関",
-            "value": "東京大学史料編纂所"
-        },
-        {
-            "label": "請求記号",
-            "value": "0180-4-(31)"
         },
         {
             "label": "画工名",
@@ -57,7 +46,7 @@
         },
         {
             "label": "人名",
-            "value": "高田五次兵衛"
+            "value": "根木源五左衛門"
         },
         {
             "label": "主題",
@@ -69,53 +58,11 @@
         },
         {
             "label": "その他書誌事項",
-            "value": "肥後家中、「三十五」とあり"
+            "value": "詞書あり、黒田藩士、「十八」とあり"
         }
     ],
-    "sequences": [
-        {
-            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0731/sequence/normal",
-            "@type": "sc:Sequence",
-            "canvases": [
-                {
-                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0731/canvas/p1",
-                    "@type": "sc:Canvas",
-                    "height": 1190,
-                    "images": [
-                        {
-                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0731/p1-image",
-                            "@type": "oa:Annotation",
-                            "format": "image/jpeg",
-                            "motivation": "sc:painting",
-                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0731/canvas/p1",
-                            "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000044.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "height": 1190,
-                                "width": 846
-                            }
-                        }
-                    ],
-                    "label": "[1]",
-                    "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000044.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "image/jpeg",
-                        "height": 1190,
-                        "width": 846
-                    },
-                    "width": 846
-                }
-            ]
-        }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000044.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1190,
-        "width": 846
-    },
-    "viewingDirection": "right-to-left"
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico"
 }

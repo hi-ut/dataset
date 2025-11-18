@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "当世武勇伝武広九一"
+            "当世武勇伝土田清摩"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "当世武勇伝武広九一"
+                    "当世武勇伝土田清摩"
                 ]
             }
         },
@@ -29,30 +29,6 @@
             "value": {
                 "ja": [
                     "当世武勇伝"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "所蔵機関"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "東京大学史料編纂所"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "請求記号"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "0180-4-(30)"
                 ]
             }
         },
@@ -160,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "武広九一"
+                    "土田清摩"
                 ]
             }
         },
@@ -196,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "北越戦争"
+                    "上野戦争"
                 ]
             }
         },
@@ -208,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "長州藩士、詞書あり、「三十四」とあり"
+                    "詞書あり、久留米藩士、「十七」とあり"
                 ]
             }
         }
@@ -244,57 +220,6 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000043.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 842,
-            "height": 1198
-        }
-    ],
     "viewingDirection": "right-to-left",
-    "items": [
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0730/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[1]"
-                ]
-            },
-            "height": 1198,
-            "width": 842,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0730/canvas/p1/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0730/p1-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000043.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1198,
-                                "width": 842
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0730/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000043.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 842,
-                    "height": 1198
-                }
-            ]
-        }
-    ]
+    "items": []
 }

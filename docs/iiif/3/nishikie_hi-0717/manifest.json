@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "東海道坂ノ下"
+            "当世武勇伝小室弥四郎"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "東海道坂ノ下"
+                    "当世武勇伝小室弥四郎"
                 ]
             }
         },
@@ -28,19 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "東海道絵図"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "所蔵機関"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "東京大学史料編纂所"
+                    "当世武勇伝"
                 ]
             }
         },
@@ -52,7 +40,7 @@
             },
             "value": {
                 "ja": [
-                    "0180-2-(49)"
+                    "0180-3-1-(2)"
                 ]
             }
         },
@@ -64,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "広重画"
+                    "花陽楼国員画印"
                 ]
             }
         },
@@ -76,7 +64,31 @@
             },
             "value": {
                 "ja": [
-                    "文久３年８月(18630080550)"
+                    "（明治元年）(18680550550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "川伝（川テン）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "（大阪）"
                 ]
             }
         },
@@ -124,31 +136,19 @@
             },
             "value": {
                 "ja": [
-                    "あり"
+                    "なし"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "検印"
+                    "人名"
                 ]
             },
             "value": {
                 "ja": [
-                    "亥八改"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "地名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "坂ノ下"
+                    "小室弥四郎"
                 ]
             }
         },
@@ -160,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "将軍上洛"
+                    "戊辰戦争"
                 ]
             }
         },
@@ -172,7 +172,31 @@
             },
             "value": {
                 "ja": [
-                    "風景画"
+                    "肖像画"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "舟橋戦争"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "その他書誌事項"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "詞書あり、黒田家藩士、「二」とあり"
                 ]
             }
         }
@@ -208,57 +232,6 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000049.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 911,
-            "height": 1186
-        }
-    ],
     "viewingDirection": "right-to-left",
-    "items": [
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0717/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[1]"
-                ]
-            },
-            "height": 1186,
-            "width": 911,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0717/canvas/p1/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0717/p1-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000049.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1186,
-                                "width": 911
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0717/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000049.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 911,
-                    "height": 1186
-                }
-            ]
-        }
-    ]
+    "items": []
 }

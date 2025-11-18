@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（麻疹よけ品包紙か）"
+            "近世義勇伝　有村次左衛門"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（麻疹よけ品包紙か）"
+                    "近世義勇伝　有村次左衛門"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "文久麻疹流行漫画集"
+                    "近世義勇伝"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(32)"
+                    "0380-10-(1)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "一英斎芳艶画"
                 ]
             }
         },
@@ -76,7 +76,19 @@
             },
             "value": {
                 "ja": [
-                    "（文久２年）(18620550550)"
+                    "明治７年９月？(18740090552)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "加藤寧蔭蔵板"
                 ]
             }
         },
@@ -88,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "その他"
+                    "大判"
                 ]
             }
         },
@@ -100,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "その他 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -112,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり、赤色のみ"
+                    "錦絵"
                 ]
             }
         },
@@ -131,24 +143,36 @@
         {
             "label": {
                 "ja": [
-                    "主題"
+                    "人名"
                 ]
             },
             "value": {
                 "ja": [
-                    "疾病（衛生）／麻疹"
+                    "有村次左衛門"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "その他固有件名"
+                    "主題"
                 ]
             },
             "value": {
                 "ja": [
-                    "ダルマ/犬張子"
+                    "桜田門外の変"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "肖像画"
                 ]
             }
         },
@@ -160,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "33.2×22.4㎝、「さえさえとたるまに似たる疱瘡の其身に軽き犬張子かな」とあり"
+                    "詞書あり"
                 ]
             }
         }
@@ -196,57 +220,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000035.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 853,
-            "height": 1308
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0396/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0396/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1308,
-            "width": 853,
+            "height": 1275,
+            "width": 862,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0396/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0396/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0396/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0396/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000035.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000001.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1308,
-                                "width": 853
+                                "height": 1275,
+                                "width": 862
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0396/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0396/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000035.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000001.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 853,
-                    "height": 1308
+                    "width": 862,
+                    "height": 1275
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000001.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 862,
+            "height": 1275
         }
     ]
 }

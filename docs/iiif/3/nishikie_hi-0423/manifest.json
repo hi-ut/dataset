@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "近世義勇伝　草部鍬五郎"
+            "東海道　川崎"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "近世義勇伝　草部鍬五郎"
+                    "東海道　川崎"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "近世義勇伝"
+                    "将軍上洛東海道行列図"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-10-(23)"
+                    "0380-15-(5)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "箕輪其村画"
+                    "広重（二代目）画"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "明治７年９月(18740090550)"
+                    "文久３年４月(18630040550)"
                 ]
             }
         },
@@ -88,7 +88,19 @@
             },
             "value": {
                 "ja": [
-                    "加藤寧蔭蔵版"
+                    "丸屋鉄次郎（丸鉄）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "通二"
                 ]
             }
         },
@@ -148,19 +160,19 @@
             },
             "value": {
                 "ja": [
-                    "戌九"
+                    "亥四改"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "人名"
+                    "地名"
                 ]
             },
             "value": {
                 "ja": [
-                    "宝井琴凌/草部鍬五郎"
+                    "川崎/多摩川"
                 ]
             }
         },
@@ -172,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "桜田門外の変"
+                    "将軍上洛"
                 ]
             }
         },
@@ -184,19 +196,19 @@
             },
             "value": {
                 "ja": [
-                    "肖像画"
+                    "風景画"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "その他書誌事項"
+                    "その他固有件名"
                 ]
             },
             "value": {
                 "ja": [
-                    "詞書あり、「宝井琴凌述」とあり"
+                    "川船"
                 ]
             }
         }
@@ -232,57 +244,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000023.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 860,
-            "height": 1310
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0423/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0423/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1310,
-            "width": 860,
+            "height": 1291,
+            "width": 864,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0423/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0423/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0423/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0423/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000023.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000005.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1310,
-                                "width": 860
+                                "height": 1291,
+                                "width": 864
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0423/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0423/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000016/00000023.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000005.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 860,
-                    "height": 1310
+                    "width": 864,
+                    "height": 1291
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000005.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 864,
+            "height": 1291
         }
     ]
 }

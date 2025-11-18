@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0463/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "東海道　金谷",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "東海道　白須賀",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道　金谷"
+            "value": "東海道　白須賀"
         },
         {
             "label": "書名",
@@ -21,11 +18,11 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-15-(36)"
+            "value": "0380-15-(45)"
         },
         {
             "label": "画工名",
-            "value": "芳盛画"
+            "value": "一蘭斎国綱画（二代）"
         },
         {
             "label": "和暦年月日",
@@ -33,7 +30,15 @@
         },
         {
             "label": "版元名",
-            "value": "福忠"
+            "value": "越嘉"
+        },
+        {
+            "label": "版元住所",
+            "value": "深川"
+        },
+        {
+            "label": "彫師",
+            "value": "片田彫長"
         },
         {
             "label": "判",
@@ -57,7 +62,7 @@
         },
         {
             "label": "地名",
-            "value": "金谷"
+            "value": "白須賀"
         },
         {
             "label": "主題",
@@ -69,9 +74,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "蓮台/大井川"
+            "value": "常灯明/富士見松"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000045.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 868,
+        "height": 1285
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0463/sequence/normal",
@@ -80,42 +96,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0463/canvas/p1",
                     "@type": "sc:Canvas",
+                    "label": "[1]",
                     "height": 1285,
+                    "width": 868,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0463/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0463/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000036.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000045.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 1285,
-                                "width": 866
+                                "width": 868
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000036.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000045.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1285,
-                        "width": 866
-                    },
-                    "width": 866
+                        "width": 868,
+                        "height": 1285
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000036.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1285,
-        "width": 866
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

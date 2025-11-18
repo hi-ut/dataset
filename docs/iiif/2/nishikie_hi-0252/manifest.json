@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0252/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "魁題百撰相　小幡助六郎信世",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "魁題百撰相　佐久間大学",
     "metadata": [
         {
             "label": "題名",
-            "value": "魁題百撰相　小幡助六郎信世"
+            "value": "魁題百撰相　佐久間大学"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-9-(32)"
+            "value": "0380-9-(37)"
         },
         {
             "label": "画工名",
@@ -56,10 +53,6 @@
             "value": "辰十改"
         },
         {
-            "label": "人名",
-            "value": "葛飾畑守/小幡助六郎信世"
-        },
-        {
             "label": "主題",
             "value": "歴史画"
         },
@@ -69,9 +62,20 @@
         },
         {
             "label": "その他書誌事項",
-            "value": "かつしか畑守誌、石田方の士、自刃"
+            "value": "雲峰散人筆記、織田の臣"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000037.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 860,
+        "height": 1330
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0252/sequence/normal",
@@ -80,42 +84,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0252/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1328,
+                    "label": "[1]",
+                    "height": 1330,
+                    "width": 860,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0252/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0252/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000032.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000037.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1328,
-                                "width": 852
+                                "height": 1330,
+                                "width": 860
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000032.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000037.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1328,
-                        "width": 852
-                    },
-                    "width": 852
+                        "width": 860,
+                        "height": 1330
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000014/00000032.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1328,
-        "width": 852
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

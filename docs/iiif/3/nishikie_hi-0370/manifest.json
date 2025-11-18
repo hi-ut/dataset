@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "大津ゑぶし"
+            "流行はしかしる粉"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "大津ゑぶし"
+                    "流行はしかしる粉"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(6)"
+                    "0380-14-(11)"
                 ]
             }
         },
@@ -83,12 +83,36 @@
         {
             "label": {
                 "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "はし賀屋病蔵"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "うま屋丁繁昌目"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "判"
                 ]
             },
             "value": {
                 "ja": [
-                    "大判"
+                    "中判"
                 ]
             }
         },
@@ -100,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 １枚"
+                    "その他 １枚"
                 ]
             }
         },
@@ -112,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "錦絵"
+                    "あり"
                 ]
             }
         },
@@ -125,6 +149,18 @@
             "value": {
                 "ja": [
                     "なし"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "済田"
                 ]
             }
         },
@@ -148,19 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "風刺画"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他固有件名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "大津絵節/ほうそう神/はしか神"
+                    "外国人"
                 ]
             }
         },
@@ -172,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "大津ゑぶしあり"
+                    "17.0×21.8㎝、済田病後記とあり、引札形式のパロディ"
                 ]
             }
         }
@@ -208,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000008.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 852,
-            "height": 1302
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0370/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0370/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1302,
-            "width": 852,
+            "height": 1303,
+            "width": 849,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0370/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0370/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0370/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0370/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000008.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1302,
-                                "width": 852
+                                "height": 1303,
+                                "width": 849
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0370/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0370/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000008.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 852,
-                    "height": 1302
+                    "width": 849,
+                    "height": 1303
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000013.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 849,
+            "height": 1303
         }
     ]
 }

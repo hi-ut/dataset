@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "当世武勇伝上田甚五右衛門"
+            "当世武勇伝長井音次郎"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "当世武勇伝上田甚五右衛門"
+                    "当世武勇伝長井音次郎"
                 ]
             }
         },
@@ -29,30 +29,6 @@
             "value": {
                 "ja": [
                     "当世武勇伝"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "所蔵機関"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "東京大学史料編纂所"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "請求記号"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "0180-4-(35)"
                 ]
             }
         },
@@ -160,7 +136,7 @@
             },
             "value": {
                 "ja": [
-                    "上田甚五右衛門"
+                    "長井音次郎"
                 ]
             }
         },
@@ -191,12 +167,24 @@
         {
             "label": {
                 "ja": [
+                    "その他固有件名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "上野戦争"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "その他書誌事項"
                 ]
             },
             "value": {
                 "ja": [
-                    "阿波藩士、詞書あり、「三十九」とあり"
+                    "藤堂家家臣、詞書あり、「二十」とあり"
                 ]
             }
         }
@@ -232,57 +220,6 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000046.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 846,
-            "height": 1192
-        }
-    ],
     "viewingDirection": "right-to-left",
-    "items": [
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0733/canvas/p1",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[1]"
-                ]
-            },
-            "height": 1192,
-            "width": 846,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0733/canvas/p1/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0733/p1-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000046.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1192,
-                                "width": 846
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0733/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000056/00000046.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 846,
-                    "height": 1192
-                }
-            ]
-        }
-    ]
+    "items": []
 }

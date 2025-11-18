@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "元治元甲子年十一月十五日子ノ刻火性ノ人有卦ニ入"
+            "麻疹退治"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "元治元甲子年十一月十五日子ノ刻火性ノ人有卦ニ入"
+                    "麻疹退治"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "地震及世態漫画集"
+                    "文久麻疹流行漫画集"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(40)"
+                    "0380-14-(3)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一光斎芳盛戯画印"
+                    "切断"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "元治元年１０月(18640100550)"
+                    "文久２年７月(18620070550)"
                 ]
             }
         },
@@ -88,7 +88,19 @@
             },
             "value": {
                 "ja": [
-                    "上金"
+                    "湊屋小兵衛（湊小版）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元住所"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "（浅草）並木"
                 ]
             }
         },
@@ -148,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "子十改"
+                    "戌七改"
                 ]
             }
         },
@@ -160,19 +172,19 @@
             },
             "value": {
                 "ja": [
-                    "暦／有卦絵"
+                    "疾病（衛生）／麻疹"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "その他固有件名"
+                    "細目"
                 ]
             },
             "value": {
                 "ja": [
-                    "ふかし芋"
+                    "風刺画"
                 ]
             }
         },
@@ -184,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "「午年迄７ヶ年之間万吉」"
+                    "禁物、よき物あり"
                 ]
             }
         }
@@ -220,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000048.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 898,
-            "height": 1313
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0362/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0362/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1313,
-            "width": 898,
+            "height": 1303,
+            "width": 849,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0362/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0362/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0362/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0362/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000048.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000003.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1313,
-                                "width": 898
+                                "height": 1303,
+                                "width": 849
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0362/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0362/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000048.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000003.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 898,
-                    "height": 1313
+                    "width": 849,
+                    "height": 1303
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000003.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 849,
+            "height": 1303
         }
     ]
 }

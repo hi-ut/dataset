@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "（ないない尽し）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "しめたしめた袋の鼡",
     "metadata": [
         {
             "label": "題名",
-            "value": "（ないない尽し）"
+            "value": "しめたしめた袋の鼡"
         },
         {
             "label": "書名",
@@ -21,15 +18,19 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-2-(6)"
+            "value": "0380-17-2-(11)"
         },
         {
             "label": "画工名",
-            "value": "なし"
+            "value": "応需歌しけ戯画（歌重）"
         },
         {
             "label": "和暦年月日",
-            "value": "文久３年４月頃(18630040770)"
+            "value": "明治元年閏４月(18680045550)"
+        },
+        {
+            "label": "版元名",
+            "value": "小島屋重兵衛"
         },
         {
             "label": "判",
@@ -37,7 +38,7 @@
         },
         {
             "label": "形態",
-            "value": "竪絵 １枚"
+            "value": "竪絵 ２枚続"
         },
         {
             "label": "彩色",
@@ -45,21 +46,36 @@
         },
         {
             "label": "検印状況",
-            "value": "なし"
+            "value": "あり"
+        },
+        {
+            "label": "検印",
+            "value": "辰閏改"
         },
         {
             "label": "主題",
-            "value": "尊皇攘夷"
+            "value": "戊辰戦争"
         },
         {
-            "label": "その他固有件名",
-            "value": "生麦事件/読売り"
+            "label": "細目",
+            "value": "風刺画"
         },
         {
             "label": "その他書誌事項",
-            "value": "横浜町人仕方が無い、今度の評議ハ分からないで終っている"
+            "value": "タコは会津か、子供は桑名"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000017.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 867,
+        "height": 1344
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/sequence/normal",
@@ -68,42 +84,62 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1341,
+                    "label": "[1]",
+                    "height": 1344,
+                    "width": 867,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000008.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000017.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1341,
-                                "width": 868
+                                "height": 1344,
+                                "width": 867
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000008.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000017.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1341,
-                        "width": 868
-                    },
-                    "width": 868
+                        "width": 867,
+                        "height": 1344
+                    }
+                },
+                {
+                    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "[2]",
+                    "height": 1346,
+                    "width": 867,
+                    "images": [
+                        {
+                            "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0079/canvas/p2",
+                            "resource": {
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1346,
+                                "width": 867
+                            }
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000016.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 867,
+                        "height": 1346
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000008.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1341,
-        "width": 868
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

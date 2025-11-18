@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "生捕ました三度の大地震"
+            "万歳楽鯰の後悔"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "生捕ました三度の大地震"
+                    "万歳楽鯰の後悔"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(25)"
+                    "0380-12-(34)"
                 ]
             }
         },
@@ -160,19 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "安政大地震/鹿島大明神/樺焼"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "大工、鳶、左官、屋根屋、香具師が助命嘆願をする図"
+                    "安政大地震"
                 ]
             }
         }
@@ -208,57 +196,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000030.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1325,
-            "height": 875
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0556/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0556/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 875,
-            "width": 1325,
+            "height": 880,
+            "width": 1327,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0556/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0556/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0556/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0556/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000030.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000039.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 875,
-                                "width": 1325
+                                "height": 880,
+                                "width": 1327
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0556/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0556/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000030.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000039.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1325,
-                    "height": 875
+                    "width": 1327,
+                    "height": 880
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000039.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 1327,
+            "height": 880
         }
     ]
 }

@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0671/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "東海道川崎",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "東海道三嶋",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道川崎"
+            "value": "東海道三嶋"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0180-2-(3)"
+            "value": "0180-2-(12)"
         },
         {
             "label": "画工名",
@@ -29,7 +26,7 @@
         },
         {
             "label": "和暦年月日",
-            "value": "（文久３年カ）(18630550551)"
+            "value": "文久３年カ(18630550551)"
         },
         {
             "label": "判",
@@ -49,7 +46,7 @@
         },
         {
             "label": "地名",
-            "value": "川崎"
+            "value": "三島"
         },
         {
             "label": "主題",
@@ -58,12 +55,19 @@
         {
             "label": "細目",
             "value": "風景画"
-        },
-        {
-            "label": "その他固有件名",
-            "value": "川船"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000012.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 913,
+        "height": 1180
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0671/sequence/normal",
@@ -72,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0671/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1177,
+                    "label": "[1]",
+                    "height": 1180,
+                    "width": 913,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0671/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0671/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000003.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000012.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1177,
-                                "width": 917
+                                "height": 1180,
+                                "width": 913
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000003.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000012.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1177,
-                        "width": 917
-                    },
-                    "width": 917
+                        "width": 913,
+                        "height": 1180
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000046/00000003.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1177,
-        "width": 917
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "〔雷療治の図〕"
+            "風流葉唄尽"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "〔雷療治の図〕"
+                    "風流葉唄尽"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(1)"
+                    "0380-13-(6)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "応需為直画印"
+                    "なし"
                 ]
             }
         },
@@ -76,31 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "（嘉永３年８月）(18500080550)"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "？"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "版元住所"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "？"
+                    "（安政２年１０月）(18550100550)"
                 ]
             }
         },
@@ -124,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 ２枚続"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -136,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "あり"
+                    "錦絵"
                 ]
             }
         },
@@ -155,12 +131,36 @@
         {
             "label": {
                 "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風雷山人"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "主題"
                 ]
             },
             "value": {
                 "ja": [
-                    "災害／飢饉"
+                    "災害／地震"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "鯰絵"
                 ]
             }
         },
@@ -172,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "雷神"
+                    "安政大地震/鬼"
                 ]
             }
         },
@@ -184,7 +184,7 @@
             },
             "value": {
                 "ja": [
-                    "嘉永３年８月８日江戸大雷の諷刺、黒、青、赤の３色、落雷場所附けあり、それぞれの鬼のことばあり"
+                    "風雷山人戯述、雨風とあり、端唄あり"
                 ]
             }
         }
@@ -220,98 +220,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000001.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 897,
-            "height": 1316
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0324/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1316,
-            "width": 897,
+            "height": 1314,
+            "width": 899,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0324/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0324/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000001.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000007.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1316,
-                                "width": 897
+                                "height": 1314,
+                                "width": 899
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0324/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000001.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000007.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 897,
-                    "height": 1316
+                    "width": 899,
+                    "height": 1314
                 }
             ]
-        },
+        }
+    ],
+    "thumbnail": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p2",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[2]"
-                ]
-            },
-            "height": 1308,
-            "width": 892,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p2/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/p2-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000002.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1308,
-                                "width": 892
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0324/canvas/p2"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000002.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 892,
-                    "height": 1308
-                }
-            ]
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000007.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 899,
+            "height": 1314
         }
     ]
 }

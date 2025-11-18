@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0285/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "末広五十三次　由井",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "末広五十三次　岡部",
     "metadata": [
         {
             "label": "題名",
-            "value": "末広五十三次　由井"
+            "value": "末広五十三次　岡部"
         },
         {
             "label": "書名",
@@ -21,11 +18,11 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-8-(17)"
+            "value": "0380-8-(22)"
         },
         {
             "label": "画工名",
-            "value": "五雲亭貞秀画"
+            "value": "芳年筆印"
         },
         {
             "label": "和暦年月日",
@@ -49,7 +46,7 @@
         },
         {
             "label": "地名",
-            "value": "由井"
+            "value": "岡部"
         },
         {
             "label": "主題",
@@ -61,9 +58,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "薩陀峠"
+            "value": "宇津之山"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000022.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 849,
+        "height": 1292
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0285/sequence/normal",
@@ -72,42 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0285/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1291,
+                    "label": "[1]",
+                    "height": 1292,
+                    "width": 849,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0285/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0285/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000022.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1291,
-                                "width": 850
+                                "height": 1292,
+                                "width": 849
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000022.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1291,
-                        "width": 850
-                    },
-                    "width": 850
+                        "width": 849,
+                        "height": 1292
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000061/00000017.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1291,
-        "width": 850
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

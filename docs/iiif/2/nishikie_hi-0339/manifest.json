@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0339/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "（ないない尽し）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "地震後野宿の図",
     "metadata": [
         {
             "label": "題名",
-            "value": "（ないない尽し）"
+            "value": "地震後野宿の図"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-13-(16)"
+            "value": "0380-13-(22)"
         },
         {
             "label": "画工名",
@@ -29,7 +26,7 @@
         },
         {
             "label": "和暦年月日",
-            "value": "（文久３年３月）(18630030550)"
+            "value": "（安政２年１０月）(18550100550)"
         },
         {
             "label": "判",
@@ -49,17 +46,28 @@
         },
         {
             "label": "主題",
-            "value": "尊皇攘夷"
+            "value": "災害／地震"
         },
         {
             "label": "その他固有件名",
-            "value": "生麦事件/読売り"
+            "value": "安政大地震"
         },
         {
             "label": "その他書誌事項",
-            "value": "おわりは「こんどのひやうぎハわからない」"
+            "value": "詞書あり"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000023.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 891,
+        "height": 1312
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0339/sequence/normal",
@@ -68,42 +76,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0339/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1318,
+                    "label": "[1]",
+                    "height": 1312,
+                    "width": 891,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0339/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0339/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000017.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000023.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1318,
-                                "width": 887
+                                "height": 1312,
+                                "width": 891
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000017.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000023.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1318,
-                        "width": 887
-                    },
-                    "width": 887
+                        "width": 891,
+                        "height": 1312
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000017.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1318,
-        "width": 887
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

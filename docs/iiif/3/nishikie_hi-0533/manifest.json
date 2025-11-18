@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "雷鳴遠近図画"
+            "おどけはなし"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "雷鳴遠近図画"
+                    "おどけはなし"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-12-(2)"
+                    "0380-12-(11)"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "（嘉永３年８月）(18500080550)"
+                    "（安政２年１０月）(18550100550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "大判"
+                    "36.2×24.3"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 ２枚続"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -112,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "錦絵"
+                    "単色"
                 ]
             }
         },
@@ -120,6 +120,18 @@
             "label": {
                 "ja": [
                     "検印状況"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "あり"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "検印"
                 ]
             },
             "value": {
@@ -136,7 +148,7 @@
             },
             "value": {
                 "ja": [
-                    "災害／飢饉"
+                    "災害／地震"
                 ]
             }
         },
@@ -148,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "雷神"
+                    "安政大地震"
                 ]
             }
         },
@@ -160,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "落雷場所附あり、嘉永３年８月８日大落雷、各鬼のことばあり"
+                    "地震・雷・火事・親父にかけた落しばなし"
                 ]
             }
         }
@@ -196,98 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 896,
-            "height": 1311
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0533/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1311,
-            "width": 896,
+            "height": 1325,
+            "width": 882,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0533/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0533/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1311,
-                                "width": 896
+                                "height": 1325,
+                                "width": 882
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0533/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000002.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 896,
-                    "height": 1311
+                    "width": 882,
+                    "height": 1325
                 }
             ]
-        },
+        }
+    ],
+    "thumbnail": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p2",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[2]"
-                ]
-            },
-            "height": 1315,
-            "width": 874,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p2/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/p2-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000003.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1315,
-                                "width": 874
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0533/canvas/p2"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000003.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 874,
-                    "height": 1315
-                }
-            ]
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000014.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 882,
+            "height": 1325
         }
     ]
 }

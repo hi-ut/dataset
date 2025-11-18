@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "（麻疹よけ品包紙か）"
+            "（疱瘡守護神妙正大明神護符）"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "（麻疹よけ品包紙か）"
+                    "（疱瘡守護神妙正大明神護符）"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-14-(29)"
+                    "0380-14-(34)"
                 ]
             }
         },
@@ -83,12 +83,24 @@
         {
             "label": {
                 "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "下総国千足村（この名の村なし）"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "判"
                 ]
             },
             "value": {
                 "ja": [
-                    "29.7×19.5"
+                    "その他"
                 ]
             }
         },
@@ -100,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "その他 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -112,7 +124,7 @@
             },
             "value": {
                 "ja": [
-                    "あり、赤色のみ"
+                    "単色摺物"
                 ]
             }
         },
@@ -148,7 +160,7 @@
             },
             "value": {
                 "ja": [
-                    "為朝大明神/鍾馗/ダルマ"
+                    "護符/妙正大明神"
                 ]
             }
         },
@@ -160,7 +172,7 @@
             },
             "value": {
                 "ja": [
-                    "「疱瘡の身を富士ほどに山をあげ正気てすぐすたるま為とも」とあり"
+                    "27.0×11.3㎝"
                 ]
             }
         }
@@ -196,57 +208,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 861,
-            "height": 1308
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0393/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0393/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1308,
-            "width": 861,
+            "height": 945,
+            "width": 403,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0393/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0393/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0393/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0393/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000037.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1308,
-                                "width": 861
+                                "height": 945,
+                                "width": 403
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0393/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0393/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000032.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000037.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 861,
-                    "height": 1308
+                    "width": 403,
+                    "height": 945
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000037.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 403,
+            "height": 945
         }
     ]
 }

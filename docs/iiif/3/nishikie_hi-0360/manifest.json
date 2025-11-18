@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "木性の人酉年八月五日酉の刻有卦に入"
+            "道行旅路花聟"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "木性の人酉年八月五日酉の刻有卦に入"
+                    "道行旅路花聟"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "ja": [
-                    "地震及世態漫画集"
+                    "文久麻疹流行漫画集"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(38)"
+                    "0380-14-(1)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "一鵬斎芳藤画"
+                    "了古戯墨"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久元年７月(18610070550)"
+                    "文久２年７月(18620070550)"
                 ]
             }
         },
@@ -88,7 +88,7 @@
             },
             "value": {
                 "ja": [
-                    "辻岡屋"
+                    "伊勢庄"
                 ]
             }
         },
@@ -148,7 +148,19 @@
             },
             "value": {
                 "ja": [
-                    "酉七改"
+                    "戌七改"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "済田"
                 ]
             }
         },
@@ -160,7 +172,19 @@
             },
             "value": {
                 "ja": [
-                    "暦／有卦絵"
+                    "疾病（衛生）／麻疹"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "細目"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "風刺画"
                 ]
             }
         },
@@ -172,7 +196,7 @@
             },
             "value": {
                 "ja": [
-                    "「不老不死の薬はふじにありときけばふぶきふみわけ登るふる事」とあり"
+                    "「しにゆきさびしのはなむけ」、済田病後記とあり、替歌あり、道行旅路花聟は清元、天保４年初演"
                 ]
             }
         }
@@ -208,57 +232,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 900,
-            "height": 1315
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0360/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0360/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1315,
-            "width": 900,
+            "height": 1301,
+            "width": 855,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0360/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0360/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0360/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0360/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000001.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1315,
-                                "width": 900
+                                "height": 1301,
+                                "width": 855
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0360/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0360/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000046.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000001.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 900,
-                    "height": 1315
+                    "width": 855,
+                    "height": 1301
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000060/00000001.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 855,
+            "height": 1301
         }
     ]
 }

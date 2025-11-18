@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0443/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "東海道　箱根",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "東海道　蒲原",
     "metadata": [
         {
             "label": "題名",
-            "value": "東海道　箱根"
+            "value": "東海道　蒲原"
         },
         {
             "label": "書名",
@@ -21,11 +18,11 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-15-(20)"
+            "value": "0380-15-(25)"
         },
         {
             "label": "画工名",
-            "value": "一光斎芳盛画"
+            "value": "広重（二代目）画"
         },
         {
             "label": "和暦年月日",
@@ -33,7 +30,7 @@
         },
         {
             "label": "版元名",
-            "value": "太田屋多吉（多吉）"
+            "value": "丸屋甚八（丸甚板）"
         },
         {
             "label": "判",
@@ -57,7 +54,7 @@
         },
         {
             "label": "地名",
-            "value": "箱根"
+            "value": "蒲原"
         },
         {
             "label": "主題",
@@ -69,9 +66,20 @@
         },
         {
             "label": "その他固有件名",
-            "value": "箱根関所"
+            "value": "富士川"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000025.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 866,
+        "height": 1287
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0443/sequence/normal",
@@ -80,42 +88,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0443/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1289,
+                    "label": "[1]",
+                    "height": 1287,
+                    "width": 866,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0443/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0443/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000020.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000025.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1289,
+                                "height": 1287,
                                 "width": 866
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000020.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000025.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1289,
-                        "width": 866
-                    },
-                    "width": 866
+                        "width": 866,
+                        "height": 1287
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000033/00000020.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1289,
-        "width": 866
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

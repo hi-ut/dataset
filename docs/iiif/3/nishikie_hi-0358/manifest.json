@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "むかしはなしさるかにがっせん"
+            "十一月十五日火性の人うけニ入"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "むかしはなしさるかにがっせん"
+                    "十一月十五日火性の人うけニ入"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-13-(36)"
+                    "0380-13-(41)"
                 ]
             }
         },
@@ -64,7 +64,7 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "一梅斎芳春画印"
                 ]
             }
         },
@@ -76,7 +76,19 @@
             },
             "value": {
                 "ja": [
-                    "（安政元年）(18540550550)"
+                    "元治元年１０月(18640100550)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
+                    "版元名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "辻岡屋文助（辻文板）"
                 ]
             }
         },
@@ -100,7 +112,7 @@
             },
             "value": {
                 "ja": [
-                    "横絵 １枚"
+                    "竪絵 １枚"
                 ]
             }
         },
@@ -124,55 +136,31 @@
             },
             "value": {
                 "ja": [
-                    "なし"
+                    "あり"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "人名"
+                    "検印"
                 ]
             },
             "value": {
                 "ja": [
-                    "市川団十郎（八代目）"
+                    "子十改"
                 ]
             }
         },
         {
             "label": {
                 "ja": [
-                    "細目"
+                    "主題"
                 ]
             },
             "value": {
                 "ja": [
-                    "風刺画"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他固有件名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "昔話"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
-                    "その他書誌事項"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "詞書あり、八代目団十郎の自殺への諷刺、「さされたる　はちのいたみもおのれから　慾にころんだ猿の泣面」との歌あり"
+                    "暦／有卦絵"
                 ]
             }
         }
@@ -208,57 +196,57 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 1309,
-            "height": 906
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0358/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0358/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 906,
-            "width": 1309,
+            "height": 1313,
+            "width": 898,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0358/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0358/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0358/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0358/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000049.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 906,
-                                "width": 1309
+                                "height": 1313,
+                                "width": 898
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0358/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0358/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000044.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000049.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 1309,
-                    "height": 906
+                    "width": 898,
+                    "height": 1313
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000044/00000049.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 898,
+            "height": 1313
         }
     ]
 }

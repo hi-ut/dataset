@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "正札附身切もの大安売仕候",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "子供遊力くらべ",
     "metadata": [
         {
             "label": "題名",
-            "value": "正札附身切もの大安売仕候"
+            "value": "子供遊力くらべ"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-17-2-(15)"
+            "value": "0380-17-2-(20)"
         },
         {
             "label": "画工名",
@@ -53,17 +50,28 @@
         },
         {
             "label": "細目",
-            "value": "風刺画"
+            "value": "子供絵"
         },
         {
             "label": "その他固有件名",
-            "value": "呉服屋"
+            "value": "相撲"
         },
         {
             "label": "その他書誌事項",
-            "value": "薩摩、土佐、長州、紀州、尾張、肥後、黒田、天璋院、和宮、輪王寺"
+            "value": "彦根、長州、土佐、藤堂、薩摩、桑名、徳川慶喜、庄内、仙台、会津、明治天皇、加賀、勅使"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000035.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 870,
+        "height": 1352
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/sequence/normal",
@@ -72,72 +80,62 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 1347,
+                    "label": "[1]",
+                    "height": 1352,
+                    "width": 870,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000024.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000035.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1347,
-                                "width": 866
+                                "height": 1352,
+                                "width": 870
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000024.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000035.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1347,
-                        "width": 866
-                    },
-                    "width": 866
+                        "width": 870,
+                        "height": 1352
+                    }
                 },
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/canvas/p2",
                     "@type": "sc:Canvas",
-                    "height": 1345,
+                    "label": "[2]",
+                    "height": 1349,
+                    "width": 868,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/p2-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0088/canvas/p2",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000025.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000034.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1345,
-                                "width": 865
+                                "height": 1349,
+                                "width": 868
                             }
                         }
                     ],
-                    "label": "[2]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000025.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000034.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 1345,
-                        "width": 865
-                    },
-                    "width": 865
+                        "width": 868,
+                        "height": 1349
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000024.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 1347,
-        "width": 866
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

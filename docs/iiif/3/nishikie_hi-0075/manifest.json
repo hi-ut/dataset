@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "ja": [
-            "金になる木金にならぬ木"
+            "世界之穂羅会"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "ja": [
-                    "金になる木金にならぬ木"
+                    "世界之穂羅会"
                 ]
             }
         },
@@ -52,7 +52,7 @@
             },
             "value": {
                 "ja": [
-                    "0380-17-2-(2)"
+                    "0380-17-2-(7)"
                 ]
             }
         },
@@ -76,7 +76,7 @@
             },
             "value": {
                 "ja": [
-                    "文久３年４月カ(18630040551)"
+                    "慶応２年末カ(18660550551)"
                 ]
             }
         },
@@ -100,7 +100,7 @@
             },
             "value": {
                 "ja": [
-                    "竪絵 １枚"
+                    "竪絵 ２枚続"
                 ]
             }
         },
@@ -131,12 +131,24 @@
         {
             "label": {
                 "ja": [
+                    "人名"
+                ]
+            },
+            "value": {
+                "ja": [
+                    "徳川慶喜"
+                ]
+            }
+        },
+        {
+            "label": {
+                "ja": [
                     "主題"
                 ]
             },
             "value": {
                 "ja": [
-                    "尊皇攘夷"
+                    "長州征伐（禁門の変）"
                 ]
             }
         },
@@ -155,24 +167,12 @@
         {
             "label": {
                 "ja": [
-                    "その他固有件名"
-                ]
-            },
-            "value": {
-                "ja": [
-                    "生麦事件"
-                ]
-            }
-        },
-        {
-            "label": {
-                "ja": [
                     "その他書誌事項"
                 ]
             },
             "value": {
                 "ja": [
-                    "あふな木が横浜の商人となっているので、文久３年４月カとする"
+                    "「せかいのほらがい」、法螺貝が「こうがんばってはうごきはねへ是からサアサアやっつけろやっつけろ」、見ている人が「にっほん一のほらだほらだホイ是はぶたかしらん」、はなをつまんでいる大伴黒主は轡紋、見ている山伏の袴にはタコが書かれている、ブタは徳川慶喜、薩摩あり"
                 ]
             }
         }
@@ -208,57 +208,98 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 872,
-            "height": 1345
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0075/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
                     "[1]"
                 ]
             },
-            "height": 1345,
-            "width": 872,
+            "height": 1341,
+            "width": 875,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0075/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0075/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000010.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1345,
-                                "width": 872
+                                "height": 1341,
+                                "width": 875
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0075/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p1"
                         }
                     ]
                 }
             ],
             "thumbnail": [
                 {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000002.jpg",
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000010.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 872,
-                    "height": 1345
+                    "width": 875,
+                    "height": 1341
                 }
             ]
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[2]"
+                ]
+            },
+            "height": 1342,
+            "width": 877,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p2/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/p2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000009.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1342,
+                                "width": 877
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0075/canvas/p2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000009.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 877,
+                    "height": 1342
+                }
+            ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000002/00000010.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 875,
+            "height": 1341
         }
     ]
 }

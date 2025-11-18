@@ -196,19 +196,10 @@
             ]
         }
     ],
-    "thumbnail": [
-        {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000014.jpg",
-            "type": "Image",
-            "format": "image/jpeg",
-            "width": 888,
-            "height": 1361
-        }
-    ],
     "viewingDirection": "right-to-left",
     "items": [
         {
-            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0010/canvas/p1",
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0010/canvas/p1",
             "type": "Canvas",
             "label": {
                 "ja": [
@@ -219,11 +210,11 @@
             "width": 888,
             "items": [
                 {
-                    "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0010/canvas/p1/page",
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0010/canvas/p1/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0010/p1-image",
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0010/p1-image",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -233,7 +224,7 @@
                                 "height": 1361,
                                 "width": 888
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0010/canvas/p1"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0010/canvas/p1"
                         }
                     ]
                 }
@@ -247,6 +238,15 @@
                     "height": 1361
                 }
             ]
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000014.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 888,
+            "height": 1361
         }
     ]
 }

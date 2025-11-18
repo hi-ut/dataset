@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0756/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "当世武勇伝佐藤九郎二郎",
+    "metadata": [
+        {
+            "label": "題名",
+            "value": "当世武勇伝佐藤九郎二郎"
+        },
+        {
+            "label": "書名",
+            "value": "当世武勇伝"
+        },
+        {
+            "label": "画工名",
+            "value": "花陽楼国員画印"
+        },
+        {
+            "label": "和暦年月日",
+            "value": "（明治元年）(18680550550)"
+        },
+        {
+            "label": "版元名",
+            "value": "川伝"
+        },
+        {
+            "label": "版元住所",
+            "value": "（大阪）"
+        },
+        {
+            "label": "判",
+            "value": "中判"
+        },
+        {
+            "label": "形態",
+            "value": "竪絵 １枚"
+        },
+        {
+            "label": "彩色",
+            "value": "錦絵"
+        },
+        {
+            "label": "検印状況",
+            "value": "なし"
+        },
+        {
+            "label": "人名",
+            "value": "佐藤九郎二郎"
+        },
+        {
+            "label": "主題",
+            "value": "戊辰戦争"
+        },
+        {
+            "label": "細目",
+            "value": "肖像画"
+        },
+        {
+            "label": "その他固有件名",
+            "value": "北越戦争"
+        },
+        {
+            "label": "その他書誌事項",
+            "value": "尾張藩士、詞書あり、「十六」とあり"
+        }
+    ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico"
+}

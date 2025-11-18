@@ -2,10 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0003/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
     "label": "（道化武者づくし　穴の中の大将の図）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "metadata": [
         {
             "label": "題名",
@@ -72,6 +69,17 @@
             "value": "12.7×12.8㎝、附箋「穴の中の大将ハおりに入る小石川の大親玉いつもこわい顔してゐる故に家来共おそれるといふ訳をしるせし也」"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000003.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 472,
+        "height": 466
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0003/sequence/normal",
@@ -80,12 +88,13 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0003/canvas/p1",
                     "@type": "sc:Canvas",
+                    "label": "[1]",
                     "height": 466,
+                    "width": 472,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0003/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0003/canvas/p1",
                             "resource": {
@@ -97,25 +106,15 @@
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
                         "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000003.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 466,
-                        "width": 472
-                    },
-                    "width": 472
+                        "width": 472,
+                        "height": 466
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000001/00000003.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 466,
-        "width": 472
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }

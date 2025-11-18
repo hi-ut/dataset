@@ -2,14 +2,11 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/manifest.json",
     "@type": "sc:Manifest",
-    "attribution": "東京大学史料編纂所",
-    "label": "（諸人繁昌故なまづに礼をするの図）",
-    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
-    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "label": "瓢覃",
     "metadata": [
         {
             "label": "題名",
-            "value": "（諸人繁昌故なまづに礼をするの図）"
+            "value": "瓢覃"
         },
         {
             "label": "書名",
@@ -21,7 +18,7 @@
         },
         {
             "label": "請求記号",
-            "value": "0380-12-(24)"
+            "value": "0380-12-(33)"
         },
         {
             "label": "画工名",
@@ -57,13 +54,24 @@
         },
         {
             "label": "その他固有件名",
-            "value": "安政大地震"
+            "value": "安政大地震/仮宅"
         },
         {
             "label": "その他書誌事項",
-            "value": "鳶、あなぐら大工、土方、骨接ぎ、左官、材木屋、四文屋、大工、中間、屋根屋、駕籠屋、医者が礼をいっている図"
+            "value": "職人が仮宅で景気の話をする、詞書あり、えんまの子が出ている"
         }
     ],
+    "viewingDirection": "right-to-left",
+    "attribution": "東京大学史料編纂所",
+    "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
+    "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
+    "thumbnail": {
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 1317,
+        "height": 876
+    },
     "sequences": [
         {
             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/sequence/normal",
@@ -72,42 +80,33 @@
                 {
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 873,
+                    "label": "[1]",
+                    "height": 876,
+                    "width": 1317,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/p1-image",
                             "@type": "oa:Annotation",
-                            "format": "image/jpeg",
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0555/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 873,
-                                "width": 1318
+                                "height": 876,
+                                "width": 1317
                             }
                         }
                     ],
-                    "label": "[1]",
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000038.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "height": 873,
-                        "width": 1318
-                    },
-                    "width": 1318
+                        "width": 1317,
+                        "height": 876
+                    }
                 }
             ]
         }
-    ],
-    "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000029.jpg",
-        "@type": "dctypes:Image",
-        "format": "image/jpeg",
-        "height": 873,
-        "width": 1318
-    },
-    "viewingDirection": "right-to-left"
+    ]
 }
