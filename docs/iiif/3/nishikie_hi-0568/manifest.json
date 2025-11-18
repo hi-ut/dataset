@@ -231,7 +231,7 @@
                 ]
             },
             "height": 1323,
-            "width": 892,
+            "width": 882,
             "items": [
                 {
                     "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p1/page",
@@ -242,54 +242,13 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000054.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1323,
-                                "width": 892
-                            },
-                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p1"
-                        }
-                    ]
-                }
-            ],
-            "thumbnail": [
-                {
-                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000054.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "width": 892,
-                    "height": 1323
-                }
-            ]
-        },
-        {
-            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2",
-            "type": "Canvas",
-            "label": {
-                "ja": [
-                    "[2]"
-                ]
-            },
-            "height": 1323,
-            "width": 882,
-            "items": [
-                {
-                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2/page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/p2-image",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
                                 "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000053.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1323,
                                 "width": 882
                             },
-                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2"
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p1"
                         }
                     ]
                 }
@@ -303,14 +262,55 @@
                     "height": 1323
                 }
             ]
+        },
+        {
+            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "ja": [
+                    "[2]"
+                ]
+            },
+            "height": 1323,
+            "width": 892,
+            "items": [
+                {
+                    "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/p2-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000054.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1323,
+                                "width": 892
+                            },
+                            "target": "https://hi-ut.github.io/dataset/iiif/3/nishikie_hi-0568/canvas/p2"
+                        }
+                    ]
+                }
+            ],
+            "thumbnail": [
+                {
+                    "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000054.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "width": 892,
+                    "height": 1323
+                }
+            ]
         }
     ],
     "thumbnail": [
         {
-            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000054.jpg",
+            "id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000005/00000053.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "width": 892,
+            "width": 882,
             "height": 1323
         }
     ]

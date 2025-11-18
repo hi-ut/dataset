@@ -82,11 +82,11 @@
     "license": "https://www.hi.u-tokyo.ac.jp/tosho/shiryoriyo.html",
     "logo": "https://www.hi.u-tokyo.ac.jp/favicon.ico",
     "thumbnail": {
-        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000024.jpg",
+        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000022.jpg",
         "@type": "dctypes:Image",
         "format": "image/jpeg",
-        "width": 848,
-        "height": 1337
+        "width": 867,
+        "height": 1340
     },
     "sequences": [
         {
@@ -97,8 +97,8 @@
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/canvas/p1",
                     "@type": "sc:Canvas",
                     "label": "[1]",
-                    "height": 1337,
-                    "width": 848,
+                    "height": 1340,
+                    "width": 867,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/p1-image",
@@ -106,20 +106,20 @@
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/canvas/p1",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000024.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000022.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1337,
-                                "width": 848
+                                "height": 1340,
+                                "width": 867
                             }
                         }
                     ],
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000024.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000022.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "width": 848,
-                        "height": 1337
+                        "width": 867,
+                        "height": 1340
                     }
                 },
                 {
@@ -155,8 +155,8 @@
                     "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/canvas/p3",
                     "@type": "sc:Canvas",
                     "label": "[3]",
-                    "height": 1340,
-                    "width": 867,
+                    "height": 1337,
+                    "width": 848,
                     "images": [
                         {
                             "@id": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/p3-image",
@@ -164,20 +164,20 @@
                             "motivation": "sc:painting",
                             "on": "https://hi-ut.github.io/dataset/iiif/nishikie_hi-0507/canvas/p3",
                             "resource": {
-                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000022.jpg",
+                                "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000024.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 1340,
-                                "width": 867
+                                "height": 1337,
+                                "width": 848
                             }
                         }
                     ],
                     "thumbnail": {
-                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000022.jpg",
+                        "@id": "http://clioimg.hi.u-tokyo.ac.jp/EXT/nishikie/12000009/00000024.jpg",
                         "@type": "dctypes:Image",
                         "format": "image/jpeg",
-                        "width": 867,
-                        "height": 1340
+                        "width": 848,
+                        "height": 1337
                     }
                 }
             ]
